@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d8454a-d210-4d2b-98ac-a69f7a4f57d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/livetv_playlist.m3u" beforeDir="false" afterPath="$PROJECT_DIR$/all/livetv_playlist.m3u" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/bdix_iptv.m3u">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/all/livetv_playlist.m3u">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="34" column="108" selection-start-line="34" selection-start-column="108" selection-end-line="34" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.m3u</find>
+      <find>bosnia%20and%20herzegovina</find>
+      <find>https://raw.githubusercontent.com/freearhey/iptv/master/channels/</find>
+      <find>m3u.m3u</find>
+      <find>https://raw.githubusercontent.com/freearhey/iptv/master/categories/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/A/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/B/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/C/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/D/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/E/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/F/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/G_H/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/I_K/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/L_M/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/N_Q/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/R_S/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/T_Z/</replace>
+      <replace>m3u</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/category/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/country/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/all/livetv_playlist.m3u" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/IPTV.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dEivPRIB0CRKEPa8KWmEFrpra3" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="D:/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\T_Z" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\R_S" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\N_Q" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\L_M" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\I_K" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d8454a-d210-4d2b-98ac-a69f7a4f57d4" name="Default Changelist" comment="" />
+      <created>1568791181610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568791181610</updated>
+    </task>
+    <task id="LOCAL-00001" summary="m3u list">
+      <created>1568792693553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568792693553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="m3u list full">
+      <created>1568802077699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568802077699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme">
+      <created>1568807649336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568807649336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="images">
+      <created>1568810586007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568810586007</updated>
+    </task>
+    <task id="LOCAL-00005" summary="images">
+      <created>1568810937384</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568810937384</updated>
+    </task>
+    <task id="LOCAL-00006" summary="images">
+      <created>1568811116248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568811116248</updated>
+    </task>
+    <task id="LOCAL-00007" summary="images">
+      <created>1568811244501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568811244501</updated>
+    </task>
+    <task id="LOCAL-00008" summary="images">
+      <created>1568811371669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568811371669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init all">
+      <created>1573110870037</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573110870037</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.113072254" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.32978722" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Fabric" order="2" />
+      <window_info anchor="right" id="Android WiFi ADB" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m3u list" />
+    <MESSAGE value="m3u list full" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="images" />
+    <MESSAGE value="init all" />
+    <option name="LAST_COMMIT_MESSAGE" value="init all" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/country/README.md" />
+    <entry file="file://$PROJECT_DIR$/country/T_Z/uganda.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/T_Z/turkmenistan.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/R_S/switzerland.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/R_S/somalia.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/G_H/gibraltar.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809296025.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809482425.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809500513.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809516793.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809274051.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/bdix_iptv.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/livetv_playlist.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="34" column="108" selection-start-line="34" selection-start-column="108" selection-end-line="34" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

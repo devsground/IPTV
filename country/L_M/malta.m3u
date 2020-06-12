@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-malta.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.evoiptv.com/evotv%20icons/New%20IPTV%20Icons/discovermalta.png" group-title="None",Discover Malta
+NFUzTXQ1aWNsWjNiak5YYWtOSGJvOWljbFozYmpOWGFrTkhibzlTYnZObUwyUkhjcDltZGw1eWQzZDNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.evoiptv.com/evotv%20icons/PM.png" group-title="None",Drama
+NFUzTXQ1U1l0Rm1ja05IYm85U1l0Rm1ja05IYm85U2J2Tm1MMlJIY3A5bWRsNXlkM2QzTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="ITV Shopping-MLT" tvg-name="ITV Shopping-MLT" tvg-logo="https://i.imgur.com/oIlT2N9.png" group-title="Shop",ITV Shopping Channel
+PWdUZHowbUwyUlhhenhHYXZZSGRwTkhibzlTYnZObUwyUkhjcDltZGw1eWQzZDNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.evoiptv.com/evotv%20icons/MVTV.png" group-title="Music",MVTV
+PT1BTzFOVGJ1WUhkMjEyY3NoMkwyUm5kdE5IYm85U2J2Tm1MMlJIY3A5bWRsNXlkM2QzTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XqyfAYX.png" group-title="Music",MVTV
+NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidVlIZDIxMmNzaDJMMlJuZHROSGJvOVNidk5tTDJSSGNwOW1kbDV5ZDNkM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="One TV-MLT" tvg-name="One TV-MLT" tvg-logo="https://i.imgur.com/5EzuLfj.png" group-title="None",One TV
+NFUzTXQ1U1oybEdidlVtZHB4VVJPOTBMelJuYmxaWFp2QURNeGdUT3pnVE12TUhkdVYzYmpOV1l2MDJiajVTYmhWbWMwTlhaMmxHYnVjWFp1NVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6qrRPGz.png" group-title="Religious",River
+NFUzTXQ1aWNsWlhheU5IYm85aWNsWlhheU5IYm85U2J2Tm1MMlJIY3A5bWRsNXlkM2QzTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.evoiptv.com/evotv%20icons/tfal.png" group-title="Kids",Splaxxx
+PT1BTzFOVGJ1TUhacHQyY3NoMkx6Uldhck5IYm85U2J2Tm1MMlJIY3A5bWRsNXlkM2QzTHZvRGMwUkhh

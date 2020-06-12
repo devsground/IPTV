@@ -1,0 +1,65 @@
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VaGEoBo.png" group-title="Music",AlbMUSIC
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1eWMxMW1Zc0YyTHJWbllzRjJMMU1UT3hvamQwNXljdVJtYjVSbUxqbDJjMTFtWXNGMkx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="None",AlbUK TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTHJWbllzRjJMclZuWXNGMkwxTVRPeG9qZDA1eWN1Um1iNVJtTHJWbllzRjJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6hhXqlT.jpg" group-title="None",Apollon TV
+PWdUZHowbUx0RldaeVIzY3ZNSGJvOVNONUFETzZRVE11UWpNeTRDTTQ0U040RXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqhRPKb.jpg" group-title="None",Channel One
+PWdUZHowbUx6dG1iMWgyWXZVbWJ2eFdadTVXWW9OMkxsNTJic1ZtYnVGR2FqOVNNNEFETzZNVE54NGlNdWt6TXk0U04wRXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q1UOlkA.png" group-title="Music",EUROAL
+NFUzTXQ1Q2R6bEdicjVXZG9OMkxzRjBieVZYWnZVbWRweDJMMU1UT3hvVE16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vl0fzPT.png" group-title="Entertainment",Fine Living
+PWdUZHowbUwwTlhhc2xYWXNCM0x6UVROdlVtZHB4Mkx3QURNMW9UT3VBakx5TWpMd2N6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="None",Koha TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:-1 tvg-id="News 24 AL" tvg-name="News 24 AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5YWjJsR2J2UWpNemRYWnU5U000QURPNjAyYmo1aVlsZG5iaHRHYmhKbUwyUjNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="Ora News AL" tvg-name="Ora News AL" tvg-logo="https://i.imgur.com/KvPedxk.png" group-title="News",Ora News
+PWdUZHowbUx6dG1iMWgyWXZVbWRweDJMemRYWnVGbWN2OVNNNEFETzZNVE54NGlNdWt6TXk0U04wRXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A5jTxuh.jpg" group-title="None",Ora TV
+PT1BTzFOVGJ1SVhaME5YWXQ5eU01QWpNMllEUXg4VloybEdialIyTHA5Q000b0RkbDVtTGtoV2FoMVdZckZtTG94V0wyTVRaMmxHYnA1V2RqUjJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="None",Peace TV
+NFUzTXQ1aVZVVjJZaFZHVXZNSGJvOVNNNEFETzZnek54NHlOMjRDTnhFakx5Z3pMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gm5HRzC.png" group-title="None",Report TV
+NFUzTXQ1U2JoVm1jME4zTDBKM2J3Vm1jdjhGZHo1V2FtVkdaZjlpY250R2NsWlhhczlTWjJsR2J0TUhibzlDTndJakx6a2pMMVVqTDJZekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EAsSKAv.png" group-title="None",Rrokum TV
+PWdUZHowbUwwTlhhc2xYWXNCM0wyUlhiMXQyYnlKM0xsWlhhczlTTnprVE02SURNeTRTTjI0Q054RWpMeWd6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="RTSH 1 HD AL" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="None",RTSH 1 HD
+PWdUZHowbUwwTlhhc2xYWXNCM0wwUjNieDhGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="RTSH 1 HD AL" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="None",RTSH 1 HD
+PWdUZHowbUwwTlhhc2xYWXNCM0x6QTNYMFIzYng4RmF6Um5jdlVtZHB4Mkx5NENPMDRpTndFakw1Y3pMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="RTSH 2 HD AL" tvg-name="RTSH 2 HD AL" tvg-logo="https://i.imgur.com/xWigxIX.png" group-title="None",RTSH 2 HD
+PWdUZHowbUwwTlhhc2xYWXNCM0x6QTNYMFIzYnk4RmF6Um5jdlVtZHB4Mkx5NENPMDRpTndFakw1Y3pMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="News",RTSH 24
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TURjZlJIZHY5Rk55OEZhelJuY3ZVbWRweDJMeTRDTzA0aU53RWpMNWN6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="RTSH 3 HD" tvg-name="" tvg-logo="https://i.imgur.com/p1DDl1j.png" group-title="None",RTSH 3
+PWdUZHowbUwwTlhhc2xYWXNCM0x6QTNYMFIzYno4RmF6Um5jdlVtZHB4Mkx5NENPMDRpTndFakw1Y3pMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/45JzrHL.png" group-title="None",RTSH Femije
+PWdUZHowbUwwTlhhc2xYWXNCM0x6QTNYMFIzYmZWbWFwMVdabTlGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dvqV5C1.png" group-title="Movies",RTSH Film
+NFUzTXQ1Q2R6bEdiNUZHYnc5eU13OUZkMDkyWHR4V2FtOUZhelJuY3ZVbWRweDJMeTRDTzA0aU53RWpMNWN6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B9ZAhXA.png" group-title="Music",RTSH Muzike
+PWdUZHowbUwwTlhhc2xYWXNCM0x6QTNYMFIzYmZWMmFwcFhkdDlGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IN5rJ2J.png" group-title="None",RTSH Plus
+NFUzTXQ1Q2R6bEdiNUZHYnc5eU13OUZkMDkyWHpWSGJ3OUZhelJuY3ZVbWRweDJMeTRDTzA0aU53RWpMNWN6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UHG6Rve.png" group-title="None",RTSH Shqip
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SURjZlJIZHY5RmNwRkhhejlGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UHG6Rve.png" group-title="None",RTSH Shqip
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TURjZlJIZHY5RmNwRkhhejlGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://i.imgur.com/yQCzUi4.png" group-title="Sport",RTSH Sport
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TURjZlJIZHY5RmR5OUdjejlGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CW26UK9.png" group-title="None",RTV 1
+NFUzTXQ1U1pxNW1kMEozTHp4R2F2Z2pOdUlETXg0aU53RWpMNWN6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k6zUFcQ.png" group-title="None",RTV Pendimi
+PT1BTzFOVGJ1a1dicFJtYmxCbFZVSjFMenhHYXZFRE93Z2pPdDkyWXVrV2JwUm1ibEJuZDBKbkwyUjNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qkaS1Ui.jpg" group-title="Music",Top Sound
+NFUzTXQ1eWNyNVdkb04yTHdJek5mVm1kcHgyTFdSRlp1VjNiVEIzYlU5U2JoVm1jME4zTFdSRlp1VjNiVEIzYlU5eU0wUVRNNjAyYmo1Q1p1VjNiekIzYjBaSGR1NEdaajl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A0oBRAI.png" group-title="None",Tring Smile
+NFUzTXQ1Q2VsUm1icDlDWnoxaU0zY0RPdFVFVEoxMFVINVVTU1IxTHdnRE0zb1Ridk5tTDJSSGNwRkhhejVTYmhWbWMwTjNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="None",TV Boin
+NFUzTXQ1Q2N0WVhZZkJETXdJelg0VkdadWwyTDVrVE53Z3pNQUZ6WHVsMmJpWkhkdmsyTHdnak90OTJZdVFXWXZKblkwTlhZbTVTWTJSM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="None",TV7
+NFUzTXQ1Q053a3pOelVETjJRemRmUjNjcHgyYXVWSGFqOUNOMkF6TnZRak53Y3pMMU1UT3hvVGJ2Tm1MeVZtZHlWMmNobEdabDFXTDZGbUxobEdabDEyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="None",Zjarr TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTHlKWFlxcDFMbFpYYXM5U056a1RNNllqTnVJek14NHlNMzR5TnhJekx2b0RjMFJIYQ==

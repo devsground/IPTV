@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь-24" tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="News",Беларусь 24
+NFUzTXQ1eWNyNVdkb04yTGtoV1oybEdidlFHYTBJemMxSlhZc1ZtWXZrbll1SVhaME4zYm81U013VTJaa1ZXTXdVR2JpMVdhdTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="belmuztv" tvg-name="МузТВ Беларусь" tvg-logo="https://iptvx.one/icn/muztv.png" group-title="Entertainment",БелМуз ТВ
+PT1BTzFOVGJ1Z1haazVXYXZFekwyUjNjMTFHYmxKMkw1Sm1MelJYYnVZSGR1TVhiaFZtYzBOM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="tro" tvg-name="ТРО" tvg-logo="https://iptvx.one/icn/belros.png" group-title="None",БелРос ТВ
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2OG1jMDlTTXlOM0wxSm5MdVIyWWhsR1psMW1MeVVtZHB4Mkx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ" tvg-logo="https://iptvx.one/icn/ont-by.png" group-title="General",ОНТ
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2QW5OM1VUWjJsR2J2UW5idjlTTnprVE02a25ZdVFuYnY1U2JoVm1jME4zTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="Local",Радио ХИТ (Орск)
+PWdUZHowbUxraEdkcGgyTHp4R2F2VW5jdXMyY3k5bUxvTlhiaE5tTGtoR2RwaDJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ Беларусь" tvg-logo="https://iptvx.one/icn/stv-by.png" group-title="General",СТВ
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2VpWkhkajl5VU1oMEwyRVRNdUV6Tng0Q081NGlNeEl6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="tnt-int-by" tvg-name="ТНТ-International (Беларусь)" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TNTInternational.png" group-title="Entertainment",ТНТ International (Белоруссия)
+PWdUZHowbUw0VkdadWwyTHNGbWJ2bEdkaDVtY2xSbmJwOUZkdVIzTDVKbUx6UlhidVlIZHVNWGJoVm1jME4zTHZvRGMwUkhh

@@ -1,0 +1,77 @@
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz"
+#EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="None",Discovery
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2a25jbFozYmpOWGFrOVNaMmxHYnZBRE13VWpPd0VUTXVNVE55NHlOMkVqTHpnekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",Elektrika TV
+PWdUZHowbUwwTlhhc2xYWXNCM0x3UjJjdTBXWWxKSGRUbFhidlVtZHB4Mkw2Tm1MaHRXYXlSM2FseFdadUFYYjBKM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="Eurosport 1 HD-CZ" tvg-name="Eurosport 1 HD-CZ" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sport",EuroSports 1
+PWdUZHowbUwxQVRNMkZETXdRekx6eEdhdk1HY3RZSGR0a2pOd1lUTGg1R1p2QURNd2dqT3dJakx6TWpNdUVUTng0eU14SXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion",FashionTV Czech&Slovak
+PWdUZHowbUwwTlhhc2xYWXNCM0x0RldaeVIzY3ZZSGR1OVdhb05YWW05eWF6NXladWxXYmhWbWMwTm5MaXgyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="Filmbox-CZ" tvg-name="Filmbox-CZ" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="Movies",Filmbox
+PWdUZHowbUwxQVRNMlZETXdRekx6eEdhdk1HY3RZSGR0QVRNeFlUTGg1R1p2QURNd2dqT3dJakx6TWpNdUVUTng0eU14SXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.filmpro.cz/filmpro/images/logo-300.gif" group-title="Movies",FILMpro
+NFUzTXQ1Q2R6bEdiNUZHYnc5eWJ5Qlhic2xtWnY4RmR6NVdhbVZHWmY5U01sWlhhczFDYXpGR2JtMVNlclJXWXNoR2JsWlhZd0ozWnQ5U056a1RNNlVYWnU0R1pqMVdZbEpIZHo1U015VkdkekZXYm9OWFlzWjJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids",JimJam
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZcTFXYXE5U1oybEdidkFETXdVak93RVRNdU1UTnk0eU4yRWpMemd6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3ToGFGU.jpg" group-title="None",Klik TV
+PWdUZHowbUxqVTNNdDV5YXB4MmF2UWpNeTRDTnpJakx5WWpMeWt6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="Nova-CZ" tvg-name="Nova-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Nova_logo_2017.png/250px-TV_Nova_logo_2017.png" group-title="None",Nova
+NFUzTXQ1U2NvOVZaMmxHYnZVbWVqOUNkemxHYjVGR2J3OVNZeU5XYnZNSGJsNW1iaGgyWXZvM1l1RW1jajVpYmtObUxzTjNjdVVtZHB4V0xoWjNidTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="Nova 2 HD-CZ" tvg-name="Nova 2 HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nova_2_logo-600x207.png/375px-Nova_2_logo-600x207.png" group-title="None",Nova 2
+NFUzTXQ1U2NvOVZaMmxHYnZVbWVqOUNkemxHYjVGR2J3OXlaeU5XYnZNSGJsNW1iaGgyWXZvM1l1RW1jajVpYmtObUxzTjNjdVVtZHB4V0xoWjNidTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="Nova Action-CZ" tvg-name="Nova Action-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="None",Nova Action
+PWdUZHowbUx0RldaeVIzYzUxMkx5QVRNdk1qTXk0Q056SWpMeVlqTHlrekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="Nova Cinema HD-CZ" tvg-name="Nova Cinema HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="None",Nova Cinema
+NFUzTXQ1U2NvOVZaMmxHYnZVbWVqOUNkemxHYjVGR2J3OVNheU5XYnZNSGJsNW1iaGgyWXZvM1l1RW1jajVpYmtObUxzTjNjdVVtZHB4V0xoWjNidTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="None",Nova Gold
+NFUzTXQ1U2NvOVZaMmxHYnZVbWVqOUNkemxHYjVGR2J3OUNheU5XYnZNSGJsNW1iaGgyWXZvM1l1RW1jajVpYmtObUxzTjNjdVVtZHB4V0xoWjNidTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://polar.cz/images/layout/header/logo.png" group-title="None",Polar TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RVRMbFpYYXNKWFlzOUdjdklYWXM5R2N2bzNZdUlYWXM5R2N1MFdZbEpIZHo5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prahatv.eu/images/layout/header/logo.png" group-title="None",Praha TV
+PWdUZHowbUwwTlhhc2xYWXNCM0x4MFNaMmxHYjJSWFlvRm1jdzlpZDBGR2FoSkhjdm8zWXVJWFlzOUdjdTBXWWxKSGR6OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="Prima HD-CZ" tvg-name="Prima HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/300px-Prima_TV_logo.svg.png" group-title="None",Prima
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q1pvOVZZdGxtY3c5U1oybEdidkFETXdVak93RVRNdU1UTnk0eU4yRWpMemd6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="Prima Cool HD-CZ" tvg-name="Prima Cool HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prima_Cool_logo.svg/1200px-Prima_Cool_logo.svg.png" group-title="None",Prima Cool
+PWdUZHowbUx0RldaeVIzYzUxMkwwQVRNdk1qTXk0Q056SWpMeVlqTHlrekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://krimi.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-krimi-cover.jpg" group-title="None",Prima Krimi
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2F0bG1jcjlWWXRsbWN3OVNaMmxHYnZBRE13VWpPMkVUTXVNVE55NHlOMkVqTHpnekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-nbAar05h3ZU/TV4Kwi0PX2I/AAAAAAAAAHI/pFwNnGVVJeA/s1600/Prima_Love_logo_2011.png" group-title="None",Prima Love
+PWdUZHowbUx0RldaeVIzYzUxMkx4QVRNdk1qTXk0Q056SWpMeVlqTHlrekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://max.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-max-cover.jpg" group-title="None",Prima Max
+PWdUZHowbUwwTlhhc2xYWXNCM0w0RVROdlVtZHB4Mkx3QURNMW9UT3VBakx5TWpMd2N6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Retro Music Television
+PWdUZHowbUwwTlhhc2xYWXNCM0x4RUZTMlIzYnlSWFp5OWlkMDltYzBWbWN2VVROdU1UTnk0U040RWpMNWd6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="none" group-title="Music",Retro Music Television
+Wk5UV3pOVGJ5OFNlczVDZHBKMkx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="Music",Retro Music Television
+NFUzTXQ1eU0zVURPNWtUT3hFemRmUjNjcHgyYXVWSGFqOVNNUmhrZDA5bWMwVm1jdjhpZDA5bWMwVm1jdm8zWXVzbWN2ZFhZcFJXWnQ1U2JoVm1jME4zTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+PT1BTzFOVGJ1Y0RPek16TXhFVE01RXpkZlIzY3B4MmF1VkhhajlTTVJoa2QwOW1jMFZtY3Y4aWQwOW1jMFZtY3ZvM1l1c21jdmRYWXBSV1p0NVNiaFZtYzBOM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+NFUzTXQ1Q2R6bEdiNUZHYnc5U01SaGtkMDltYzBWbWN2OGlkMDltYzBWbWN2bzNZdXNtY3ZkWFlwUldadDVTYmhWbWMwTjNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/musica/retrotv.png" group-title="Music",Retro Music Television
+PT1nZDBCWFN3OUdWdkJYZHlkMFA0VTNNdDVDZHpsR2I1RkdidzlTTVJoa2QwOW1jMFZtY3Y4aWQwOW1jMFZtY3ZvM1l1c21jdmRYWXBSV1p0NVNiaFZtYzBOM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+NFUzTXQ1eU53a0RNeU1qTTFZVE0zOUZkemxHYnI1V2RvTjJMeEVGUzJSM2J5UlhaeTlpZDA5bWMwVm1jdm8zWXVzbWN2ZFhZcFJXWnQ1U2JoVm1jME4zTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+NFUzTXQ1U1pzbEdhajl6Y3BSWFl5ZG1kMEJYYS9nVGR6MG1MNFFETTVNak4zSWpOMzlGZHpsR2JyNVdkb04yTHhFRlMyUjNieVJYWnk5aWQwOW1jMFZtY3ZvM1l1c21jdmRYWXBSV1p0NVNiaFZtYzBOM0x2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+PWdUZHowbUwwTlhhc2xYWXNCM0x4RUZTMlIzYnlSWFp5OWlkMDltYzBWbWN2bzNZdXNtY3ZkWFlwUldadDVTYmhWbWMwTjNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="None",Východočeská TV
+PWdUZHowbUwwTlhhc2xYWXNCM0x4MFNaMmxHYjJSM1kyOWlkME5tZHZvM1l1SVhZczlHY3UwV1lsSkhkejl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="Music",Óčko
+PWdUZHowbUwwTlhhc2xYWXNCM0x2dDJZdjl5Y3NWbWJ1RkdhajlpZWo1U1l5Tm1MdVIyWXV3MmN6NVNaMmxHYnQ4MmFqOTJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="Music",Óčko
+PWdUZHowbUx4aDJYbFpYYXM5U1o2TjJMME5YYXNsWFlzQjNMdnQyWXY5eWNzVm1idUZHYWo5aWVqNVNZeU5tTHVSMll1dzJjejVTWjJsR2J0ODJhajkyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="Music",Óčko Expres
+NFUzTXQ1U2NvOVZaMmxHYnZVbWVqOUNkemxHYjVGR2J3OXljbEpIYzRWMlh2dDJZdjl5Y3NWbWJ1RkdhajlpZWo1U1l5Tm1MdVIyWXV3MmN6NVNaMmxHYnQ4MmFqOTJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="Music",Óčko Gold
+PT1BTzFOVGJ1RUhhZlZtZHB4MkxscDNZdlEzY3B4V2VoeEdjdlFHYnZkMlh2dDJZdjl5Y3NWbWJ1RkdhajlpZWo1U1l5Tm1MdVIyWXV3MmN6NVNaMmxHYnQ4MmFqOTJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music",Óčko Gold
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTHg0U2JoVm1jME5uTGt4MmJuOTFick4yYnZJVFoybEdiZkZtY2o5aWVqNVNZeU5tTHVSMll1dzJjejVDYXpGR1p0VW1kcHhXTHZ0Mll2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/225px-%C4%8CT1_logo_2012.svg.png" group-title="None",ČT1
+PWdUZHowbUwxQVRNMkpETXdRekx6eEdhdk1HY3RZSGR0QURNeFVUTGg1R1p2QURNd2dqT3dJakx6TWpNdUVUTng0eU14SXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Music",Šlágr
+PT1BTzFOVGJ1RUhhZlZtZHB4MkxscDNZdlEzY3B4V2VoeEdjdllIZHlkV1lzTjNMenhXWnU1V1lvTjJMNk5tTGhKM1l1NEdaajVDYnpObkx6eEdhdFVtZHB4V0wyUm5jbkZHYno5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starnet.cz/tv/slagr2.png" group-title="None",Šlágr 2
+PT1BTzFOVGJ1TVNkejBtTHlJM1poeDJjdk16TXk0Q056SWpMeVlqTHlrekx2b0RjMFJIYQ==
