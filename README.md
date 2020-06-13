@@ -18,10 +18,13 @@ Over 7500+ international channels are available now.
 
 ## Combined
 These are the combined playlist of several countries for this IPTV app.
+- `https://raw.githubusercontent.com/devsground/IPTV/master/all/livetvhd.m3u`  (WORLDWIDE)
+
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/grouped_by_country_and_content.m3u` (grouped by country and content)
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/grouped_by_country.m3u` (grouped by country)
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/grouped_by_content.m3u` (grouped by content)
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/international.m3u` (International)
+
 
 ## Playlists by country
 
@@ -228,6 +231,9 @@ These are the combined playlist of several countries for this IPTV app.
 | Travel        | `https://raw.githubusercontent.com/devsground/IPTV/master/category/travel.m3u`
 | Weather       | `https://raw.githubusercontent.com/devsground/IPTV/master/category/weather.m3u`
 | Other         | `https://raw.githubusercontent.com/devsground/IPTV/master/category/other.m3u`
+| BDIX TV       | `https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u`
+| WORLDWIDE TV  | `https://raw.githubusercontent.com/devsground/IPTV/master/all/livetvhd.m3u`
+
 
 ## Notice
 If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)
