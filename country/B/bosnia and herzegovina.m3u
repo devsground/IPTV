@@ -1,7 +1,10 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
-#EXTINF:-1 tvg-id="Al Jazeera-EXYU" tvg-name="Al Jazeera-EXYU" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/aljazeera_balkans-logo.png" group-title="News",Al Jazeera Balkans
-PT1BTzFOVGJ1QWpOeDh5Y3VGMmFzRm1ZdkVtY2xWbWVocEdiaDlTWnNCSGNoOUNkbDVtTHp3V1oyVkdidVVtZHBSSGNoUldZdVVtZHB4V0xseEdjd0ZXTHo1V1lyeFdZaTFTWXlWV1o2Rm1hc0YyTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="BN Televizija-EXYU" tvg-name="BN Televizija-EXYU" tvg-logo="https://i.imgur.com/8UD164r.png" group-title="None",BN Televizija
-NFUzTXQ1Q055TURNd2N6TjFrVE0zOUZkemxHYnI1V2RvTjJMdEZXWnlSM2N2VW1kcHgyTDFNVE94b1Ridk5tTHVKbWQwSm5MdEZXWnlSM2MyUjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="None",Televizija 5
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="BOSNIA",Televizija 5
 PWdUZHowbUxpVjJkMVlIZHZVbWRweDJMNUFETzRvek54SWpMeElqTDVVakwzTXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPCLrR9.png" group-title="BOSNIA",777 Tehnika TV
+PWdUZHowbUwwTlhhc2xYWXNCM0wzY3pOMlJYWXJsbWJvVkdkdmN6TjNZSGRodFdhdWhXWjA5U056a1RNNmNqTXVBek51TWpNeDRTT3dFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atNCt4y.png" group-title="BOSNIA",Hema TV
+PT1RTWgxV1pvOUNNNEFETzZBVE51a0RNeTRDT3pJakwzY3pMdm9EYzBSSGE=
