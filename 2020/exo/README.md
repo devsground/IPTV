@@ -1,23 +1,25 @@
-## Playlists category: bdix
+## Playlists category: global
 
-| Name          | Playlist                               | Short
-| :-----------: | :-------                               | :-------
-|   exo00        | ``    | `https://bit.ly/exo00`
 
+|   Name         | Playlist
+|  :-----------: | :-------
+|   exo00        | `https://raw.githubusercontent.com/devsground/IPTV/master/2020/exo/exo_all.m3u`
+|   alternate    | `https://bit.ly/exoall00`
+
+
+|   Name         | Playlist                               | Short
+|  :-----------: | :-------                               | :-------
 |   exo01        | `https://pastebin.com/raw/VKVYwA19`    |
 |   exo02        | `https://pastebin.com/raw/vsHdbBCa`    |
 |   exo03        | `https://pastebin.com/raw/JVw49ger`    |
 
 
 ## Supported applications:
-1. m3u player: Live TV HD for Internet TV:
-   bit.ly/37DVrCa
 
-2. IPTV Lite - HD IPTV Player
-   bit.ly/2V0nEAI
+Choose any of the IPTV player
+https://play.google.com/store/apps/dev?id=7053436804067704459
 
-3. Live TV HD - IPTV player for Entertainment 24/7
-   bit.ly/3bRxdYP
+or Search IPTV Lite - HD IPTV Player on playstore
 
 ## Notice
 If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)

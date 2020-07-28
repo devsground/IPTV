@@ -231,9 +231,22 @@ These are the combined playlist of several countries for this IPTV app.
 | Travel        | `https://raw.githubusercontent.com/devsground/IPTV/master/category/travel.m3u`
 | Weather       | `https://raw.githubusercontent.com/devsground/IPTV/master/category/weather.m3u`
 | Other         | `https://raw.githubusercontent.com/devsground/IPTV/master/category/other.m3u`
-| BDIX TV       | `https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u`
-| WORLDWIDE TV  | `https://raw.githubusercontent.com/devsground/IPTV/master/all/livetvhd.m3u`
 
+| BDIX TV       | `https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u`
+| WORLDWIDE TV1  | `https://raw.githubusercontent.com/devsground/IPTV/master/all/livetvhd.m3u`
+| WORLDWIDE TV2  | `https://raw.githubusercontent.com/devsground/IPTV/master/2020/exo/exo_all.m3u`
+
+
+
+## Supported applications:
+
+Choose any of the IPTV player
+https://play.google.com/store/apps/dev?id=7053436804067704459
+
+or Search IPTV Lite - HD IPTV Player on playstore
+
+## Notice
+If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)
 
 ## Notice
 If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)
