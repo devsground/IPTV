@@ -1,0 +1,864 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="News",ABC News
+NFUzTXQ1U1ppWmpZM2dUT2tOV05qTkdNaU5qWTVJek0wRUROamRqTjBJalowSXpNejhDYmw1bWJoaDJZdjAyYmo1eWF1bEhid1ZuTDA1V1owNTJiajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="News",Africa News
+NFUzTXQ1eWMzVm1UaE5XYXlaV1F2NFdacjlHVnZnVFZ6MDBMeVZHZHpGV2J2WUZWUWwwTHlWbWRwUjJiNFYyTHQ5Mll1UW5ibFJuYnZObWNsTlhkaVZIYTBsMlp1Y1hZeTl5TDZNSGMwUkhh
+
+#EXTINF:-1 logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="News",Arirang
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdWcyWXg4MVp1Rm1jcEpYWTZ3V2F0TjNMb05XTWZkbWJoSlhheUYyTDBWbWJ1VUdkcFYzY2xkR1psNVNidk5tTGs1R2RqNVNNd2cyWXRVbWRweEdadEYyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera English
+PT1BTzFOVGJ1RURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
+PWdUZHowbUwwTlhhc2xYWXNCM0x0RldaeVIzY3VnMlpwaG1MM0l6TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
+PWdUZHowbUwxSURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzSjNiMzkxWWlKMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
+PWdUZHowbUx5VkdkekZXYnZFMllsVkdaeVlUTmtORE9tQnpOMEVtTTRVR056RWpaNFVHTzBZRE9oVlROdkVqZHZRWGR2OVNidk5tTHpkWFp1Tm5ZajVTYmhWbWMwTm5iekoyWXVNWGE0VkdabE5XTHpWWEx1Tm5Zajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="News",Cheddar Big News
+NFUzTXQ1Q2VsUm1icDlpYmlOMkx0OTJZdU1XYTBGR2R6Skhab05tTGxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="News",CGTN
+NFUzTXQ1Q2VsUm1icDkxWnZKSGN2QURNd0V6THQ5Mll1NEdkbk5tTGxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN International
+NFUzTXQ1Q2R6bEdiNUZHYnc5aWJ1TjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="News",CNBC World
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNUNNekVETnZVbWRweDJMdDkyWXU0MmJ0eFdhbTVpZG4xQ2FqMWlNNUVUTXRVMlprVjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="News",Deutsche Welle (English)
+NFUzTXQ1Q2N0WVhZZlJ6WDRWR1p1bDJMNUl6TXhNVE1BVm1kcHgyWDAwV1lsSkhkemRIWnZrMkwwVm1idVFHYXBGV2JodFdZdWdHYnRRVGJoVm1jME4zZGs5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2NrTm5MelVXTW1WV04yTXpOM0VEWmtKV016WUdONGdUTm1Wek40TVdNakZXTTJrekxUZFZST2gxVEc5U2J2Tm1MdVIyWXpSbmJsTldOdVVtZHB4V0x6eEdhdE1UTjR4bWIwY25Nc2R6YWk5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="News",FOX Business
+PT1BTzFOVGJ1VW5id05YWnZ3V2FoMVdadUlXWXNKbUx5RVdibjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="News",France 24
+NFUzTXQ1Q013QWpNZkpYWjBOWFl0OXlVTWgwWEpoMFhPVjBYMElqUnZjRE54RWpNeThTWjJsR2J2TUhibzlDZGw1bUxraFdhaDFXWXJGbUxwMXljc2hHTnlZMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
+PWdUZHowbUwwTlhhc3RtYjFoMll2VXpYNUZHWnZSWFlwUm1icDlTWjJsR2I1RkdadlJYWXBSbWJwOVNlaFIyYjBGV2FrNVdhdkFqTXpRVE13SXpMbFpYYXM5eWNzaDJMMFZtYnVRV1o2bFdZdEYyYWg1U1oybEdiNUZHWnZSWFlwUm1icDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdUlETzBNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="News",Mirror Now
+PWdUZHowbUx5VkdkekZXYnZVRE4xWUROekFVTWY1a1VOOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMWlZbGQzZHY1bVl0OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="News",Times Now
+PT1BTzFOVGJ1QVhMMkYyWHdJek5maFhaazVXYXZnRE95a2pNeEFVTWZSRVNPUjFMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMMzltYnpWV2JwUjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="News",NDTV 24X7
+NFUzTXQ1aWNsUjNjaDEyTjRSak0yUkhadTl5TjRSak0yUkhadTlDTzNZek13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxoNVdZb05tY2gxV1pzVjJONFJqTTJSSFp1OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="News",Newsmax
+PWdUZHowbUx3Z0RNeDhGZWxSbWJwOVNNZlZtZHB4MEwxWVRPNUlUTnZVbWRweDJMenhHYXZRWFp1NUNabHBYYWgxV1lyRm1MbFpYYXNoWGJ1OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="News",NHK World
+PT1BTzFOVGJ1VW1kcHgyTDRVRE56QURNeThDYmhKMmJzZDJMMlJYTGt4bWN2ZDNhbzUyTHhFemQzZDNMd3BtTGw1bUx0RldaeVIzY3U0R1pqSldaMzVDWnNKM2IzdEdhdTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT
+PT1BTzFOVGJ1STJTd0FUTnk4MU13RVRNdkFETzZRWFp1NUNkdWxtY3dSM2J2Wm1MbEpYZGpWMmN1TTNkbDVXTDBKM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="News",Sky News
+NFUzTXQ1Q2R6VkdkaHgyTHpFRE14OHljaE5XYXlWV2JoTjNkbDVXZXJOM2NzaEdaajlDZGw1bUxrVm1lcEZXYmh0V1l1OG1kdFVtZHB4MmIwVkhidzFpTXpkWFp1bDNhejl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="News",Telesur English
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2UUdhdk1qZGxaWGFzSldidlFYWnU1Q2R1OW1jbVJXZHZ4Mll1SVRPMUlEZG1KV1p4YzJOazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="News",Weather Channel
+PT1nYnYxVFp6Rm1ZbEpuSndFVFBrTjNQNFUzTXQ1aVl0WVhZZkJETTBJelg0VkdadWwyTDJBRE15a0RReDgxWTNSM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x5VkdhMEZXWjM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="News",WeatherNation TV
+NFUzTXQ1U00xY0RPeVFET3k4Q1pKWm1idk5VYTE5Q2MwUkhhdncyYmo5R2R2SkhjdkFIZDBoV1pzQkhjaDlDZGgxbWN2WjJMeVUyWmpobmN2OTJYeDhDWkpsbmMwNVdadlEzY2xaV2F1RldUNUZHYnc5Q013SURNM0V6TTU4Q2N6OWlNd2NUTXprekx3OVNidk5tTGhKWGQweFdZcjVTYXdGbWJrTjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Financial News",Bloomberg Asia
+PWdUZHowbUxsWlhhczlWTXRBRE13RVRMelpYY1dSRlVCMVNaakpYZHZOMUx4MHliNXQyYjAxeVVYRlVMelpYY1dSRlVCMUNibDVtYmhoMlF2RURjaDlDZGw1bUw1eEdkekZtWnV3MmN6NUNiaEoyYnNkbUwwTlhZbGhHZHk5bWJ3RkdadkpIY2xaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Financial News",Bloomberg US
+PWdUZHowbUxsWlhhczlWTXRBRE13RVRMV1IxVVYxU1pqSlhkdk4xTHgwU1lwNVdhbkpYYTIxeVVYRlVMV1IxVVYxQ2JsNW1iaGgyUXZNWGR2UVhadTVTZXNSM2NoWm1Mc04zY3V3V1lpOUdibjVDZHpGV1p6VkhadkpIY2xaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bloomberght.com/images/logo.png" group-title="Financial News",Bloomberg HT
+NFUzTXQ1Q2N3SXpOZlJIYW5KWFppMTJidnhtWXZRSGFuSlhaaTEyYnZ4bVl2UVhadTVpYmtObWJ2bFdZazVpY2w1V2FqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="Financial News",Cheddar
+PT1BTzFOVGJ1a25jaDFXYXlCM0x1SjJZdjBXWWxKSGRUUldadWQzVHlGR1prVkdhRDlDTXlZak0wMGljaFJHWmxoMll2MDJiajV5WXBSWFkwTm5ja2gyWXVVbWRweFdadDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="Financial News",CNBC 18
+PT1BTzFOVGJ1QVhMMkYyWDE4RmVsUm1icDlDTzJnRE4zRURReDhGT3hZSGRqSm1iajlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFDT3hZSGRqSm1iajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="Financial News",CNBC Indonesia
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTDJSM1lpNTJZNndXYXROM0xqSm1ialZtZHB4Mkx0OTJZdUVXYXpWbWJ2Um1icE5tWXVObUxsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Financial News",CNBC आवाज़
+NFUzTXQ1Q2N0WVhZZlZ6WDRWR1p1bDJMeWNETzBjVE1BRnpYNkZXWTNGMllpNTJZdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didG9YWWhkWFlqSm1iajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/ETNOW.in.png" group-title="Financial News",ET Now
+PT1BTzFOVGJ1SVdMMkYyWDJjVE5maFhaazVXYXZBek53Z0ROekFVTWY1RVZGOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMVNaMmxHYmlWMmQzOW1iMFYyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
+NFUzTXQ1aU1BQkhNNFF6WGlKWFowTlhZdDlDZHBaMmJ5Qm5kMFJtYnZJV0x3Z2pOekFETXk4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdUVtYmhoMll5RldibHhXWjBsbVp2SkhjMlJIWnU5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTEspanol.ru.png" group-title="Noticias",RT Español
+NFUzTXQ1aVlMQkRNMUl6WHlBVE14OENNNG9EZGw1bUwwNVdheUJIZHY5bVp1VW1jMU5XWno1Q2N6VldMMEozTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="Noticias",Intereconomía
+NFUzTXQ1aWQwOW1jdlJIYmw5eWNzaDJMelZtTGhsR1psMVdZazUyYnVFemJsUldhMkpIZHo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Noticias",RTP Internacional 
+PWdUZHowbUwwQkhiejlGTXdBRE01SVRNaTlGZHpsR2JyNVdkb04yTHNsV2J6NVNhd1JuYzZ3V2F0TjNMeVZHZGhWR2NsSlhaMmxHYnZRSGN1QUhkeTVTWjJsR2J0Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pt/RtpAfrica.pt.png" group-title="Noticias",RTP Africa
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTGhOV2F5WldZd1JuYzZ3V2F0TjNMeVZHZGhWR2NsSlhaMmxHYnZRSGN1QUhkeTVTWjJsR2J0Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Noticias",Telesur
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2UUdhdjRXYWgxVVoybEdiaTEyTHdnak8wVm1idVFuYnZKblprVjNic05tTDFJemR1Ukhad2RXTTBwV1l5UTJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Новости",Россия 24
+PT1BTzFOVGJ1SXpYME5YYXNsWFlzQjNMMEl6WGhsMmN6Vm5jdk1IYm85Q2RsNW1MNGxtYmxkbWJ1NEdaajVTTTRnak55TVhMellETTRVRE41WVROekUyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="Новости",CGTN Россия
+NFUzTXQ1Q2VsUm1icDkxWnZKSGN2SUhNd0FUTXYwMmJqNWliMGQyWXVVbmNsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/Euronews.ru.png" group-title="Новости",Euronews Русский
+NFUzTXQ1U2J5OEZkemxHYjVGR2J3OVNhME4zYjI5bWJ2Sm5kbDlTTXlOM0wxSm5MdVIyWWhsR1psMW1McFIzY3ZaM2J1OW1jMlYyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Новости",РБК
+PT1BTzFOVGJ1Z1haazVXYXZBbk4zVXpYMlIzWWlKM0xsNVdhczUyYnZVbmN1TW1ZeTV5YmxSV2EyNVNadWxHYnU5Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="MIXED03",NWS:Al Araby 1
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdTBXWWxKSGR6NVNlaUZtY2h4V1k2d1dhdE4zTDVKV1l5RkdiaDlTYnZObUxrbG1kcFIzWXY1aWJrTm1MNUpXWXlGR2JoOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="MIXED03",NWS:Al Arabiya
+PWdUZHowbUx3QkRPd0V6WDBOWGFzbFhZc0IzTHNsV2J6NVNZNWxtWWhKWFlzRjJMb05YYXNKV2R3RldhaUZtY2h4V1l2UVhadTVTWTVsbVloSlhZc0ZtTGxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="MIXED03",NWS:Al Hadath
+PWdUZHowbUx3QkRPd0V6WDBOWGFzbFhZc0IzTHNsV2J6NUNhMEZHWmhoR2JoOUNhemxHYmlWSGNobG1ZaEpYWXNGMkwwVm1idUVXZXBKV1l5RkdiaDVpZGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="MIXED03",NWS:Al Jazeera
+PT1BTzFOVGJ1RURNdkVrU0I5Q2RsNW1McUZHZGxkbUxocFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="MIXED03",NWS:Al Hurra
+PT1BTzFOVGJ1WVRPMUl6WHlWR2R6RldidlVtWmhOSFpzSjNiMzlpTXlFak40VXpMbFpYYXM5eWNzaDJMMFZtYnVRR2FwRldiaHRXWXVrV0xreG1jdmRIZHpWMlp1bG1iaTEyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="MIXED03",NWS:Al Hiwar
+PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpY2hkWGFveFdZNndXYXROM0xsWlhhczlsY2hkWGFveFdZdjAyYmo1aWJrTm1idDVDYnUxaWJ0OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="MIXED03",NWS:Al Sharqiya News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdUVETTBOWFowcERicDEyY3ZVbWRweFdZNWxXY3lGR2F6eFdZdlV6TTVFak80TVRNdWNUTnVnek14NENPNEV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" group-title="MIXED03",NWS:ANN
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NG1iaDlpYnVGMkwxTVRPeG9UYnZObUxsTm1jdlpHZWxSbWJwNUNPejUyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="MIXED03",NWS:BBC عربى
+NFUzTXQ1aU16QUROd1lUTWtOVEp2VkdacFpYTHdBRE0ya0RaelV5TWhCWEwyUjNYamxtWWhKWFlmTm1ZaTlDYnROWGF1WUhkZk5XYWlGbWNoOTFZaUoyTDJSM1hqbG1ZaEpYWWZObVlpOXlhMTUyYnU5U1oybEdidklETTU4RmJ2OUdjdnNXZHU4Mll1azJZaUptTGsxbUxtTm1MbFpYYXM1eWQzMXljc2hXTHpaM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="MIXED03",NWS:عربية CNBC
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SW5ZaFZtZHB4MkxqSm1iajlDZGw1bUx1UjJZa2xtY2lsR2F1UTJiMjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="MIXED03",NWS:CGTN عربى
+NFUzTXQ1U1l0NEdkbk4yTGpsbVloSlhZdlVtZHB4MkxsTm1jMTkyY2xKM0x0OTJZdTRHZG5ObUx6ZFhadTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="MIXED03",NWS:DW عربى
+PWdUZHowbUx5VkdkekZXYnZBRE0wUWpNeEFVWjJsR2JmSlRiaFZtYzBOM2RrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMWlNdEZXWnlSM2MzUjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/en/corporate/channels/alhadath/main/0/imageBinary/ab183bf5467dc16c6e230e38b9d1f9f5029b4a90/alhadath.png" group-title="MIXED03",NWS:Libya Al Hadath
+NFUzTXQ1Q2EwRkdaaGhHYmgxU1k1SldhczlDYTBGR1poaEdiaDFTWTVKV2FzOUNkbDVtTHVSMll5Vm1MaDVXWnRKWFkwTjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="MIXED03",NWS:RT عربى
+PT1BTzFOVGJ1STJTd0FUTnk4Rk53RVRNdkFETzZRWFp1NUNkdWxtY3dSM2J2Wm1MbEpYZGpWMmN1SVdZeUZXTDBKM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/SNA.png" group-title="MIXED03",NWS:Sky News عربى
+PT1BTzFOVGJ1QWpNMzhWWXVOM0x6eEdhdjAyYmo1U1lwSldZeUYyYzNWbWI1dDJjdTBXWWxKSGR6OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="MIXED03",SPRT:beIN Xtra
+NFUzTXQ1Q2N3Z0RNeFEzY3B4V2VoeEdjdlEzY2xkbWJwOWlkMDVTYW5GV2JoNVNkcjltY3RFbWMwaFhMdWxXWmk5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="MIXED03",SPRT:Eurosport 1
+NFUzTXQ1U01mbERNMThTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png" group-title="MIXED03",SPRT:Eurosport 2
+NFUzTXQ1Q2VsUm1icDlDTTRRelh5UW5jdkIzY3ZKWGRsMXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" group-title="MIXED03",SPRT:Edge Sports
+PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdk1IZHk5R2N6VjJaa1ZXTEJGa01CRlVRbjFXYWZGR2RoUjJYenhHYWZsMlpoMVdZdlFYWnU1Q1pscFhhaDFXWXJGbUxsZEdabGRXYnA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="MIXED03",SPRT:Olympic Channel
+PT1BTzFOVGJ1RXpYeE0wVHZVM0wwVjNidjAyYmo1Q2JsNW1iaGgyWWpsR2N0bEhidjVTWjJsR2J0UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="MIXED03",SPRT:Olympic Channel 2
+PWdUZHowbUx3QURNMFlETTM4Rk1mOVVSRWxrVmZKWFlsNVdhTU4zWXBCWGI1eDJUamxHZHpWV2J2UjBMMkV6TXhJak01SWpOd0lYWWw1V2FzbEhidjlTTnpFRE54VXpMbFpYYXM5eWNzaDJMMFZtYnVRR2FwRldiaHRXWXVrV0xzVm1idUZHYWpOMmJwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsNews.uk.png" group-title="MIXED03",SPRT:Sky Sports News
+PT1BTzFOVGJ1Z1haazVXYXZBRE8wODFjM1ZtYnRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsAction.uk.png" group-title="MIXED03",SPRT:Sky Sports Action
+NFUzTXQ1Q2VsUm1icDlDTXljelh1OVdhME5XWXRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsArena.uk.png" group-title="MIXED03",SPRT:Sky Sports Arena
+PWdUZHowbUw0VkdadWwyTHdJek5mRm1ibEpYWXRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsMix.uk.png" group-title="MIXED03",SPRT:Sky Sports Mix
+NFUzTXQ1Q2VsUm1icDlDTTRRelg0bFdidE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="MIXED03",SPRT:Sky Sports F1
+PWdUZHowbUw0VkdadWwyTHdJek5mRmpadE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="MIXED03",SPRT:DD Sports
+NFUzTXQ1Q2VsUm1icDlTS3lBREt0RldaeVIzVXZreVVVSjFUUU5GUkVoQ2JsNW1iaGgyUXZVbWRweDBMelJuY3ZCM2NrUjJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="MIXED03",SPRT:Discovery Sports
+PWdUZHowbUx3QURPZlJFU2ZOSGR5OUdjelIwTEVoMFh6Um5jdkIzY0U5U2J2Tm1Mc2xtY3U4V2FxNWlZMWhXWm5OMmJwcDJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="MIXED03",SPRT:Ads cricket
+NFUzTXQ1U2JoVm1jME4zTHp4R2F2UVROdUlUTnk0eU4wNGlNeEl6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="MIXED03",SPRT:Sky Sports Cricket
+PT1BTzFOVGJ1Z1haazVXYXZBak0zOEZkbHQyWXBKM1l0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football
+PWdUZHowbUw0VkdadWwyTHdJek5mRkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 2
+PWdUZHowbUw0VkdadWwyTHdJek5mSkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 3
+PWdUZHowbUw0VkdadWwyTHdJek5mTkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 4
+PWdUZHowbUw0VkdadWwyTHdJek5mUkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 5
+PWdUZHowbUw0VkdadWwyTHdJek5mVkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="MIXED03",SPRT:Sky Sports EPL
+NFUzTXQ1Q2VsUm1icDlDTXljelhzQlhadE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="MIXED03",SPRT:Sky Sports Football
+PWdUZHowbUw0VkdadWwyTHdJek5meEdiaEpHZHY5bVp0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="MIXED03",SPRT:Sky Sports Main Event
+NFUzTXQ1Q2VsUm1icDlDTXljelgwNVdaMlZtYnBGV2J0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="MIXED03",SPRT:True Sport 2
+NFUzTXQ1Q2VsUm1icDlDTXljelh5UW5jdkIzYzAxQ1pvOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="MIXED03",SPRT:Матч!
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RXpNbUpXTmxaek5rTkdOemNqWXlRVE80WXpOM1l6WW1SbVpoWkRaaFJ6TXZBRE0ySVRNeFVqTjFFekx6OEZOMEVETnhZRE5zSXpYMElETXpVVE14d1NNZlJETzFNRE80SXpMVHhFU3ZrVE14SVRNejhTWjJsR2J2VTNjdW9IZTY1Q2JpOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="MIXED03",SPRT:Real Madrid TV
+PT1BTzFOVGJ1SVdMMkYyWHo4RmVsUm1icDlpTTJZRE13TURReDhsYmxKV1ozaEdOeVlIZHRKM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xsWlhhc0pXWjNoR055WUhkdEozTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="MIXED03",SPRT:Real Madrid TV Español
+PT1BTzFOVGJ1SVdMMkYyWHo4RmVsUm1icDlTTTJZRE13TURReDgxY2xKV1ozaEdOeVlIZHRKM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xsWlhhc0pXWjNoR055WUhkdEozTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="MIXED03",SPRT:Golf Channel
+d0VETXZBSGQwaDJMNGdETzRvRE94SWpMNUFUTXVJak14NENNNUV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="MIXED03",SPRT:One Golf
+NFUzTXQ1Q2VsUm1icDlpUk05MFJGNTBUdnNHY3ZFVE15WWpPNFVqTHhBak11QVROeTRpTTJFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="MIXED03",SPRT:ゴルフネットワーク
+MElUTzJFak94UWpMMU1qTXVJak54NHlNd0l6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsGolf.uk.png" group-title="MIXED03",SPRT:Sky Sports Golf
+PT1BTzFOVGJ1Z1haazVXYXZBak0zOGxaczkyWnRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="MIXED03",SPRT:ATG
+PT1BTzFOVGJ1TXpYbFZtY205Vk1mbEdaejkxWjBGMkwxOUNkMTkyTHdVMlprVldaMmxHYmxoMlloTldMNGdqTndBekx0OTJZdXMyWXBKbll4NVNZdVJtTHdVMlprVldaMmxHYmxoMlloTldMNGdqTndBVEx3VUdhakYyWXdSSGRvOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="MIXED03",SPRT:Dubai Racing
+PWdUZHowbUx3QURNd0FqTnhJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHpSbmJsWlhaNndXYXROM0x6Um5ibFpYWnYwMmJqNXliczlXYnZkbWJoMW1MdVIyWXV3R2IyaEdkMk5YYXRSMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="MIXED03",SPRT:Dubai Racing 2
+PWdUZHowbUx3QURNd0FqTnhJMlgwTlhhc3RtYjFoMll2d1dhdE5uTG41V2FqRm1jcEZtWTFSbU9zbFdiejl5WnVsMlloSlhhaEpXZGs5U2J2Tm1MdngyYnQ5Mlp1RldidTRHWmo1Q2JzWm5jb1JYYXRSMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="MIXED03",SPRT:Dubai Racing 3
+PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpY2xoMmNoSldkdGxXWWlWSFo2d1dhdE4zTHlWR2F6Rm1ZMTFXYWhKV2RrOVNidk5tTHZ4MmJ0OTJadUZXYnU0R1pqNUNic1puY29SWGF0UjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="MIXED03",SPRT:Racing.com
+NFUzTXQ1Q013VVRNdk1XYTJkbWJwTldZeTlTTjVZRE81VXpMbFpYYXM5eWNzaDJMMFZtYnVRV1o2bFdZdEYyYWg1U2F0TVdhMmRtYnBOV1l5OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="MIXED03",SPRT:Sky 1 Racing
+PT1BTzFOVGJ1QURPM2tqTjFBVVp0Vm1jMGhYWmZGVGVyTjNMbFpYYXNsM2F6OUNNNGNUTzJVekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTDV0MmNsWlhhc2wzYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="MIXED03",SPRT:Sky 2 Racing
+PT1BTzFOVGJ1QURPM2tqTjFBVVp0Vm1jMGhYWmZKVGVyTjNMbFpYYXNsM2F6OUNNNGNUTzJVekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTDV0MmNsWlhhc2wzYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYTbredCent.au.png" group-title="MIXED03",SPRT:Throughbred Central
+PWdUZHowbUx3Z3pONVlUTkFWV2JsSkhkNFYyWGtOM1kwTjNMbFpYYXNsM2F6OUNNNGNUTzJVekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTDV0MmNsWlhhc2wzYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="MIXED03",SPRT:Now Sports Prime
+NFUzTXQ1Q016WXpYc1ZtYnVGR2FqOVNaMmxHYnYwMmJqNVNiaEozWmh4MmNsUjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="MIXED03",SPRT:Hipódromo de las Américas
+PWdUZHowbUwwTlhhc3RtYjFoMll2Z1ROeGd6TDRVVE00OFNOemtUTTYwMmJqNVNZcGgzYnVOV1owNXljdGQzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="MIXED03",SPRT:Horse & Country TV
+PT1BTzFOVGJ1VW1kcHgyWHdCRE93RXpMQmxFVEJKRlZUVlZRZk5rVEk5aWNoVm1icHgyWWhoMkx6VWpOMFVET3ZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdE1XWW9OSGJvOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Monterrico_TV_HD_%28Logo%29.jpg/revision/latest/scale-to-width-down/340?cb=20180406154420" group-title="MIXED03",SPRT:Monterrico TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5IY2pwMkwxY2pNeVVUTXdBVE13SXpMdDkyWXVJWFowTlhZajVXWnc5bUxsWlhhczVDT3paM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="MIXED03",SPRT:Fight Sports
+PWdUZHowbUx4QXpMMUFEYXZnMkwyWWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="MIXED03",SPRT:Fight Time
+PT1BTzFOVGJ1QURNd1FqTjJJMlh4QXpOMVFETjBnVE8zOUZkemxHYnI1V2RvTjJMc2xXYno1U00yY0RPeUV6TGxkR1pGSjNiMEZtY2xCM1R1bDJacEozYldOMUx6Vm1MczltWTBWblp1VkdjdjVTTXdVR1p2NTJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://mytvtogo.net/wp-content/uploads/2019/10/Network_FightPlusTV_1280x720-520x293.jpg" group-title="MIXED03",SPRT:Fight Plus
+NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwTlhkc0JIZG9kV2FtOXlicFJXZDBOWFp1OTJMMFZtYnVNWGJoVm1jME5IYXpGR1p1VUdiaTFXYXU5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="MIXED03",SPRT:Hard Knock Fighting
+NFUzTXQ1eU0xQXpObVJHTjRZbU1pUldMbFJHWmgxU09qZEROdFVqTjBFV0xoWlRZd1ltWndFMkwza3pNNWtETXlJekwwNVdZcEpYWTI5U093RXpMeVZHZHpGV1RseFdka1ZHYWpOM0x5VkdiMVJXWm9OMmN2UVhadTVDWmxwWGFoMVdZckZtTHlBRE0wRjJZeVZtWm1sbWJ6OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1112616272741621760/Od1saD2b_400x400.png" group-title="MIXED03",SPRT:CombatGo
+PWdUZHowbUx5VkdkekZXYnZFa1FQSkRacHhHYjFRRVJUOW1VM1lUT2xwR1JoZDJMMDVXWjJWMkx6eEdhdklYWWw1V2FzOVNidk5tTGx4Mlp2OTJadWtXWWs5eUw2TUhjMFJIYQ==
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tennistv.com/images/og-image.png" group-title="MIXED03",SPRT:ATP Tennis
+NU16TnhFak81Z2pMelFqTXVRVE54NHlNd0l6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="MIXED03",SPRT:Tennis Channel
+PWdUZHowbUxuOWlaeU1UTTJFak0wWVROMVFXTGpKRE9pMUNObVpHTnRVR01oVlRMakpqTTFjRE9tbHpMMFYzYjVGR2J3OVNidk5tTGw1V2FzbG5jdlIzY3lsV1lzTm1icE5uTGw1V2FuNVdaMFYzYjVGR2J3OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="MIXED03",SPRT:Tennis Channel+
+PWdUZHowbUxuOUNNMlEyWTVFMlkwWVRZeklXTHpRR1ppMUNOelFETnRVRE9rUldMNVlqTWloalp5WTJMMFYzYjVGR2J3OVNidk5tTGw1V2FzbG5jdlIzY3lsV1lzTm1icE5uTGw1V2FuNVdaMFYzYjVGR2J3OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="MIXED03",SPRT:Tennis Channel+ 2
+NFUzTXQ1aVp6RVROM1lHT3dZRE93VVdMeUVUTzQwaVk0TUdOdE1UTzJNVEwyVUdPalIyTTJRMkwwVjNiNUZHYnc5U2J2Tm1MbDVXYXNsbmN2UjNjeWxXWXNObWJwTm5MbDVXYW41V1owVjNiNUZHYnc5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="MIXED03",SPRT:True Tennis
+PWdUZHowbUw0VkdadWwyTHdJek5mTlhhdTVXWjAxQ1pvOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="MIXED03",SPRT:Sky Sports F1
+PWdUZHowbUw0VkdadWwyTHdJek5mRmpadE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="MIXED03",ENT:BBC Lifestyle
+PWdUZHowbUx6dG1iMWgyWXZVR2I1UjNjbFpXYXM5MVlpSjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="MIXED03",ENT:Blue Ant Entertainment
+NFUzTXQ1Q013QURNd1VqTWk5RmR6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlgwNVdaMDVXWWxWSGJpOVNZa2gyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="MIXED03",ENT:Blue Ant Extreme
+NFUzTXQ1Q013QURNd1VqTWk5RmR6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlgwaFhaMDVXWWxWSGJpOVNZa2gyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="MIXED03",ENT:ET Live
+PXdXWWo5R2J6SjJZdkEzYjB0MmNsUjJMdUYyWXRjWFkyOUNOMklET3YwVGRwOURPMU5UYnVRM2NsWldhdUZXYnZJbmRrOVNidk5tTHZWR1pwWlhZaE5uWWo1U2VzUjNjaFpXTGxkV1lyTldZd0ZXYWtWV2J0VW1kcHhHZGw5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="MIXED03",ENT:Food Network
+NFUzTXQ1U01mSkRNMThTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22728/monarch/logo_20191212_203358.png" group-title="MIXED03",ENT:Monarch TV
+PWdUZHowbUxqOUNNd0FETXI4eVkwa3pZNUFUWTVNR012UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="MIXED03",ENT:People TV
+PT1BTzFOVGJ1QUhNeWNEZHpsR2I1RkdidzlDZXdzbU1rVmpZdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="MIXED03",ENT:Red Bull TV
+NFUzTXQ1Q00yTXpNZkpYWjBOWFl0OUNWQjFpUVM5bVF2UWpONUFUTzE4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0x1MW1ZeTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",ENT:TLC
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFZc1IzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",ENT:TLC
+PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOTFadWxtZHB4R2JsWlhZeVIzTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wzBD6fy.png" group-title="MIXED03",ENT:TMZ
+PT1BTzFOVGJ1Z1haazVXYXZBRE13QURNd1V6WHdJek40QkRPeUV6TE9SMFF2b1hiMDFTUTBNak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMMXQyYnkxRGN2NEdaajlXYjFoM0x0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV International
+NFUzTXQ1U1BCaFVUMEVFVk5Sak4wOUZNd0FETXdjRE5pOUZkemxHYnI1V2RvTjJMc2xXYno1eWNzaDJYMmtUTWZOVE1uQjNYMlJuWmZWak53Y2pNZmx6ZDY5MU14Y0djZlpIZG05bGQwWjJMZlIzY3VsbVpsUjJYdlVtZHB4MmN2TVhaamxtZHlWMmN1NEdaamxIWjE5R2JqNXlNMEFUTW9OWFltOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV Paris
+PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejV5Y3NoMlg0Z1RNZmhUTW5CM1h6bG1jaEIzWDNJRE0zSXpYblJHTmZkR2NmTlhheUZHY2ZaSGRtOWxkMFoyTGZSM2N1bG1abFIyWHZVbWRweDJjdk1YWmpsbWR5VjJjdTRHWmpsSFoxOUdiajV5TTBBVE1vTlhZbTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV L'Original
+PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejV5Y3NoMlgwa1RNZlpUTW5CM1gyUm5aZkpETndjak1mbFhPazlsTnhjR2NmWkhkbTlsZDBaMkxmUjNjdWxtWmxSMlh2VW1kcHgyY3ZNWFpqbG1keVYyY3U0R1pqbEhaMTlHYmo1eU0wQVRNb05YWW05eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV Midnight Secert
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdVVtZHBSSGNoUldZZk5IZGxKM1lsTjNYbFJYYXVSV2F0OWxkMFoyTGZSM2N1bG1abFIyWHZVbWRweDJjdk1YWmpsbWR5VjJjdTRHWmpsSFoxOUdiajV5TTBBVE1vTlhZbTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="MIXED03",FSN:World Fashion TV
+PWdUZHowbUw0VkdadWwyTHhFbU0yMXljck5XWXlSM0wwNVdhaloyZHY0R1pqOUNNNG9UZHk1aWQwMXljMTUyYmk1eVltZDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://a3bikini.com/wp-content/uploads/2018/02/a3_Bikini-1.png" group-title="MIXED03",FSN:A3 Bikini Network
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2F1bDJhcEoyTWg5eWF5OTJkMFZtYnA1V2FybG1ZdjBXWWxKSGR6OVNidk5tTGhsR1psMTJjdlZHYmxSbkxySjNiM1JYWnVsbWJwdFdhaTUyWTI5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="MIXED03",FSN:Jasmin TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTHNWbWJ1RkdhajVXYXROWFlxNUNabzlTWjJsR2J2VXpNNUVqT3lFVE11SWpOeDRTTTM0U093RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.lethalproducts.com/wp-content/uploads/2016/03/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="MIXED03",DOC:Hunt Channel
+NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZFVEw0WURPMlVUTE1SVlF0TUZUdmNtY3Y1eU4zNEdaajV5WXpKbkwwa0RPMmtqTXhFVE14OHlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="MIXED03",DOC:Outside TV
+PWdUZHowbUxqOUNTelJqTlVkMk12UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="MIXED03",DOC:Sportskool
+NFUzTXQ1eVl2QURNd0F6S3ZjVE8ySWpNdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="MIXED03",DOC:World of Free Sports
+NFUzTXQ1eVl2QURNd0F6S3ZNak0zSWpNdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="MIXED03",DOC:Xcorps
+PWdUZHowbUx3QmpNMzhGZHpsR2JuVjJjdk1IY3k5Mlk0OXljd0ozYmpoM0x0RldaeVIzY3YwMmJqNVNZcFJXWnROM2JseFdaMDV5Y3dKM2JqaG5ialozTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MIXED03",MOVIE:&Flix
+NFUzTXQ1Q2VsUm1icDlTTWhGamR0TTNhakZtYzA5Q1pvaFhhc1pHWnVGMkwwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hONTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MIXED03",MOVIE:&Prive
+PWdUZHowbUx6dG1iMWgyWXZnak10VW1kcEpIY2s1V1l2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="MIXED03",MOVIE:Bollywood TV
+PT1BTzFOVGJ1TTJMb2RXYW85Q013QURNcjhTTjBJV05rOUNkekYyWWtGMmJ5SjJMdDkyWXU0R1p5Tm5hdUUyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="MIXED03",MOVIE:Docurama
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FET3lVRE5mQkRPd0VEZXdJVE94OGlURU4wTEJGV2JoSlhkajlHWnRFRU56SVRNdjFXZDQ5VlkwRkdaZk5IYm85VmFuRldiaDlTYTFOM2N1OTJZdlFYWnU1Q1ozNUdiczV5YjI1U2JubEdabDVXYWo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="MIXED03",MOVIE:Flim Detective
+PWdUZHowbUx3SXpONEJET3lFelhrWkdlbFJtYnA5Q2RsNW1Ma1ZtZXBGV2JodFdZdThtYzBOWGFrOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nLimNFX.png" group-title="MIXED03",MOVIE:Filmrise Classics
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FETXdBVE5mQmpNM2dITTRJVE12NEVSRDlpZDBOV2F6TlhZc05XWnpsbWN0eFdhbTFTUXlFak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMdDkyWXU4V2IxaG5MeWtXWWs5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BDtkjpS.png" group-title="MIXED03",MOVIE:Filmrise Crime
+PT1BTzFOVGJ1Z1haazVXYXZBRE13QURNd1V6WHlNRE40QkROMjhpVEVOMExsMVdheU5XWnpsbWN0eFdhbTFTUXlFak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMMXQyYnkxRGN2NEdaajlXYjFoM0x0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ypQRBrH.png" group-title="MIXED03",MOVIE:Filmrise Family
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FETXdBVE5mQmpNM2dITTRJVE12NEVSRDlTZXNsV2JoWldaemxtY3R4V2FtMVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cQZdGc0.png" group-title="MIXED03",MOVIE:Filmrise Movies
+PWdUZHowbUwwTlhhc3RtYjFoMll2QURNd0FETXdVelh3SXpONEJET3lFekxPUjBRdk1YWnBaM2J0VldaeVpXWnpsbWN0eFdhbTFTUXlFak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMMXQyYnkxRGN2NEdaajlXYjFoM0x0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="MIXED03",MOVIE:FX Asia
+PT1BTzFOVGJ1Z1haazVXYXZBRE8wODFadVZHZW0xQ1pvOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MIXED03",MOVIE:Fox Movies
+NFUzTXQ1Q2VsUm1icDlDTXljelh0VlhhdFZtY3doM2JtMUNabzl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MIXED03",MOVIE:Fox Action Movies
+NFUzTXQ1aWJ2bEdkakZHZXZaMlhhcDFMdTlXYTBOV1k0OW1aZnBsV3ZBRE93Z2pPeVFqTDBVVE11QVROeTRDTndFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MIXED03",MOVIE:Fox Movies
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhelZXYTI5V2I0OW1adlVtZHB4R2V2WjJMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="MIXED03",MOVIE:Fox Family Movies
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmTlhacFozYnRsSGJwMVdZbWgzYm05U1lraDJMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="MIXED03",MOVIE:Fox
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhNDltWnZVbWRweEdldloyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="MIXED03",MOVIE:Flim Hub
+NFUzTXQ1Q2R6bEdiNUZHYnc5aVRFTjBMaVZIYXR4V2FtaDNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="MIXED03",MOVIE:Gravitas Movies
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDl5Y2hSWGEyRm1jbmgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="MIXED03",MOVIE:Hi-Yah!
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDlTWTUxU2FvaDNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="MIXED03",MOVIE:iFILM English
+PT1BTzFOVGJ1QURNd1lUT3dFallmUjNjcHgyYXVWSGFqOUNicDEyY3U0V1p0eFdhbWxtT3NsV2J6OVNic2xtWnA5U2J2Tm1MdVIyWXUxbUxzNVdMdTEyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="MIXED03",MOVIE:Maverick Movies
+PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdk1YWnBaM2J0dDJZcEpYWjJGV2J0ZzNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/MGM.us.png" group-title="MIXED03",MOVIE:MGM Scifi
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TTNheTkyZGxoR2R0VTNhdkozTDJSbkxwZFdZdEZtTHpWWEwxdDJieTF5Y3JKM2IzVkdhMDEyWnQ5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="MIXED03",MOVIE:Movies Now
+PT1BSTRVM010NWljbFIzY2gxMkxzeFdkdzlsVE45U1oybEdidllIZHV3V1owSlhhaDV5ZHY1MmNsMVdhMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MIXED03",MOVIE:Movies Kingdom
+PWdUZHowbUxqOUNNd0FETXI4U00wRTJNNUFETmlsVFp2UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="MIXED03",MOVIE:MNX Movies
+PT1BTzFOVGJ1SVhaME5YWXQ5Q2JzVkhjZmhsVE45U1oybEdidllIZHV3V1owSlhhaDV5ZHY1MmNsMVdhMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="MIXED03",MOVIE:Mylife4U
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2VUhOZlZtWnB4Mlg1MTJMdmxHWjFSM2NsNTJidllIZHVFV2FrVldib05YWWs1U01sZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="MIXED03",MOVIE:Romedy Now
+NFUzTXQ1aWNsUjNjaDEyTHN4V2R3OWxUUzlTWjJsR2J2WUhkdXdXWjBKWGFoNXlkdjUyY2wxV2EwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="MIXED03",MOVIE:Screamfest
+PWdUZHowbUx3QmpNMzhGZHpsR2JuVjJjdlEzY2xaV2JoVm1jak4zTHo5V2FrVkhkenRtY2gxMmJseDJMdEZXWnlSM2N2MDJiajVTWXBSV1p0TjNibHhXWjA1eWN2bEdaMVIzY3JKWFl0OVdaczUyWTI5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="MIXED03",MOVIE:Spydar TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SVhZa2xIY3o5eWJwUldkME5YWnU5MkwyUm5MaGxHWmwxR2F6RkdadVVHYmkxV2F1OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MIXED03",MOVIE:Warner TV
+NFUzTXQ1eVp1bFdldUZXYWtGbWJoVkhhZnBsV3ZjbWJwbG5iaGxHWmg1V1kxaDJYYXAxTHZBRE93Z2pPeVFqTDBVVE11QVROeTRDTndFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MIXED03",MOVIE:Paramount Movies
+OTRHYmhCbko5VW1jMVIzWWxSWGFvTm1jaFpTWjFKSGQ5TUhaQlZHWnBObGNsWm5jbE5uSmlWMmQ5VVdiaDVFY3dGbUo5SVhadVJuY2hCRlpsSldibFpTUGtsa2NsTlhkbUVtY2xCM1Q5d1daazlXVGxOV2EyVkdabUFUUFU1RVJsTldhMlZHWm1Vek41a2pMemNUTDk0MmJNVjJZcFpYWmtaQ093TXpOdUFETjlRWFlNVjJZcFpYWmtaU1BrbDBadWwyY3BSbmNsWkhaaFppWTBRR01obGpOMGt6TjRFV0x4VWpaaTFpTXhjRE50SURNeFlUTGtKbU5sVmpZa1pXUGtsMmNtRW1jbEIzVDlVMmFoMVVaamxtZGxSbUppVjJkOVVHYzVSVlpqbG1kbFJtSmlkVE9tRlRZalp6TWhoVE9sTlRObU56WTJZVE5qTlRaNFlETmhSV01qQlRaelV6WW1kVFk1MENOdWNqTHkwamJ2bDJjeVZtVndCWFltRXpOdWdqTnpNakx3NHlNMjBqYnZsMmN5Vm1WbE5XYTJWR1ptUTJOaE5UT2hkVFoxWWpZejB5TmpSV1l0SW1Nd1FUTDVrVE4zMENad0lUTjJJek1tMURaSlYyWXBaWFprWlNaenhXWW0xVFowRm1icDFtY2xSM1A0VTNNdDVpY2xSM2NoMTJMNFFqTnpZRE16OHlNeElUTm1OVFptWm1Od1FUTTJRVFkzVVdZakJqWWpWekxzVm1idUZHYWo5eWNzaDJMb05HZHBSM2N2WUhkdThHZDF4R2N1TW5jbFIzYzF4Mll1SVhab05HZHBSM2N0VTJZcFpuY2xOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="MIXED03",MUSIC:Afrobeats 24/7
+NFUzTXQ1Q2VsUm1icDl5YzBGV1ppOW1jbUYyTDJSbkxseG1ZaE5XWnUwV1lsSkhkejl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://commodusprod.hooq.tv/cdnimagesprod/assets/feed/7657074b8f5b.png" group-title="MIXED03",MUSIC:Baeble TV
+eDBEYms5RE8xTlRidXNXYXpWWFRDOWlhcmwyYXhNR2R6Y0dPeGREY3RWMkx6OVNidk5tTDQ5bVl3OW1jazVDYms5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" group-title="MIXED03",MUSIC:Baraza Classic
+NFUzTXQ1Q2R6bEdiNUZHYnc5eVlwTjNjaHgyUWhwWFl5Rm1Rdk1XYXpOWFlzTlVZNkZtY2hKMEx6UURONmdtZHY1eWN0RldaeVIzY3U4MllsOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="MIXED03",MUSIC:California Music Channel
+NFUzTXQ1Q2R6bEdicjVXZG9OMkxXUlZMRDEwUXZFelhsWlhhczlTYnZOMlh0RldaeVIzY3NGR2RwWjNYMlIzWXROMkwwVm1idTRHWmpCWFl1SlhaMDVXYXVNM2JwNWlkME5XYmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="MIXED03",MUSIC:Classic Arts Showcase
+PWdUZHowbUxyQkRNd016WHlWR2R6Rldidk1YWWo5U1oybEdidlFYWnU1U2VzUjNjaFptTHNOM2N1d1dZaTlHYm41eWMwSlhZamwyY3pGR2JqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg" group-title="MIXED03",MUSIC:Ditty TV
+PWdUZHowbUx5VkdkekZXYnZZVE40VXpOM0FVTWZSM2NsUjNMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMNEJUWnZKbmVoOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22782/latido-music/logo_20191212_200115.png" group-title="MIXED03",MUSIC:Latido Music
+PT1BTzFOVGJ1TTJMd3dtTXpZa1p6aHpadlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="MIXED03",MUSIC:Kool London Radio
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2dzJidnQyTHM5MmJyOVNOemtUTTYwMmJqNWlZbjFXWWxKSGR6NUNNeGMzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="MIXED03",MUSIC:Music4U
+PU1UTXlFak81Z2pMelFqTXVRVE54NHlNd0l6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteFooterTransparent.png" group-title="MIXED03",MUSIC:Radio U TV
+PT1BTzFOVGJ1Z1haazVXYXZFVFl4WVhMenQyWWhKSGR2RVRMd1FqTXpRVExNUlZRdE1GVHYwMmJqNVNkdmxHWmhKbkxsWlhhczVHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="MIXED03",MUSIC:Sunburn TV
+NFUzTXQ1Q2N3SXpOZlIzY3B4MlpsTjNMdUpYZGk1V2R6OWlkME5IWnYwV1lsSkhkejlTYnZObUxobEdabDEyY3ZWR2JsUm5MMlIzY2s1MlkyOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="MIXED03",MUSIC:V2BEAT TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5U1oybEdidVFYWWxKbU0yNVNNd1UyY3hVR1p1SW5ZaDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/NRJ_Hits_2017.svg.png/revision/latest?cb=20190621214935" group-title="MIXED03",MUSIC:NRJ Hits
+PT1BTzFOVGJ1SXpOd0V6TTBFallmaGpOMVFqTTBFek0xYzNYME5YYXN0bWIxaDJZdndHYmg5bFZVTkhkcGhrU1M1a093SjNadTlDYzE5bWNuNTJMMFZtYnVzMll2eFdiaFZtYzBObkxsWnpZNFFHTW1sVE13VW1ZMTh5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.babyfirsttv.com/wp-content/uploads/2019/10/babyfirst_logo_2019_300px-e1570008215346.png" group-title="MIXED03",KIDS:BabyFirst
+PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZkekpYYW1sblloSjJMbFpYYXNSWFp1RjNMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="MIXED03",KIDS:Boomerang
+PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOTFadUZtY2wxMmJ2SjJMbFpYYXNSWFp1RjNMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="MIXED03",KIDS:Battery Pop
+NFUzTXQ1Q2R6bEdiNUZHYnc5aVRFTjBMdzlHYzVKWFowUlhZaWgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="MIXED03",KIDS:Cartoon Network
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkxySjNiM1JYWnU5bGJ2OUdkeUYyWXZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/DaVinciLearning.hu.png" group-title="MIXED03",KIDS:Da Vinci Learning
+PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZab2wyWXVsbWRoUjJMa3htY3ZkM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="MIXED03",KIDS:Locomotion
+PWdUZHowbUx0RldaeVIzY3ZnMllmOTJZdngyTHZaWGEyNVdadjAyYmo1aWQwNTJicFIzYnQ5Mll2eDJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="MIXED03",KIDS:Kabillion
+PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdjQyYnB4R2JwSldZcmgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="MIXED03",KIDS:Nick Jr
+PWdUZHowbUx6dG1iMWgyWXZJbmFmdDJZcDUyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/PBSKids.us.png" group-title="MIXED03",KIDS:PBS Kids
+U1pGUi9nVGR6MG1MME5YYXNsWFlzQjNMd2tqTTRrak14MENOeGtETXdJak8wTkhidEYyTHdRVE1meEdjdjAyYmo1aWNsUjNjdmhXYmhWbWMwTm5MeTB5Y3paV0x5OHlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="MIXED03",KIDS:TCT Kids
+NFUzTXQ1Q013SVRNZlZtZHB4MFhUeEVTNXhXYXRGbVJ2TUZUSWxIYnAxV1lHOVNNd0FqTTFRak4za3pONWtUTXZJek0yWURNeThTWjJsR2J2TUhibzlDZGw1bUxraFdhaDFXWXJGbUxwMXljdmxXWjJsR2JsWjNiakoyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/1920px-Tvokids-logo.svg.png" group-title="MIXED03",KIDS:tvo KIDS
+PWdUZHowbUx5VkdkekZXYnZNSFpwdDJiMlIzTHhBRE15QWpOMFl6TTFFekwzQWpOeklqTnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdE1IYm9WbWRweFdaeVYzWWxOM1lpOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="MIXED03",DOC:Animal Planet
+PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZkbDVXWXNCSGJoMVdhdUYyTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" group-title="MIXED03",DOC:Outdoor Channel
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhbUozYnZSR2QxOTJMa3htY3ZkM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="MIXED03",DOC:Discovery Asia
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmRldhekZXZXlWbWR2TjJjcFIyTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="MIXED03",DOC:Discovery History
+ME5YWjAxamJsdDJiMDlETzFOVGJ1OFdaa2xtZHZrbmN2UjNjcGgwWDVKWFoyOTJZemxHUnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="MIXED03",DOC:History
+PWdUZHowbUx6dG1iMWgyWXZRR2FmWkhkZmxuY3ZSM2NwaDJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="MIXED03",DOC:National Geographic
+PWdUZHowbUx6dG1iMWgyWXY0V2FmOVdabjlGZGg1MkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="MIXED03",DOC:National Geographic
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhdlYyWjBGbWJ2VW1kcHhHZXZaMkwwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="MIXED03",DOC:National Geographic People
+NFUzTXQ1eWNyNVdkb04yTGx4R2N2VkdjZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="MIXED03",DOC:National Geographic Wild
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzbDJkZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="MIXED03",UK:Australia Channel
+PWdUZHowbUx3SXpONEJET3lFamNsUjNjaDEyTHpkWFp1MUNibDVtYmhoMlkwTlhkaDlTT3ljak13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxsWlhhczFDYmw1bWJoaDJZME5YZGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="MIXED03",UK:ABC
+PT1BTzFOVGJ1RUROeUFUTTBJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="MIXED03",UK:ABC Comedy
+PWdUZHowbUx5TW1ZaDVpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="MIXED03",UK:ABC ME
+PT1BTzFOVGJ1UWpNeUFUTXlJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="MIXED03",UK:ABC News 24
+PWdUZHowbUw0VkdadWwyTGlSellpTnpOa2xUT3pVVFk1a0RNaFZHTTRRRE1qVldOeVFtTmpOV01sWnpMeFkzTDBWM2J2UVhadTVDWmxwWGFoMVdZckZtTHkweWN0RldaeVIzY2xkV1lyTldZd0ZXYWtWV2J0Y1hacFpYYXRNbVloOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="MIXED03",UK:ABC Kids
+PT1BTzFOVGJ1SWpNeUFUTXlJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/Channel9.au.png" group-title="MIXED03",UK:Channel 9(Aus VPN)
+NU1qTXVjRE55NGlNMjRpTTEwamN2WlVMa1ZHWnlGMmR5OW1SdGdGZjRVM010NWljbFIzY2gxMkxrbDNjdGtEYWo5aVl0RVRONWdETTM4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0wzOW1iNTh5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/9Gem.au.png" group-title="MIXED03",UK:9 Gem(Aus VPN)
+PT1RT3pJakwzUWpNdUlqTnVJVE45STNiRzFDWmxSbWNoZG5jdlpVTFl4SE8xTlRidUlYWjBOWFl0OUNaNU5YTHRWMlp2QURPNVFETTM4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0wzOW1iNTh5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/9Go.au.png" group-title="MIXED03",UK:9 Go!(Aus VPN)
+NU1qTXVjRE55NGlNMjRpTTEwamN2WlVMa1ZHWnlGMmR5OW1SdGdGZjRVM010NWljbFIzY2gxMkxrbDNjdDgyWnZnek01Z0RNMzhTWjJsR2J2TUhibzlDZGw1bUxrVm1lcEZXYmh0V1l1VW1kcHhXTDM5bWI1OHlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/9Life.au.png" group-title="MIXED03",UK:9 Life(Aus VPN)
+PWt6TXk0eU4wSWpMeVlqTHlVVFB5OW1SdFFXWmtKWFkzSjNiRzFDVzhoVGR6MG1MeVZHZHpGV2J2UVdlejFTWm1sR2J2VURONWdETTM4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0wzOW1iNTh5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-ID="AUB.AU" tvg-logo="https://www.ausbiz.com.au/assets/logo.png" group-title="MIXED03",UK:ausbiz TV
+PT1BTzFOVGJ1Z1haazVXYXZRWGR3UlhkdjF5WXB4bVkxQjNMMFZtYnVRbmJ2Sm5aa1YzYnNObUwzUkhaM2dHYjVnRGExRlhPazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="MIXED03",UK:Fox Sports News
+NFUzTXQ1Q015Y0Rld2dqTXhJWFowTlhZdDlDZHk5R2N6MUNibDVtYmhoMlkwTlhkaDlpTnpjak13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxsWlhhczFDYmw1bWJoaDJZME5YZGg5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png" group-title="MIXED03",UK:Fox Sports 506
+dkFET3dnak95a2pMeVlqTDRVakwxUXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/TVSN.nz.png" group-title="MIXED03",UK:TVSN
+PT1BTzFOVGJ1QVROMzhsZXU5bGJ6Wkhkdm9uYmY1MmMyUjNMM01ET3hZak12VW1kcHgyTHp4R2F2UVhadTVDWm9sV1l0RjJhaDVTYXQ0MmMyUjNMdm9EYzBSSGE=
+
+#EXTINF:-1 ch-id="KOR.NZ" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_Freeview_Website-02.png" group-title="MIXED03",UK:Kordia TV
+PT1BTzFOVGJ1TVhaamxtZHlWMlUwNVdaMDUyYkQ5U2R2UVhkdjlpZXU1Q2RsNW1MaGxHWnk5MmF1Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="MIXED03",UK:Fiji TV
+NFUzTXQ1U1oybEdidjBXWWxKSGR6WkhkcHBXYW05eWMwNVdaMlYyTDVZek0wRVRONUV6THpSbmIxOTJZakYyTHQ5Mll1MFdZbEpIZHpWbWRweG1MM1ZtYnVrR2NoOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",UK:Bloomberg Australia
+PWdUZHowbUxsWlhhczlWTXRBRE13RVRMelpYY1dSbFdQMVNaakpYZHZOMUx4MHliNXQyYjAxeVVYRlVMelpYY1dSbFdQMUNibDVtYmhoMlF2RWpldjlDZGw1bUw1eEdkekZtWnV3MmN6NUNiaEoyYnNkbUwwTlhZbGhHZHk5bWJ3RkdadkpIY2xaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="MIXED03",UK:C31
+PWdUZHowbUx5VkdkekZXYnZBak15a3pNM0FVTWZWbWRweDJZazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczF5TjBVbWRweFdhdVYzWWs5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ourguide.com.au/images/station_images/44.png" group-title="MIXED03",UK:C44
+PT1BTzFOVGJ1SVhaME5YWXQ5eU4yRXpOeEFUTUFGelh0OW1hNkJ6YjJ0MmQzUWpla0oyTHA5Q2RsNW1Ma2hXYWgxV1lyRm1Mb3hXTHJkM04wb0haaTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png" group-title="MIXED03",UK:澳大利亚天和电视
+PWdUZHowbUx5QURNd1lGVnZJRE93Z2pPMUZtTHQ5Mll1NEdaalpIZHk1eWQzZDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="MIXED03",UK:Firstlight
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTDBoMlpweEdkekpYYW05Q2RvZFdhc1IzY3lsbVp2WUhkdWdYYXNWSGR1QVhiMEpYTXdrbWIxOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.openshop.com.au/resources/images/pc/common/f_logo.png" group-title="MIXED03",UK:Open Shop
+PT1BTzFOVGJ1RXpYbFpYYXMxaWJ6RjJMMUZtTHQ5Mll1QTNib05uYmxCM2J1VW1kcHhXWXBSV1p0OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="MIXED03",UK:Maori TV
+NFUzTXQ1Q2N3Z0RNeFFXWVFsMlh5VkdkekZXYnZFelh4QURNM1lUTXprRE4wRWpOeDhpTXhZRE15Y3pMbFpYYXM5eWNzaDJMdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1ZtZHB4V1p5VjNZbE4zWWk5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/ParliamentTV.nz.png" group-title="MIXED03",UK:NZ Parliament TV
+PWdUZHowbUx2bEdaMUZXWnpWM2JvOWxkMEIzTDE5Q2QxOTJMNjVtTDBWbWJ1RVdha0ozYnI1eVp1bFdiaFZtYzBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="MIXED03",UK:Snowy Mountains TV
+PT1nYnYxVFp6Rm1ZbEpuSjIwRFp6OURPMU5UYnVBWEwyRjJYd1VUTWZoWFprNVdhdmtqTXlVek0xQVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMUNNelVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 1
+PT1BTzFOVGJ1SVhaME5YWXQ5U01oSkhkNFZXTDFGMmMzVm1iNXQyY3ZrRE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 2
+PT1BTzFOVGJ1SVhaME5YWXQ5aU1oSkhkNFZXTDFGMmMzVm1iNXQyY3ZBVE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 3
+PT1BTzFOVGJ1SVhaME5YWXQ5eU1oSkhkNFZXTDFGMmMzVm1iNXQyY3ZFVE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="MIXED03",UK:Te Reo
+NFUzTXQ1Q2N3Z0RNeFFXWVFsMlh5VkdkekZXYnZJelh4QURNM1lUTXprRE4wRWpOeDh5TXhZRE15Y3pMbFpYYXM5eWNzaDJMdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1ZtZHB4V1p5VjNZbE4zWWk5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="MIXED03",UK:Wairarapa TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2ZzJacGgwWGs1V1lpUldZdkpuUXZvbmJ1ODJZdVlIZGhCWFl5Rm1jcEYyZHUwV1lsSkhkejl5TDZNSGMwUkhh
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="MIXED03",UK:BBC 1
+PWdUZHowbUwzQURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="MIXED03",UK:BBC 1 Northern Ireland
+PWdUZHowbUx3RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="MIXED03",UK:BBC One Scotland
+PWdUZHowbUx5RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="MIXED03",UK:BBC One Scotland
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVlqTnhNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="MIXED03",UK:BBC 2
+PWdUZHowbUwwRURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/bbc%202%20wales.png" group-title="MIXED03",UK:BBC 2 Wales
+PWdUZHowbUwyRURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/947597829559799815/3EqyVekp_400x400.jpg" group-title="MIXED03",UK:BBC 2 Northern Ireland
+PWdUZHowbUwzRURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc2_scotland.jpg" group-title="MIXED03",UK:BBC 2 Scotland
+PWdUZHowbUw0RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="MIXED03",UK:BBC 4
+PWdUZHowbUw1RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="MIXED03",UK:BBC Alba
+PWdUZHowbUw0SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="MIXED03",UK:S4C
+PWdUZHowbUw1SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="MIXED03",UK:CBeebies
+PWdUZHowbUwwSURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="MIXED03",UK:CBBC
+PWdUZHowbUx4SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="MIXED03",UK:BBC Earth
+NFUzTXQ1Q013QURNd1VqTWk5RmR6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlhvUm5jaFYyWWlKMkxsWlhhc1JYWnVGM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="MIXED03",UK:BBC Lifestyle
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOVNiaFZtYzBObkx3QURNeThWWnNsSGR6Vm1acHgyWWlKMkxsWlhhc1JYWnVGM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="MIXED03",UK:4 Music
+dk1XYXpWWGIwOHlja0YyYnNCWGR2MDJiajVTWmpGR2N6OVdldUV6Y2tObUxpeFdadDRXYW5sbWN2MWlkMGgzYmk5eUw2QUhkMGhXUHdWbkx2bDNQNFUzTXQ1Q2N2UjNhelZHWnRNV2F6VlhiMHdTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="MIXED03",UK:ITV
+NFUzTXQ1Q013Z1RNdWxXWU45bGNsUjNjaDEyTHl3VVFVSjFUUUZqVlVsMExsWlhhc1pIZHA5aU4wWWpNd2N6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNNc0ZHZHk5R2MwSjNid04zTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="MIXED03",UK:ITV 2
+PVEzY2xSWFB1VjJhdlIzUDRVM010NUNlbFJtYnA5aU0yUlhhdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MIXED03",UK:Channel 4
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0xFaDBYMDhGYmw1bWJoaDJRdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MIXED03",UK:Channel 5
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkwxOEZibDVtYmhoMlF2Z0RPNklqTng0eU11SXpNeDRDTzNFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MIXED03",UK:Film 4
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0wwOFZic2xtUnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/5Star.uk.png" group-title="MIXED03",UK:5 Star
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkx5RkdkejlWTnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",UK:Bloomberg UK
+NFUzTXQ1U1oybEdiZkZUTHdBRE14MHljMkZuVlVWVlJ0VTJZeVYzYlQ5U010UW1iaHhXWnlsV0xUZFZRdE1uZHhaRlZWVlVMc1ZtYnVGR2FEOVNNMVYyTDBWbWJ1UVdaNmxXWXRGMmFoNUNkelYyZDFWR1p2SkhjbFpYYXM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="MIXED03",UK:British Muslim TV
+PWdUZHowbUw0VkdadWwyTHhNSGJvOWlkMDlWYnB4MmMxMTJYb05YYTBsbWNpOXlhemxHWnRGbWN2VW1kcHgyTDBWbWJ1UVdaNmxXWXRGMmFoNUNkekYyWWxKMmJzZFdMenhHYXRRV2JoNUdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="MIXED03",UK:Box Hits
+PT13THpSWGFvaDNiaTl5Y2tGMmJzQlhkdjAyYmo1U1pqRkdjejlXZXVFemNrTm1MaXhXWnQ0V2FubG1jdjFpZDBoM2JpOXlMaE5USndSSGRvMURjMTV5YjU5RE8xTlRidUEzYjB0MmNsUldMelJYYW9oM2JpeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BoxUpfront.uk.png" group-title="MIXED03",UK:Box Upfront
+PT13TDA1MmJ5WkdjMWgzYmk5eWNrRjJic0JYZHYwMmJqNVNaakZHY3o5V2V1RXpja05tTGl4V1p0NFdhbmxtY3YxaWQwaDNiaTl5TGhOVEp3UkhkbzFEYzE1eWI1OURPMU5UYnVBM2IwdDJjbFJXTDA1MmJ5WkdjMWgzYml4U013TVhkc0JIZXZKMkxsWlhhc1JIZWw5U2J6TjJMdDkyWXVVMlloQjNjdmxuTHRSbkxsMVNiek4yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/CreateCraft.uk.png" group-title="MIXED03",UK:Create & Craft
+PT1BTzFOVGJ1VW1kcHgyTHJWSGRtRm1jajlTYnZObUx1UjJZdEZXWnlSM2NseEdjdGwyY3VzV2QwWldZeU5XTGxaWGFzOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="MIXED03",UK:Forces TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVlET3pNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="MIXED03",UK:Gold
+PVEzY2xSWFB1VjJhdlIzUDRVM010NUNlbFJtYnA5Q1pzOTJSdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="MIXED03",UK:Box Hits
+PT13THpSWGFvaDNiaTl5Y2tGMmJzQlhkdjAyYmo1U1pqRkdjejlXZXVFemNrTm1MaXhXWnQ0V2FubG1jdjFpZDBoM2JpOXlMaE5USndSSGRvMURjMTV5YjU5RE8xTlRidUEzYjB0MmNsUldMelJYYW9oM2JpeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="MIXED03",UK:CBeebies
+PWdUZHowbUx6SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="MIXED03",UK:CBS Reality
+NEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MIXED03",UK:Channel 4
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0xFaDBYMDhGYmw1bWJoaDJRdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MIXED03",UK:Film 4
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0wwOFZic2xtUnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MIXED03",UK:Channel 5 UK
+PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkwxOEZibDVtYmhoMlF2Z0RPNklqTng0eU11SXpNeDRDTzNFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="MIXED03",UK:Forces TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVlET3pNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="MIXED03",UK:Gold
+PVEzY2xSWFB1VjJhdlIzUDRVM010NUNlbFJtYnA5Q1pzOTJSdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/IdealWorld.uk.png" group-title="MIXED03",UK:Ideal World
+PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMejhDWnNKM2IzeFdZbFJXYXYwMmJqNWlia05XYmhWbWMwTlhac0JYYnBObkxrTlhhdFVtZHB4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/QVC.uk.png" group-title="MIXED03",UK:QVC
+PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMejhDYnROWGF1RVRaMEZtYzBsbVl2NFdZbHgyWWY1V2FoMTJYclYzWTJGM0xsWlhhczlDZGw1bUwwNTJieVpHWjE5R2JqNVNiaE5YWTVVWE1xSm1ZNFJYTWs5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MIXED03",UK:Kiss
+PTh5Y3psMmF2TUhaaDlHYndWM0x0OTJZdVUyWWhCM2N2bG5MeE1IWmo1aVlzVldMdWwyWnBKM2J0WUhkNDltWXY4U1l6VUNjMFJIYTlBWGR1OFdlL2dUZHowbUx3QlhZdWxXTHpOWGFyeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="MIXED03",UK:Kerrang
+PTh5WnVGbWN5VjJhdk1IWmg5R2J3VjNMdDkyWXVVMlloQjNjdmxuTHhNSFpqNWlZc1ZXTHVsMlpwSjNidFlIZDQ5bVl2OGlPd1JIZG8xRGMxNXliNTlETzFOVGJ1QTNiMHQyY2xSV0xuNVdZeUpYWnJ4U013TVhkc0JIZXZKMkxsWlhhc1JIZWw5U2J6TjJMdDkyWXVVMlloQjNjdmxuTHRSbkxsMVNiek4yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="MIXED03",UK:Magic
+PT13TGpsMlpoMTJMelJXWXZ4R2MxOVNidk5tTGxOV1l3TjNiNTVTTXpSMll1SUdibDFpYnBkV2F5OVdMMlJIZXZKMkx2b0RjMFJIYTlBWGR1OFdlL2dUZHowbUx3OUdkck5YWmsxeVlwZFdZdHhTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MIXED03",UK:Kiss
+PTh5Y3psMmF2TUhaaDlHYndWM0x0OTJZdVUyWWhCM2N2bG5MeE1IWmo1aVlzVldMdWwyWnBKM2J0WUhkNDltWXY4U1l6VUNjMFJIYTlBWGR1OFdlL2dUZHowbUx3QlhZdWxXTHpOWGFyeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="MIXED03",UK:Kerrang!
+PTh5WnVGbWN5VjJhdk1IWmg5R2J3VjNMdDkyWXVVMlloQjNjdmxuTHhNSFpqNWlZc1ZXTHVsMlpwSjNidFlIZDQ5bVl2OGlPd1JIZG8xRGMxNXliNTlETzFOVGJ1QTNiMHQyY2xSV0xuNVdZeUpYWnJ4U013TVhkc0JIZXZKMkxsWlhhc1JIZWw5U2J6TjJMdDkyWXVVMlloQjNjdmxuTHRSbkxsMVNiek4yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="MAG.UK" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="MIXED03",UK:Magic
+PT13TGpsMlpoMTJMelJXWXZ4R2MxOVNidk5tTGxOV1l3TjNiNTVTTXpSMll1SUdibDFpYnBkV2F5OVdMMlJIZXZKMkx2b0RjMFJIYTlBWGR1OFdlL2dUZHowbUx3OUdkck5YWmsxeVlwZFdZdHhTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="MIXED03",UK:POP Max
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNWlOeE16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="MIXED03",UK:Pop UK
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNUNNeU16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="MIXED03",UK:Tiny Pop
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNUNPeE16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="MIXED03",UK:Pop MAX
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNWlOeE16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="MIXED03",UK:RT UK
+PWdUZHowbUxpdEVNd1VqTWZaRE14RXpMd2dqTzBWbWJ1UW5icEpIYzA5MmJtNVNaeVYzWWxObkxyVlhMMEozTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="MIXED03",UK:Really
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdWdUTzNJekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MIXED03",UK:Sony Movies Action
+NUFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="MIXED03",UK:The Box
+dmczYmlWR2EwOXlja0YyYnNCWGR2MDJiajVTWmpGR2N6OVdldUV6Y2tObUxpeFdadDRXYW5sbWN2MWlkMGgzYmk5eUw2QUhkMGhXUHdWbkx2bDNQNFUzTXQ1Q2N2UjNhelZHWnRnM2JpVkdhMHhTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="MIXED03",UK:Venus TV
+PWdUZHowbUx0RldaeVIzYzUxMkx6eEdhdkFET3dnak8yVWpMd2tqTDNjakwxUXpMdm9EYzBSSGE=
