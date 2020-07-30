@@ -179,7 +179,7 @@ PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTkxY3k5R2J2TjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEda
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="BDIX01",Al Jazeera
 PWdUZHowbUx6dG1iMWgyWXZFbWNsVm1laHAyWHNGMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="BDIX01",Arirang
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="BDIX01",Arirang
 PWdUZHowbUx6dG1iMWgyWXZjbWJoSlhheUYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BBCLifestyle.pl.png" group-title="BDIX01",BBC Lifestyle
@@ -230,7 +230,6 @@ PT1BTzFOVGJ1TTNhdVZIYWo5U2UwbG1icFptYnA5MWN5OUdidk4yTGxaWGFzOUNkbDVtTHY5R1pocFdh
 #SOURCEIT
 
 #SOURCEBPbd02
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BDIX02",INDEPENDENT TV
 a0JYYnVRM2NsWldhdUZXYnZRSGIxRm1abFIyTDFBRE13RXpMMlJYTHJCbll2WXpNdVlqTnVFRE54NHlNd0V6THZvRGMwUkhh
@@ -603,7 +602,7 @@ PWdUZHowbUwwTlhhc2xYWXNCM0x3SXpOZkpXWXo5VmV1OTJjdndXWWo5R2J2VXpNNUVqT3lRakx6TVRN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="BDIX03",Sony TV
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNeWN6WDA1V1p0NVdhaFJuY2xSbmJsOVZldTkyY3Z3V1lqOUdidlV6TTVFak95UWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="BDIX03",Sony Max HD
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="BDIX03",Sony Max HD
 PWdUZHowbUw0VkdadWwyTHdJek5maFhZdDlWZXU5MmN2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="BDIX03",Sony Max HD Link 1
@@ -657,46 +656,46 @@ PWdUZHowbUw0VkdadWwyTHdJek5maFhhejlWZXU5MmN2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="BDIX03",Zee TV HD
 NFUzTXQ1Q2VsUm1icDlDTXljelhraDJYMlIzWGxWbWV2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla_cinema.jpg" group-title="BDIX03",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla_cinema.jpg" group-title="BDIX03",Zee Bangla Cinema
 PWdUZHowbUw0VkdadWwyTHdJek5mRldibDVXYWo5VllzZG1iaEoyWGxWbWV2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_etc_bollywood.jpg" group-title="BDIX03",Zee Etc
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_etc_bollywood.jpg" group-title="BDIX03",Zee Etc
 NFUzTXQ1Q2VsUm1icDlDTXljelhrOTJiM2xIYnM5bVlmTkdkbDlsZXZ3V1lqOUdidlV6TTVFak95UWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_tv.jpg" group-title="BDIX03",Zee TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_tv.jpg" group-title="BDIX03",Zee TV
 NFUzTXQ1Q2VsUm1icDlDTXljelhXUjFYbFZtV3Z3V1lqOUdidlV6TTVFak95UWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="BDIX03",Zee Cinema
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="BDIX03",Zee Cinema
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOFZZdFZtYnBOMlhsVm1ldndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="BDIX03",Zee Bangla
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="BDIX03",Zee Bangla
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOFZZc2RtYmhKMlhsVm1ldndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_action.jpg" group-title="BDIX03",Zee Action
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_action.jpg" group-title="BDIX03",Zee Action
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOGxidmxHZGpGMlhsVm1ldndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_jalwa.jpg" group-title="BDIX03",9XM Jalwa
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_jalwa.jpg" group-title="BDIX03",9XM Jalwa
 PWdUZHowbUw0VkdadWwyTHdJek5mRjJkc0ZtYWYxR2V2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="BDIX03",9XM
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="BDIX03",9XM
 NFUzTXQ1Q2VsUm1icDlDTXljelh0aFhPdndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_o.jpg" group-title="BDIX03",9XO
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_o.jpg" group-title="BDIX03",9XO
 NFUzTXQ1Q2VsUm1icDlDTXljelh2aFhPdndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_world_pk.jpg" group-title="BDIX03",Ptv World
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_world_pk.jpg" group-title="BDIX03",Ptv World
 NFUzTXQ1Q2VsUm1icDlDTXljelhreG1jdmQzWDJSSGN2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_global.jpg" group-title="BDIX03",Ptv Global
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_global.jpg" group-title="BDIX03",Ptv Global
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOEZiaEoyYnNkMlgyUkhjdndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dd_bangla.jpg" group-title="BDIX03",DD Bangla
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dd_bangla.jpg" group-title="BDIX03",DD Bangla
 NFUzTXQ1Q2VsUm1icDlDTXljelhoeDJadUZtWWZSR1p2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/music_india.jpg" group-title="BDIX03",Music India
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/music_india.jpg" group-title="BDIX03",Music India
 PWdUZHowbUw0VkdadWwyTHdJek5mRldhazVXYWZOV2F6VlhidndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="BDIX03",&TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="BDIX03",&TV
 NFUzTXQ1Q2VsUm1icDlDTXljelgyUm5idndXWWo5R2J2VXpNNUVqT3lRakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="http://aakashaath.com/images/logo.png" group-title="BDIX03",Akash Aath
@@ -759,7 +758,7 @@ PT1BTzFOVGJ1Z1haazVXYXZBak0zOEZiaEoyYnNkMlgyUkhjdndXWWo5R2J2VXpNNUVqT3lRakx6TVRN
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="BDIX03",Somoy News
 PWdUZHowbUw0VkdadWwyTHdJek5mWkhkZmwzYnQ5MmN2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="BDIX03",Arirang
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="BDIX03",Arirang
 PT1BTzFOVGJ1Z1haazVXYXZBak0zODFadUZtY3BKWFl2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BDIX03",MY TV
@@ -776,7 +775,6 @@ PWdUZHowbUw0VkdadWwyTHdJek5mTlhkc0IzWGhsR2JoSkhkelZYWXZ3V1lqOUdidlV6TTVFak95UWpM
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/uxvSu0IoIQMdhYzVOd1aNj_Vr_Ovvx6eoEDyycYqFUBTW5yvU8wDabdyKNxe2NnfYw" group-title="BDIX03",Quran TV
 PWdUZHowbUw0VkdadWwyTHdJek5mWkhkZjVXWXlWWGN2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
-
 
 #Sourcebd05
 
@@ -1357,15 +1355,8 @@ PT1BTzFOVGJ1MHpQa0JYYnVRM2NsWldhdUZXYnZRSGIxRm1abFIyTDBBVE53RXpMMlJYTHJCbll2WXpN
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="BDIX05",Ary Musik
 a0JYYnVRM2NsWldhdUZXYnZRSGIxRm1abFIyTDVnRE13RXpMMlJYTHJCbll2WXpNdVlqTnVFRE54NHlNd0V6THZvRGMwUkhh
+
 #Sourcebd06
-
-
-
-
-
-
-
-
 
 
 #added19072020
@@ -1409,70 +1400,70 @@ NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZ3V1kwbEdjaE4yTGxaWGFzbFhidklETnVJVE11QURP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="MIXED01",Geo Kahini
 PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0xFaDBYcDVXWW9GMlNmOVdaSDlDTjNFakx3VWpNdVFETng0aU54SXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="MIXED01",BOL Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="MIXED01",BOL Entertainment
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWR2J2SjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="MIXED01",BOL News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="MIXED01",BOL News
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIYnZKMkxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="MIXED01",LTN Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="MIXED01",LTN Family
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRuYjB4MkxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XX1UPVL.jpg" group-title="MIXED01",Public News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX1UPVL.jpg" group-title="MIXED01",Public News
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1MllweG1ZMUIzTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="MIXED01",Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="MIXED01",Filmax
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZWgxR2JwWjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DXn57cB.jpg" group-title="MIXED01",Samaa TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXn57cB.jpg" group-title="MIXED01",Samaa TV
 PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZGhGV2JoTjNMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="MIXED01",Urdu 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="MIXED01",Urdu 1
 PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZHhVSFp5VjNMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="MIXED01",Film World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="MIXED01",Film World
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIWnNKM2IzMUdicFoyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="MIXED01",Geo News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="MIXED01",Geo News
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1MmJsZDJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CkJpbom.jpg" group-title="MIXED01",Geo Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkJpbom.jpg" group-title="MIXED01",Geo Entertainment
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWMmJsZDJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/shVEz5N.jpg" group-title="MIXED01",Aaj News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shVEz5N.jpg" group-title="MIXED01",Aaj News
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1bWFoRjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="MIXED01",Aaj Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OA762pM.png" group-title="MIXED01",Aaj Entertainment
 PWdUZHowbUw0VkdadWwyTHdCak56OGxZbGRIZHVWbWFoRjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="MIXED01",Aplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="MIXED01",Aplus
 PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZHpWSGJ3RjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="MIXED01",Dawn News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="MIXED01",Dawn News
 PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZHpkWFp1NTJkaFIyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YjypzhE.jpg" group-title="MIXED01",News One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjypzhE.jpg" group-title="MIXED01",News One
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWbWFoRjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ig0hIeI.jpg" group-title="MIXED01",Madni TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ig0hIeI.jpg" group-title="MIXED01",Madni TV
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM1pIZHA1R1poMTJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="MIXED01",Makkah Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="MIXED01",Makkah Live
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIYWh0MmFoMTJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4ZMTA9d.jpg" group-title="MIXED01",Neo News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZMTA9d.jpg" group-title="MIXED01",Neo News
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1MmJsNTJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ybHC32I.jpg" group-title="MIXED01",Lahore News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybHC32I.jpg" group-title="MIXED01",Lahore News
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1V1p5OUdhaHgyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="MIXED01",Express Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="MIXED01",Express Entertainment
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM1JuYmxOM2NsSkhjNFYyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eL2pmZL.jpg" group-title="MIXED01",Dunya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eL2pmZL.jpg" group-title="MIXED01",Dunya
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGQzYzNWbWJobG5iMVIyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="MIXED01",8X Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="MIXED01",8X Music
 PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRYYjRoekxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="MIXED01",HUMRAZ TV
@@ -1938,7 +1929,7 @@ NFUzTXQ1U1R5OEZlbFJtYnA5Q2NxaFhMbFpYYXNkM2FvNTJMNFVETnpBRE15OFNaMmxHYnZNSGJvOUNk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53N0NTK.png" group-title="MIXED01",Voice of America
 PWdUZHowbUx5VkdkekZXYnZnVE95QWpNekFrTmoxbWQwOTFjc0JYYmZGMmIyOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMVNZdlozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="MIXED01",BBC News (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="MIXED01",BBC News (2)
 PT1BTzFOVGJ1TTNhdVZIYWo5eWMzVm1iakptWWZkR2RqOWlkME5XYXlOR1pvOVNNNEFETzYwMmJqNUNaaU5uY3Z4MmJqNWlkMFZtZHB4Mkx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="MIXED01",Sky News Extra
@@ -2350,6 +2341,7 @@ NFUzTXQ1Q2VsUm1icDlDT3dBVE1rVldabTlTWjJsR2J2QVROdVlUTXg0Q08yNHlNd0V6THZvRGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="MIXED02",Atn bangla
 NFUzTXQ1Q2VsUm1icDlTT3dBVE1rVldabTlTWjJsR2J2QVROdVlUTXg0Q08yNHlNd0V6THZvRGMwUkhh
+
 #EXTINF:-1 tvg-logo="" group-title="MIXED02",No Name
 NFUzTXQ1Q2VsUm1icDlpTXhBVE1rVldabTlTWjJsR2J2QVROdVlUTXg0Q08yNHlNd0V6THZvRGMwUkhh
 
@@ -2763,13 +2755,13 @@ NFUzTXQ1U1oybEdiZk5YZHZBM2IwdDJjbFIyTDJSbll2UVhadTVTZXNSM2NoWm1Mc04zY3V3V1lpOUdi
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="MIXED02",COLOR
 V1IxVVZoVlZNWjBMRnAxVTVSMVI2cDFMM0ZtY3YwMmJqNWlicEpXWjBOWFl3OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="MIXED02",AXN HD
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="MIXED02",AXN HD
 PT1BTzFOVGJ1RURNdkVETnhnMkxvOXlNMllqTXhWM0wxTWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-id="" group-title="MIXED02" tvg-shift="+0",ID: KiX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="MIXED02" tvg-shift="+0",ID: KiX HD
 NFUzTXQ1U013OHlOd2cyTG85eU0yWWpNeFYzTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-id="" group-title="MIXED02" tvg-shift="+0",ID: Thrill HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MIXED02" tvg-shift="+0",ID: Thrill HD
 NFUzTXQ1U013OENOek0zTHo5eWRsbGpjM0YzTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="MIXED02",Movies Now
@@ -2778,10 +2770,10 @@ NFUzTXQ1aWNsUjNjaDEyTHN4V2R3OWxUTjlTWjJsR2J2WUhkdXdXWjBKWGFoNXlkdjUyY2wxV2EwOXlM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="MIXED02",Rai Premium
 PT1BTzFOVGJ1SVhaME5YWXQ5eU56Z1RNNEVEUXg4VmIxbFdibEpIY3BGbWN2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0a1dZeWxuY2xaWFp5STJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" tvg-id="" group-title="MIXED02" tvg-shift="+0",ID: CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="MIXED02" tvg-shift="+0",ID: CELESTIAL MOVIES HD
 NFUzTXQ1U013OHlNek0zTHo5eWRsbGpjM0YzTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" tvg-id="" group-title="MIXED02" tvg-shift="+0",ID: CinemaWorld HD
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="MIXED02" tvg-shift="+0",ID: CinemaWorld HD
 NFUzTXQ1U013OENOd2cyTG85eU0yWWpNeFYzTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/2136403_300x300" group-title="MIXED02", MY CINEMA (MLY)
@@ -3306,7 +3298,7 @@ MEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="MIXED02",CBS News
 PWdUZHowbUx5VkdkekZXYnZFMllsVkdaeVlUTmtORE9tQnpOMEVtTTRVR056RWpaNFVHTzBZRE9oVlROdkVqZHZRWGR2OVNidk5tTHpkWFp1Tm5ZajVTYmhWbWMwTm5iekoyWXVNWGE0VkdabE5XTHpWWEx1Tm5Zajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="MIXED02",Cheddar Big News
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="MIXED02",Cheddar Big News
 NFUzTXQ1Q2VsUm1icDlpYmlOMkx0OTJZdU1XYTBGR2R6Skhab05tTGxaWGFzOXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="MIXED02",CGTN
@@ -3401,85 +3393,85 @@ bVZET3g4Q2NrVjNMeFVUTXhJak94RWpMNTRTTno0Q080RXpMdm9EYzBSSGE=
  
 #added from exo1
    
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.banglanews24.com/media/imgAll/2016October/bg/banglanews_logo20180725112204.jpg" group-title="MIXED03",Bangla News 24
+#EXTINF:-1 tvg-logo="https://www.banglanews24.com/media/imgAll/2016October/bg/banglanews_logo20180725112204.jpg" group-title="MIXED03",Bangla News 24
 PWdUZHowbUx6dG1iMWgyWXZRR2FmUmpNZk4zZGw1MkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.careworldtv.com/wp-content/themes/ipt_careworld/images/logo.jpg" group-title="MIXED03",Care World
+#EXTINF:-1 tvg-logo="http://www.careworldtv.com/wp-content/themes/ipt_careworld/images/logo.jpg" group-title="MIXED03",Care World
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdVFHYnk5MmRsSlhZanBEYnAxMmN2VW1kcHgyTDFNVE94b2pOekVqTDBZVE11UURNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="MIXED03",Calcutta News
+#EXTINF:-1 tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="MIXED03",Calcutta News
 PT1BTzFOVGJ1Z1haazVXYXZNak1sVkRaaWR6WWhoVE5rVlRNNWdETTVFRE5oUmpZekVHTjBNRE5tVldNdkVqZHZRWGR2OUNkbDVtTDA1MmJ5WkdaMTlHYmo1eWI1QkRhelluZW5kWFlwbHpNazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-bangla_1.png" group-title="MIXED03",DD Bangla
+#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-bangla_1.png" group-title="MIXED03",DD Bangla
 PT1BTzFOVGJ1TTNhdVZIYWo5U1lzZG1iaEoyWGtSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://madanichannel.tv/img/logo.png" group-title="MIXED03",Madani TV Bengali
+#EXTINF:-1 tvg-logo="https://madanichannel.tv/img/logo.png" group-title="MIXED03",Madani TV Bengali
 PWdUZHowbUx6dG1iMWgyWXZBSE00QVRNZkZHYm41V1lpbG1ia0ZXYnZFR2JuNVdZaVpIZHA1R1poMTJMeUpXWWh4Mlp1Rm1ZcDVHWmgxMkxoeDJadUZtWTJSWGF1UldZdDlDZGw1bUxsNTJidEZXWnlSM2NrNWlia1puTDJSWGF1UldZdDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mytvbd.tv/wp-content/uploads/2019/01/MyTv_Logo_Colored-300x165-300x165.png" group-title="MIXED03",Mytv
+#EXTINF:-1 tvg-logo="http://mytvbd.tv/wp-content/uploads/2019/01/MyTv_Logo_Colored-300x165-300x165.png" group-title="MIXED03",Mytv
 NFUzTXQ1eWNyNVdkb04yTDJSM1g1MTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg/revision/latest/scale-to-width-down/250?cb=20191230183047" group-title="MIXED03",R Plus Gold
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg/revision/latest/scale-to-width-down/250?cb=20191230183047" group-title="MIXED03",R Plus Gold
 NFUzTXQ1eWNyNVdkb04yTGh4Mlp1Rm1ZZkZtY2hSM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title="MIXED03",Sangsad TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="MIXED03",Sangsad TV
 PWdUZHowbUx6dG1iMWgyWXZZSGRmUldZemRtYmhOM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="MIXED03",PTV Global
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="MIXED03",PTV Global
 PWdUZHowbUx6dG1iMWgyWXZ3V1lpOUdibjlsZDBCM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/ExpressEntertainment.pk.png" group-title="MIXED03",X Music
+#EXTINF:-1 tvg-logo="https://static.epg.best/pk/ExpressEntertainment.pk.png" group-title="MIXED03",X Music
 PWdUZHowbUw0VkdadWwyTHdCak56OGxZbGRYYjRoekxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.a1uk.tv/images/icms_logo.png" group-title="MIXED03",A1 TV
+#EXTINF:-1 tvg-logo="http://www.a1uk.tv/images/icms_logo.png" group-title="MIXED03",A1 TV
 Z2dUZHowbUx2NTJidDlTTWhGamR0TTNhakZtYzA5aVZVRlRRdnNXZHZFVE15WWpPNFVqTHhBak11QVROeTRpTTJFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="MIXED03",ARY Digital
+#EXTINF:-1 tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="MIXED03",ARY Digital
 NFUzTXQ1eWNyNVdkb04yTGhsMmNoOVZleUYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="MIXED03",ARY Musik
+#EXTINF:-1 tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="MIXED03",ARY Musik
 PWdUZHowbUw0VkdadWwyTGxaWGFNdFdhelZYVHYwMmJqNVNaMmxHYjVKWFl1MFdZbEpIZHo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.bolentertainment.com/wp-content/themes/bolentertainment/assets/images/logo.jpg group-title="MIXED03",BOL Entertainment
+#EXTINF:-1 tvg-logo="https://www.bolentertainment.com/wp-content/themes/bolentertainment/assets/images/logo.jpg" group-title="MIXED03",BOL Entertainment
 Z2dUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWR2J2SjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2z8tu1vzs7ho7.cloudfront.net/wp-content/uploads/2020/02/06155800/LTN-Family.jpg" group-title="MIXED03",LTN Family
+#EXTINF:-1 tvg-logo="https://d2z8tu1vzs7ho7.cloudfront.net/wp-content/uploads/2020/02/06155800/LTN-Family.jpg" group-title="MIXED03",LTN Family
 Z2dUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRuYjB4MkxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://southasiandaily.com/wp-content/uploads/2015/10/channely31-685x3201.jpg" group-title="MIXED03",Channel Y
+#EXTINF:-1 tvg-logo="http://southasiandaily.com/wp-content/uploads/2015/10/channely31-685x3201.jpg" group-title="MIXED03",Channel Y
 PWdUZHowbUwwTlhhc2xYWXNCM0wyUjNMNXhXWnU1V1lvTjJMdDkyWXUwV1lsSkhkemRETnlVbWRweG1MNUVqYmtOMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/DunyaNews.pk.png" group-title="MIXED03",Dunya
+#EXTINF:-1 tvg-logo="https://static.epg.best/pk/DunyaNews.pk.png" group-title="MIXED03",Dunya
 PT1BSTRVM010NUNkemxHYnI1V2RvTjJMeDhWWjJsR2JobG5iMVIyTGZSM2N1bG1abFIyWHZVbWRweDJMMlJuTHpkWFp1RldldVZIWnVJMmJ0bDJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/GeoNews.pk.png" group-title="MIXED03",Geo News
+#EXTINF:-1 tvg-logo="https://static.epg.best/pk/GeoNews.pk.png" group-title="MIXED03",Geo News
 PT1BTzFOVGJ1SW5kazkxY3I1V2RvTjJMeEFIWno1aU01TXpNa2RqWjBVak1tbGpNeVl6TnpFR041UURNak5ET2xWek00VVdZbDl5YmxkMEx3UjJjdUlUT3pNRFozWUdOMUlqWjVJak0yY3pNaFJUTzBBell6Z1RaMU1ET2xGV1p2OFdaSDlTYnZObUx1UjJZelJuYmxOV051VW1kcHhXTHp4R2F0a3pOM3hXWnlnamVzTnphcTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://khybernews.tv/wp-content/uploads/2018/08/logo-khybernews.png" group-title="MIXED03",Khyber News
+#EXTINF:-1 tvg-logo="https://khybernews.tv/wp-content/uploads/2018/08/logo-khybernews.png" group-title="MIXED03",Khyber News
 PWdUZHowbUx5VkdkekZXYnZjek4ySVRPMkFVTWZWbWRweDJZazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFDT3pVbWRweFdhdVYzWWs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/828603854761648129/HCDHkkeG.jpg" group-title="MIXED03",Lahore News
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/828603854761648129/HCDHkkeG.jpg" group-title="MIXED03",Lahore News
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RXpYemRYWnV4MkxsWlhhc1ZtY3ZoV1lzOVNOemtUTTZZSGR1TTNkbDVXWnk5R2FoeG1MbFpYYXMxMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2z8tu1vzs7ho7.cloudfront.net/wp-content/uploads/2019/03/13114805/PublicNews.jpg" group-title="MIXED03",Public News
+#EXTINF:-1 tvg-logo="https://d2z8tu1vzs7ho7.cloudfront.net/wp-content/uploads/2019/03/13114805/PublicNews.jpg" group-title="MIXED03",Public News
 PT1BSTRVM010NUNlbFJtYnA5Q2N3Z0ROZkpXWjNOM2RsNTJZcHhtWTFCM0xyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://madanichannel.tv/img/madani-channel-logo.png" group-title="MIXED03",Madni TV Urdu
+#EXTINF:-1 tvg-logo="https://madanichannel.tv/img/madani-channel-logo.png" group-title="MIXED03",Madni TV Urdu
 NFUzTXQ1eWNyNVdkb04yTHdCRE93RXpYMVJtYzFsbWJrRldidlVIWnlWbmQwbG1ia0ZXYnZJblloVkhaeVZYYXVSV1l0OVNka0pYZDJSWGF1UldZdDlDZGw1bUxsNTJidEZXWnlSM2NrNWlia1puTDJSWGF1UldZdDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://madanichannel.tv/img/madani-channel-logo.png" group-title="MIXED03",Madni TV English
+#EXTINF:-1 tvg-logo="https://madanichannel.tv/img/madani-channel-logo.png" group-title="MIXED03",Madni TV English
 NFUzTXQ1eWNyNVdkb04yTHdCRE93RXpYb05YYXNkbWJsbG1ia0ZXYnZnMmNweDJadVZtZDBsbWJrRldidkluWWhoMmNweDJadVZXYXVSV1l0OUNhemxHYm41V1oyUlhhdVJXWXQ5Q2RsNW1MbDUyYnRGV1p5UjNjazVpYmtabkwyUlhhdVJXWXQ5eUw2TUhjMFJIYQ==
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mta.tv/sites/all/themes/rusty/images/mta1.png" group-title="MIXED03",Mat 1 اُردُو
+#EXTINF:-1 tvg-logo="https://www.mta.tv/sites/all/themes/rusty/images/mta1.png" group-title="MIXED03",Mat 1 اُردُو
 PT1BTzFOVGJ1QVhMMkYyWHdBRE16OEZlbFJtYnA5eU54RURNMU1EUTVKWFoybEdibFIyWDFSbWMxRkdkdDlTYXZRWFp1NUNab2xXWXRGMmFoNWladElEWm9GR2JobDNidjl5TDZNSGMwUkhh
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="MIXED03",Peace TV English
+#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="MIXED03",Peace TV English
 PWdUZHowbUwwTlhhc2xYWXNCM0xDMVVMNWduTngwaVoxSVRMbFpYYXNOM2NvMUNhemxHYm41V1p0WUhkbE5XWWxCWEwyUlhaakZXWncxaWQwVjJZaFZHY3ZBRlZVaDBVQjlTWjJsR2J2WUhkdUFYYXU5V2F6bG1kdWtHY2g5eUw2TUhjMFJIYQ==
                                          
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LnJhaGFtX2ljb25fMTUwNjQzNzUwMl8wMjQ/icon.png?w=170&fakeurl=1" group-title="MIXED03",Raham TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LnJhaGFtX2ljb25fMTUwNjQzNzUwMl8wMjQ/icon.png?w=170&fakeurl=1" group-title="MIXED03",Raham TV
 PT1BTzFOVGJ1WUhkdEZHYWhKM0x6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx4Y2pia04yTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="MIXED03",Anjan
+#EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="MIXED03",Anjan
 PT1BTzFOVGJ1QURNd0FETzFFallmWlROemdET3lrVE8wRXpkZlIzY3B4MmF1VkhhajlDYnNGR1pvOWxiaHBtYmhwRGN5ZG1idklHZHpKMkx6UUROM29UWnVsR2J1OW1MdEZXWnlSM2MyNXlNbTl5TDZNSGMwUkhh
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="MIXED03",DD National
@@ -3533,10 +3525,10 @@ PWdUZHowbUw0VkdadWwyTHdCRE8wOGxicDVTWnBaM2JORkdhaDFrTHdJRE95OHljc2gyTDBWbWJ1azJk
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="MIXED03",Star Gold International
 NFUzTXQ1eWNyNVdkb04yTHNSbmJwOUZaczkyWmZKWFkwTjNMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="MIXED03",9XO
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="MIXED03",9XO
 NFUzTXQ1Q013WXpOM2dUUHZWR1pwWlhMd0FETTRBak05UW1iMTlsTTRRRE93SXpYdmxHWjFGV0xQaFZPdndXYnpsbUxQaFZPdjhFVzU4aWQwMXlhd0oyTDBWbWJ1UW5idkpuWmtWM2JzTm1MckZtWXdOWE5sQkhOd2hUY3lRMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="MIXED03",9XM
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="MIXED03",9XM
 PT1BTzFOVGJ1Z1haazVXYXZ3V2J6bG1MTmhWT3YwRVc1OGlkMDF5YXdKMkwwVm1idVFuYnZKblprVjNic05tTHJGbVl3TlhObEJITndoVGN5UTJMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="MIXED03",B4U Music
@@ -3638,600 +3630,593 @@ NFUzTXQ1Q2VsUm1icDlDTTRRelgyTUhkeTlHY3pSWFp1bDNhejFDWno5eWMzVm1idVFuYnA5R2NySjNi
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2QWpNMzBDWm9CSGRqTlhidlVtZHB4Mkx5Rm1MMFZtYnU4bWMwNVdaalZHYmxSbkx4QVRablJXWnRVbWRweDJMdm9EYzBSSGE=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="MIXED03",24-7 Retro TV
+#EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="MIXED03",24-7 Retro TV
 PWdUZHowbUxuNVdac04zWHdBRE00SVRPeEkyWDNNak13SVRPemtUTXhjM1gwTlhhc3RtYjFoMll2d1dhdE5uTHZKSGRsSjNOMElqT3NsV2J6OVNaMmxHYnZVek01RWpPdDkyWXVZSGR2SkhkbEozTjBJekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://blive.imgix.net/web/generic/mee.logo-golden-trans.png" group-title="MIXED03",AKC TV
+#EXTINF:-1 tvg-logo="http://blive.imgix.net/web/generic/mee.logo-golden-trans.png" group-title="MIXED03",AKC TV
 PWdUZHowbUxySlRPeE1UTGx4V2FtOWlNeThTTTJBak12UTJieUIzTDBOWFlqUldZdkpuWXYwMmJqNXlZNTVXWjJsR2JpNXlibFJXYTI5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="MIXED03",AMGTV
+#EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="MIXED03",AMGTV
 PWdUZHowbUwwTlhhc3RtYjFoMll2RVRMME1qTndjak14MENNMllUTXdJekw0TVRNZnhHY3YwMmJqNWljbFIzY3ZoV2JoVm1jME5uTHkweWN6WldMeTh5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.datocms-assets.com/14027/1574124139-afvsundaysabc-5400x3616.png" group-title="MIXED03",AFV!
+#EXTINF:-1 tvg-logo="https://www.datocms-assets.com/14027/1574124139-afvsundaysabc-5400x3616.png" group-title="MIXED03",AFV!
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWNsUjNjaDEyTHp4R2F2SVRNdlUzYXZKM0wwTlhhazlTYmhWbWMwTm5MNU5tYmxWWGNsSm5adUlUTXRJWFlsNVdhczl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="MIXED03",Adult Swim
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="MIXED03",Adult Swim
 PT1BTzFOVGJ1Y2pjbGxYWU05bGNsUjNjaDEyTHRGV1p5UjNjbFpYYXM5U016QXpOd0FqTXZVbWRweDJMenhHYXYwMmJqNWlia05XWXBSV1p0SlhadUpYWTM1aWQwMVdhM05IZHNWSFpoOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.roku.com/developer_channels/prod/b8d753f4a78f057b6fcf7f92cefc25ed76423cf46caf5056ae0e8e8b4194068b.png" group-title="MIXED03",American Classics
+#EXTINF:-1 tvg-logo="http://image.roku.com/developer_channels/prod/b8d753f4a78f057b6fcf7f92cefc25ed76423cf46caf5056ae0e8e8b4194068b.png" group-title="MIXED03",American Classics
 NFUzTXQ1Q2R6bEdiNUZHYnc5aVRFTjBMek5XYXpOWFlzTm1iaE5XYXlWV2JoaDNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="MIXED03",ABC 2 Baton Rouge (WBRZ)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="MIXED03",ABC 2 Baton Rouge (WBRZ)
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VVbWRweFdMNkpuWTNwRGJwMTJjdjhGZHo1V2FtVkdaZjlTTXRVbWRweFdMNkpuWTM5eWJwNVNaMGxuWWg1V2RzNVNZNmQzYjMxeWN0TjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static-11.sinclairstoryline.com/resources/assets/komo/images/social-images/station-social-komo-tv.jpg" group-title="MIXED03",ABC 4 Seattle (KOMO)
+#EXTINF:-1 tvg-logo="http://static-11.sinclairstoryline.com/resources/assets/komo/images/social-images/station-social-komo-tv.jpg" group-title="MIXED03",ABC 4 Seattle (KOMO)
 PT1BTzFOVGJ1QUROeEUyTTBFVFo0VTJOeUVXWTJFbU5sZEROMEVUWjVFVFptUkdPNE1tTXYwMmJqNXlhdWxIYndWbkwwNVdaMDUyYmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/90/KMGH-TV_Logo.png/200px-KMGH-TV_Logo.png" group-title="MIXED03",ABC 7 Denver (KMGH)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/90/KMGH-TV_Logo.png/200px-KMGH-TV_Logo.png" group-title="MIXED03",ABC 7 Denver (KMGH)
 PT13UDRVM010NVNNbUpXTTNjek5oZERNeU16WXhZVE9sVlRZMFlUTzBBalo1TXpNaE5HTjI4Q2JsNW1iaGgyWXYwMmJqNXlhdWxIYndWbkwwNVdaMDUyYmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/ABCWWSB.us.png" group-title="MIXED03",ABC 7 Sarasota (WWSB)
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/ABCWWSB.us.png" group-title="MIXED03",ABC 7 Sarasota (WWSB)
 PWdUZHowbUxsWlhhczl5Y3NoV0x4STJjM2RYTHQ5Mlk1Rm1jdlFYZHY5Q2RsNW1MMDUyYnlaR1oxOUdiajVDWmhGVFppRm5lNGRYTjA1bU1rOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="MIXED03",Bek Sports East
+#EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="MIXED03",Bek Sports East
 PWdUZHowbUwwTlhhc2xYWXNCM0wxUTJZaUJEWjBVekwza0RPNEl6TnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdGdET3hRMmJ5QlhZNmQzYjM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="MIXED03",Bek Sports West
+#EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="MIXED03",Bek Sports West
 PWdUZHowbUwwTlhhc2xYWXNCM0wyVTJOM0FqWTVnekwza0RPNEl6TnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdGdET3hRMmJ5QlhZNmQzYjM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pinclipart.com/picdir/middle/154-1546145_posted-biz-tv-logo-clipart.png" group-title="MIXED03",Biz TV
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/154-1546145_posted-biz-tv-logo-clipart.png" group-title="MIXED03",Biz TV
 NFUzTXQ1eWNyNVdkb04yTHdCRE93RXpYNmxtUXZVM2JaUm1iQnBYYUM5Q2N3Rm1MNUYyZGxSWFluVkdhMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BrighamYoungUniversity.us.png" group-title="MIXED03",BYUtv
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BrighamYoungUniversity.us.png" group-title="MIXED03",BYUtv
 PT1BTzFOVGJ1TTJMb2RXYW85Q013QURNcjhpTjBJV05rOUNkekYyWWtGMmJ5SjJMdDkyWXU0R1p5Tm5hdUUyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BuzzrTV.us.png" group-title="MIXED03",Buzzr
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BuzzrTV.us.png" group-title="MIXED03",Buzzr
 PT1BTzFOVGJ1UXpYenhHYWZKbmU2Vm5ZdlUzTDBWM2J2UVhadTVTZXNSM2NoWm1Mc04zY3V3V1lpOUdibjVpYzZwWGRpOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="MIXED03",CBN News
+#EXTINF:-1 tvg-logo="http://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="MIXED03",CBN News
 NFUzTXQ1Q2N0WVhZZkJETTU4RmVsUm1icDlDTTFBRE41RURReDgxYzNWbWJ2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0WVhhdVZYWjJsR2JqSjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MIXED03",Comedy Central
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MIXED03",Comedy Central
 NFUzTXQ1eWNyNVdkb04yTHNGbWMwNVdaajlWZWtWV2J2TjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MIXED03",Comedy Central
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MIXED03",Comedy Central
 PWdUZHowbUx6dG1iMWgyWXZFbWRwUjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CSPAN.us.png" group-title="MIXED03",C Span
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CSPAN.us.png" group-title="MIXED03",C Span
 PTQyYjlVMmNoSldaeVpDTXgwRFp6OURPMU5UYnVBWEwyRjJYd1V6WDRWR1p1bDJMMkFET3dBVE5BRnpYeE1VZXJOMUxwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x6MVdZbEpIZHpsM2F6OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CSPAN2.us.png" group-title="MIXED03",C Span 2
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CSPAN2.us.png" group-title="MIXED03",C Span 2
 PTQyYjlVMmNoSldaeVpDTXgwRFp6OURPMU5UYnVBWEwyRjJYd1V6WDRWR1p1bDJMM0FET3dBVE5BRnpYeU1VZXJOMUxwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x6MVdZbEpIZHpsM2F6OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CSPAN3.us.png" group-title="MIXED03",C Span 3
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CSPAN3.us.png" group-title="MIXED03",C Span 3
 PTQyYjlVMmNoSldaeVpDTXgwRFp6OURPMU5UYnVBWEwyRjJYd1V6WDRWR1p1bDJMNEFET3dBVE5BRnpYek1VZXJOMUxwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x6MVdZbEpIZHpsM2F6OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-ID="CNG.GO" tvg-logo="https://blog.roku.com/wp-content/uploads/2015/11/CNNgo-logo.png" group-title="MIXED03",CNN Go
+#EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2015/11/CNNgo-logo.png" group-title="MIXED03",CNN Go
 PWdUZHowbUx3QURNMFlUTno4Rk1mOVVSRWxrVnZVR2RoeDJjZjVtYmo5eWJuNW1iajlTTjVRak40VXpMbFpYYXM5eWNzaDJMdDkyWXU0R1pqRldha1ZXYnlWbWJ5RjJkdTRHYnMxU1oybEdidFVtZDA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/e/ea/KMTV3.png/300px-KMTV3.png" group-title="MIXED03",CBS 3 Omaha(KMTV)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/e/ea/KMTV3.png/300px-KMTV3.png" group-title="MIXED03",CBS 3 Omaha(KMTV)
 PWdUZHowbUx3Y3pZakpqWTFRR04zTTJOMlVqTmlObU4zUVRNMUltWjBNRE54UUdPeU16THNWbWJ1RkdhajlTYnZObUxyNVdlc0JYZHVRbmJsUm5idk4yTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.boomtowncdn.com/wp-content/blogs.dir/161/files/2016/10/WRGB_CBS_6_News.svg_.png" group-title="MIXED03",CBS 6 Albany (WRGB)
+#EXTINF:-1 tvg-logo="http://static.boomtowncdn.com/wp-content/blogs.dir/161/files/2016/10/WRGB_CBS_6_News.svg_.png" group-title="MIXED03",CBS 6 Albany (WRGB)
 NFUzTXQ1aVp3WUdPeUVUTm1OV1p4UXpNMmtUWWlKV08wRUdONGdUWWtkVFp6RW1ZaTlDYmw1bWJoaDJZdjAyYmo1eWF1bEhid1ZuTDA1V1owNTJiajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png" group-title="MIXED03",CBS 7 Seattle(KIRO)
+#EXTINF:-1 tvg-logo="http://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png" group-title="MIXED03",CBS 7 Seattle(KIRO)
 PT1BTzFOVGJ1Z1haazVXYXZzR04yZ1RNdjhtY3B0Mkx3Z2pPdDkyWXU4V1prbG1kbjEyWXU4bWNwdFdMMlJIZWoxeWIwRm1kdUZtZHMxeVkyTjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png" group-title="MIXED03",CBS 7 Ohio WHIO)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png" group-title="MIXED03",CBS 7 Ohio WHIO)
 PT1BTzFOVGJ1Z1haazVXYXZzbU41VWpNdjhXYW9kM0x3Z2pPdDkyWXU4V1prbG1kbjEyWXU4V2FvZFhMMlJIZWoxeWIwRm1kdUZtZHMxeVkyTjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="MIXED03",CBS 47 Jacksonville(WJAX)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="MIXED03",CBS 47 Jacksonville(WJAX)
 PT1BTzFOVGJ1Z1haazVXYXZzR04yVWpNdmdYWXFkM0x0OTJZdThXWmtsbWRuMTJZdWdYWXFkWEwyUkhlajF5YjBGbWR1Rm1kczF5WTJOM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="MIXED03",CBSN
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="MIXED03",CBSN
 PWdUZHowbUx5VkdkekZXYnZFMllsVkdaeVlUTmtORE9tQnpOMEVtTTRVR056RWpaNFVHTzBZRE9oVlROdkVqZHZRWGR2OVNidk5tTHpkWFp1Tm5ZajVTYmhWbWMwTm5iekoyWXVNWGE0VkdabE5XTHpWWEx1Tm5Zajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="MIXED03",CSBN New York
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="MIXED03",CSBN New York
 PWdUZHowbUx5VkdkekZXYnZZek14UTJOMElUWWhkak5rZHpOaGxqTXhVRE5pbFRZNFVEWjNrRE96TVdadkVqZHZRWGR2OVNidk5tTHpkWFp1Tm5ZajVTYmhWbWMwTm5iekoyWXVNWGE0VkdabE5XTDU1V0x1Tm5Zajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/09/60h-BOS-white-stacked.png" group-title="MIXED03",CBSN Boston
+#EXTINF:-1 tvg-logo="http://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/09/60h-BOS-white-stacked.png" group-title="MIXED03",CBSN Boston
 PVFGVlA1aVRQUjFVUEprTFRKMFF2Z2pNeFF6TDlVWGEvZ1RkejBtTHlWR2R6RldidmMzWFRoRk0zczBjUWhtVTI4MlVTZDNOTHBrUjJJekwwNVdaMlYyTHp4R2F2SVhZbDVXYXM5U2J2Tm1MbHgyWnY5Mlp1a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2019/12/60h-MINN-white-stacked.png" group-title="MIXED03",CBSN Minnesota
+#EXTINF:-1 tvg-logo="http://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2019/12/60h-MINN-white-stacked.png" group-title="MIXED03",CBSN Minnesota
 VVIxVHU0a1RKMWtMVEowUXZnak14UXpMOVVYYS9nVGR6MG1MeVZHZHpGV2J2RUVUUnQyWWpSV2FsaEhVVDVrVVZaMlFXQjFWanAzTDA1V1oyVjJMenhHYXZJWFlsNVdhczlTYnZObUxseDJadjkyWnVrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://philadelphia.cbslocal.com/wp-content/uploads/sites/15116066/2012/03/30h-PHILLY-white-horizontal.png" group-title="MIXED03",CBSN Philly
+#EXTINF:-1 tvg-logo="http://philadelphia.cbslocal.com/wp-content/uploads/sites/15116066/2012/03/30h-PHILLY-white-horizontal.png" group-title="MIXED03",CBSN Philly
 PVFGVlA1U1dNeFVTSUJsTFRKMFF2Z2pNeFF6TDlVWGEvZ1RkejBtTHlWR2R6RldidmMyVnQxMk01Z2piSGhYWUg1RVZISmpTVWxVTDFoMUwwNVdaMlYyTHp4R2F2SVhZbDVXYXM5U2J2Tm1MbHgyWnY5Mlp1a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png" group-title="MIXED03",CBSN Los Angeles
+#EXTINF:-1 tvg-logo="http://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png" group-title="MIXED03",CBSN Los Angeles
 PT1BVlU5a0xCeGtMVEowUXZnak14UXpMOVVYYS9nVGR6MG1MeVZHZHpGV2J2Y21RUFpsTXdZbGF5dGtiaFZqVTBVWFRPSjJVNFIxTDA1V1oyVjJMenhHYXZJWFlsNVdhczlTYnZObUxseDJadjkyWnVrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2019/11/60h-BAY-white-stacked.png" group-title="MIXED03",CBSN Bay Area
+#EXTINF:-1 tvg-logo="http://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2019/11/60h-BAY-white-stacked.png" group-title="MIXED03",CBSN Bay Area
 PT1BVlU5a0xHTmxMVEowUXZnak14UXpMOVVYYS9nVGR6MG1MeVZHZHpGV2J2RTFjdDVrTWFWamRIVjBjMVIzVVoxaWIwSUdPRloxTDA1V1oyVjJMenhHYXZJWFlsNVdhczlTYnZObUxseDJadjkyWnVrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="MIXED03",CONtv
+#EXTINF:-1 tvg-logo="http://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="MIXED03",CONtv
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FET3lVRE5mQkRPd0VEZXdJVE94OGlURU4wTDJSbmJ2TldMeklUTXYxV2Q0OVZZMEZHWmZOSGJvOVZhbkZXYmg5U2ExTjNjdTkyWXZRWFp1NUNaMzVHYnM1eWIyNVNibmxHWmw1V2FqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="MIXED03",Cozi West Virginia(WZTS)
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="MIXED03",Cozi West Virginia(WZTS)
 PWdUZHowbUx5VkdkekZXYnZFVEwySURNM2tqTXgwaU0xZ1RNd0l6THdJVE1meEdjdjAyYmo1aWNsUjNjdmhXYmhWbWMwTm5MeTB5Y3paV0x5OHlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="MIXED03",Dove Channel
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="MIXED03",Dove Channel
 PWdUZHowbUx5VkdkekZXYnY0RVJEOXlkdjVXWjI5R1p0RUVOeklUTXYxV2Q0OVZZMEZHWmZOSGJvOVZhbkZXYmg5U2ExTjNjdTkyWXZRWFp1NUNaMzVHYnM1eWIyNVNibmxHWmw1V2FqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://pmcvariety.files.wordpress.com/2018/08/dustx-logo.jpg" group-title="MIXED03",DUSTx
+#EXTINF:-1 tvg-logo="http://pmcvariety.files.wordpress.com/2018/08/dustx-logo.jpg" group-title="MIXED03",DUSTx
 PWdUZHowbUwwTlhhc2xYWXNCM0wwTlhabWxtYmgxMkx0OTJZdXdtYzFkbkx5bFdZc05tYnBObkwwTlhkazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="MIXED03",EWTN Canada
+#EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="MIXED03",EWTN Canada
 PT1BTzFOVGJ1c0dNd0lUTWZKek0wZ0hNMmN6WEY1VVFEOUNjdlFYWnU1Q2R1OW1jbVJXZHZ4Mll1Z1hZdzlXWjJrRGNqVnpiNVIyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="MIXED03",Free Speech TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="MIXED03",Free Speech TV
 PT1BTzFOVGJ1WUhkeloyTDE5Q2QxOTJMMFZtYnVRM2NoTldidk5tTHc5R2R1VW1kcHhXTDJSWExvTldabEIzY3RVV1p5Wm1MbGRHWmw5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="MIXED03",FYI
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="MIXED03",FYI
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOVZhNVoyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/FOXLife.us.png" group-title="MIXED03",FOX Life
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FOXLife.us.png" group-title="MIXED03",FOX Life
 NFUzTXQ1eWNyNVdkb04yTGxaV2FzOUZldloyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.fox23.com/pb/resources/images/cmg_icons/koki-logo.png" group-title="MIXED03",FOX 23 Tulsa (KOKI)
+#EXTINF:-1 tvg-logo="http://www.fox23.com/pb/resources/images/cmg_icons/koki-logo.png" group-title="MIXED03",FOX 23 Tulsa (KOKI)
 PT1BTzFOVGJ1Z1haazVXYXZzR04yVWpNdmsyYXZ0Mkx0OTJZdThXWmtsbWRuMTJZdWsyYXZ0V0wyUkhlajF5YjBGbWR1Rm1kczF5WTJOM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="MIXED03",FOX 25 Boston (WFXT)
+#EXTINF:-1 tvg-logo="http://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="MIXED03",FOX 25 Boston (WFXT)
 PT1BTzFOVGJ1Z1haazVXYXZzR04yVWpNdlFIZW1kM0x3Z2pPdDkyWXU4V1prbG1kbjEyWXVRSGVtZFhMMlJIZWoxeWIwRm1kdUZtZHMxeVkyTjNMdm9EYzBSSGE=
 
-#EXTINF:-1 ch-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="MIXED03",FOX 28 Savannah (WTGS)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="MIXED03",FOX 28 Savannah (WTGS)
 PWdUZHowbUx3Z0RObFoyTTRRbVp6TURNaGh6WTRRV1kxUURaNUlXTWhKVE5oSm1OMVUyTHNWbWJ1RkdhajlTYnZObUxyNVdlc0JYZHVRbmJsUm5idk4yTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png" group-title="MIXED03",Lax Sports Network
+#EXTINF:-1 tvg-logo="http://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png" group-title="MIXED03",Lax Sports Network
 PT1BTzFOVGJ1SVdMMkYyWHdBRE95OEZlbFJtYnA5Q001Y2pNeU1EUXg4MWF5OTJkMFZtYnpSbmN2QjNjNEZHVHZrMkwwVm1idVFHYXBGV2JodFdZdWdHYnRNWGJzbG1abkZtYno5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MIXED03",MLB Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MIXED03",MLB Network
 PT1BTzFOVGJ1UVdaeWwyZGZKWFowTlhZdDlTTWZKVlFGNVVTTTkxU1M5MFZVVmtUdnNtY3ZkSGRsNW1ZczEyTHhBemNzOVNidk5tTGl4V2J1RVdha1ZXYnVFRFpsMVdManRXWXRVbWRweDJjc2gyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-ID="STA.US" tvg-logo="http://static.epg.best/us/Stadium.us.png" group-title="MIXED03",Stadium
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/Stadium.us.png" group-title="MIXED03",Stadium
 PT1BTzFOVGJ1SVhaME5YWXQ5Q05maFhkdDlpTXhVak15VXpMbFpYYXM5eWNzaDJMMFZtYnVRR2FwRldiaHRXWXVrV0x1bFdaMmxHYnRWWGFrRkdkejl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="MIXED03",NFL Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="MIXED03",NFL Network
 PWdUZHowbUw0VkdadWwyTHdJek5meG1adTFDWm85eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MIXED03",MLS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MIXED03",MLS TV
 bFZuYzAxemNrRlVaa2wyVXlWbWR5VjJjbTBUWnlWSGRqVkdkcGgyWXlGbUo5d21jVlZtY3ZSM1V3QlhZbTBqYnZsMmN5Vm1Wa3hXYTFKbUppVjJkOVVXYmg1RWN3Rm1KOVVXYmg1Mlh3QlhZbU1ETTNVakx6Y1RMOTQyYk1WMllwWlhaa1pDTjVrRE51VUROOVFYWU1WMllwWlhaa1pTUGtsMFp1bDJjcFJuY2xaSFpoWlNQa2xrY2xOWGRtQVRQVTVFUmxOV2EyVkdabUkyTjVZV01oTm1OekVHTzVVMk0xWTJNalpqTjFNMk1saGpOMEVHWnhNR01sTlROaloyTmhsVEwwNHlOdUlUUHU5V2F6SlhaV0JIY2haaU16RWpMNUFET3o0Q011WXpOOTQyYnBObmNsWlZaamxtZGxSbUptbHpOemNETndRbU16UUdadE1UT3pFV0x5Z2pZMDBpWWpGak10TVRONWdqTXlZV085UVdTbE5XYTJWR1ptSW1aMUFUT21aRE14RTJOeDBpTnhNall0RTJOMFFUTHlrRE95MHlOd1lETnpZVE1rMURacE5uSmwxMmJ5aDJROXdXWms5V1RsTldhMlZHWm1VV2J2SkhhRDFUWnJGV1RsTldhMlZHWm1JV1ozMVRad2xIVmxOV2EyVkdaL2dUZHowbUx5VkdkekZXYnZNV096UWpaNElUTTBFRE56Z2paaE5tWmpaak0ySTJZMThDYmw1bWJoaDJZdk1IYm85Q2FqUlhhME4zTDJSbkx2Ulhkc0JuTHpKWFowTlhkc05tTHlWR2FqUlhhME5YTGxOV2EySlhaejl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="MIXED03",Global News
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="MIXED03",Global News
 PWdUZHowbUx4OEZlbFJtYnA5eVkzTVdNbVJHTnhNVE5pSkRaaU5UTzVNVE8wVW1NbUJUTWpaalozRXpNaTlTTTI5Q2QxOTJMMFZtYnVRbmJ2Sm5aa1YzYnNObUxxRm5ONXhtZXJSSFp6ZFRZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" group-title="MIXED03",GOD TV
+#EXTINF:-1 tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" group-title="MIXED03",GOD TV
 bjVHY3VFelhsUlhhb2RYTHo1V1l5UlhMblZuWXRRMmJuOXljbGRXWXRsMkwyUkhadmQyTHpWV2JsaEdkdlFuYmxSbmJ2TldMd2QzTDJSbkxrOTJadWMzZDM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="MIXED03",Horizon Sports
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="MIXED03",Horizon Sports
 NFUzTXQ1eVl2QURNd0F6S3ZVRE0zSWpNdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson TV
 PWdUZHowbUx4QUROMVkyTjJVVE16UUdNdFlHT2lsVEw1VTJOMDBpTjNZbVl0TW1NakZHWndrVE12a1hZc0IzTHlWMmF2Sm5ZdllIZHU4V2F2bG1MeVEyYnlCbkwyUkhabzl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson Racing TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson Racing TV
 PWdUZHowbUwzRW1OakptWTFBelk1RUROdGtUWnhnVExrTlRNMDB5WTJFVE50WVRPaFZETnlVR1p2a1hZc0IzTHlWMmF2Sm5ZdllIZHU4V2F2bG1MeVEyYnlCbkwyUkhabzl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson Factory TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson Factory TV
 PWdUZHowbUxqWkdaMFlUWTBNVE8xUVdPdFVEWnpFV0x4VVdaMDB5WWtaR010Z2pNNWNqWTFNell2a1hZc0IzTHlWMmF2Sm5ZdllIZHU4V2F2bG1MeVEyYnlCbkwyUkhabzl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson Garage TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="MIXED03",Harley Davidson Garage TV
 PWdUZHowbUwwa1ROd1FEWjNrek5sWm1adFVqTTNJV0wzQXpNMDBDWnlFR010a0Rad0VEWmlOall2a1hZc0IzTHlWMmF2Sm5ZdllIZHU4V2F2bG1MeVEyYnlCbkwyUkhabzl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="ICI.CA"  tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" group-title="MIXED03",Insight TV
+#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" group-title="MIXED03",Insight TV
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwNVNhbkZXYmg1aWN5bEdkejFpY2xSbWJ2ZG5icDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="MIXED03",ICI RDI
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="MIXED03",ICI RDI
 PWdUZHowbUx3QVROeThsY2xSM2NoMTJMcFJtY3VGMlk0OVNOeUFETndjekxsWlhhczl5Y3NoMkwwVm1idVFXWjZsV1l0RjJhaDVTWjJsR2IyRjJZeTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ofm6z46z825qpxk83fa00q1a-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/200217-MSV-Website-Photo-Refresh-v3-1.png" group-title="MIXED03",Its Supernatural Network
+#EXTINF:-1 tvg-logo="https://ofm6z46z825qpxk83fa00q1a-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/200217-MSV-Website-Photo-Refresh-v3-1.png" group-title="MIXED03",Its Supernatural Network
 PT1BTzFOVGJ1QVhMMkYyWDRJek54OEZlbFJtYnA5eU56TUROeE1EUXg4Vk1DMTBRRUIxUU9OVlN2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0RURNeE1HWndOMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/Bx8NaEnRelcRTcpdosCCYggM3Xd-bMZu0d9whL9SKd2V9DDa0_0663RIgpTQr5mVBpfY3ajysjdh" group-title="MIXED03",KET
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Bx8NaEnRelcRTcpdosCCYggM3Xd-bMZu0d9whL9SKd2V9DDa0_0663RIgpTQr5mVBpfY3ajysjdh" group-title="MIXED03",KET
 U1pGUi9nVGR6MG1MME5YYXNsWFlzQjNMd1lUT3lnak14MENOeGtETXdJak8wTkhidEYyTDBNVE1meEdjdjAyYmo1aWNsUjNjdmhXYmhWbWMwTm5MeDB5Y3paV0x5OHlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="MIXED03",KTLA 5
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="MIXED03",KTLA 5
 NFUzTXQ1eVl6TUROeUFUTXhJV096VXpONGNqWXhNR1owZ3pNMUVtTXpRbU1tSjJZMjhDYmw1bWJoaDJZdjAyYmo1eWF1bEhid1ZuTDA1V1owNTJiajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png" group-title="MIXED03",Lacrosse Network
+#EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png" group-title="MIXED03",Lacrosse Network
 PTQyYjlVMmNoSldaeVpDTXgwRFp6OURPMU5UYnVBWEwyRjJYd0FET3k4RmVsUm1icDlDTTVjak15TURReDgxYXk5MmQwVm1ielJuY3ZCM2M0RkdUdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didE1YYnNsbVpuRm1iejl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="MIXED03",Mobcrush
+#EXTINF:-1 tvg-logo="http://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="MIXED03",Mobcrush
 NFUzTXQ1Q2QwOTJMdzh5Y3NoMkx0OTJZdWcyYzFKM1lpOVdidVFIZHY5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png" group-title="MIXED03",MyNetwork Texas (KCWX)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png" group-title="MIXED03",MyNetwork Texas (KCWX)
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTDRkM1lyOVNaMmxHYnZVek01RWpPMkVqTXVZakwyTWpMMVl6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1271156934213804034/rZR2qmbm_400x400.jpg" group-title="MIXED03",NBC LX
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1271156934213804034/rZR2qmbm_400x400.jpg" group-title="MIXED03",NBC LX
 NFUzTXQ1Q2N0WVhZZkJGTTRBVE1maFhaazVXYXZZRE15Z0ROeEFVUldsRVRmaEZUdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didFVtZHB4R2VzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="MIXED03",NBC 11 Pittsburgh (WPXI)
+#EXTINF:-1 tvg-logo="http://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="MIXED03",NBC 11 Pittsburgh (WPXI)
 PT1BTzFOVGJ1Z1haazVXYXZzR04yVWpNdmtHZXdkM0x0OTJZdThXWmtsbWRuMTJZdWtHZXdkWEwyUkhlajF5YjBGbWR1Rm1kczF5WTJOM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="MIXED03",NBC 30 Connecticut (WVIT)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="MIXED03",NBC 30 Connecticut (WVIT)
 PWdUZHowbUxpMWlkaDlsTjRJVE1maFhaazVXYXZRak54RXpOQUZ6WHlJR2RwWjNkdmsyTDBWbWJ1UUdhcEZXYmh0V1l1WVdMbFpYYXNSWGEyZDNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="MIXED03",News 12 Bronx
+#EXTINF:-1 tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="MIXED03",News 12 Bronx
 PWdsUXlFalQ5NDJacE5IYnNGMlkvZ1RkejBtTDNWbWJmaFhaazVXYXZVbWRweEdaaEJYYXU5aU14TTNkbDUyTDBWbWJ1MFdkdGxHZHc5bUwyUkhjcDV5Y3NoMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bk/images/news12bk-logo.png" group-title="MIXED03",News 12 Brooklyn
+#EXTINF:-1 tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bk/images/news12bk-logo.png" group-title="MIXED03",News 12 Brooklyn
 PTQwU3lFalQ5NDJacE5IYnNGMlkvZ1RkejBtTDNWbWJmaFhaazVXYXZVbWRweEdaaEJYYXU5aU14TTNkbDUyTDBWbWJ1MFdkdGxHZHc5bUwyUkhjcDV5Y3NoMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12li/images/news12li-logo.png" group-title="MIXED03",News 12 Long Island
+#EXTINF:-1 tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12li/images/news12li-logo.png" group-title="MIXED03",News 12 Long Island
 PT1BVlRWMFZmbEVUeUVqVDk0MlpwTkhic0YyWS9nVGR6MG1MM1ZtYmZoWFprNVdhdlVtZHB4R1poQlhhdTlpTXhNM2RsNTJMMFZtYnUwV2R0bEdkdzltTDJSSGNwNXljc2gyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" group-title="MIXED03",Newsnet
+#EXTINF:-1 tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" group-title="MIXED03",Newsnet
 PWdUZHowbUwwTlhhc2xYWXNCM0xpVjJkMFZtYnpkWFp1OWljbFIzY2gxMkx4Z0RNNG9UYnZObUwwVm1iemRYWnVKWGR2bG5MNTVHZHpGMllrRjJieUoyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://resources.ntv.ca/wp-content/uploads/2019/11/01095849/NTV_newWS.png" group-title="MIXED03",NTV Newfoundland
+#EXTINF:-1 tvg-logo="http://resources.ntv.ca/wp-content/uploads/2019/11/01095849/NTV_newWS.png" group-title="MIXED03",NTV Newfoundland
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RVRMd1FqTnlnak14MENPMGNUTXdJekw0TVRNZnhHY3YwMmJqNWljbFIzY3ZoV2JoVm1jME5uTHkweWN6WldMeTh5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="MIXED03",OAN Encore
+#EXTINF:-1 tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="MIXED03",OAN Encore
 PWdUZHowbUw0VkdadWwyTHdBak4xY0RPZmhET3lnbk14VXpMT1IwUXZNM2RsNVdZamxtY2wxV1lsNTJidE1XYXlWV2JoVm1idjlWWTBGR1pmTkhibzlWYW5GV2JoOXljc2gyTDJSbkxwZFdZdEZtTHpWWEwxdDJieTF5YzNWbWJoTldheVZXYmhWbWJ2OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="MIXED03",Pop
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="MIXED03",Pop
 PWdUZHowbUx5VkdkekZXYnZBM2J3OUNkbDVtTDV4R2R6Rm1adXcyY3o1Q2JoSjJic2RtTGs5bWN3MVNlc1IzY2haV0wyUkhjdkJYTGxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTUS.ru.png" group-title="MIXED03",RT USA
+#EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUS.ru.png" group-title="MIXED03",RT USA
 NFUzTXQ1aVlMQkRNMUl6WDFBVE14OENNNG9EZGw1bUwwNVdheUJIZHY5bVp1VW1jMU5XWno1U1l6VlhMMEozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://le1.cdn01.net/channels/0000010/0010250/thumb/0010250xl.jpg" group-title="MIXED03",SafeTV4U2
+#EXTINF:-1 tvg-logo="http://le1.cdn01.net/channels/0000010/0010250/thumb/0010250xl.jpg" group-title="MIXED03",SafeTV4U2
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwVm1aaE4zTGxaWGFzOVNOemtUTTZBek14NFNNNTRTTTVFakw0RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg" group-title="MIXED03",Stirr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg" group-title="MIXED03",Stirr
 PWdUZHowbUx5VkdkekZXYnZFbFJycFZZS2RXTHpsR2JEQlZVYWhXWjFSRlNrbDBMMDVXWjJWMkx6eEdhdklYWWw1V2FzOVNidk5tTGx4Mlp2OTJadWtXWWs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-ID="SPY.US" tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="MIXED03",Spydar TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="MIXED03",Spydar TV
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SVhZa2xIY3o5eWJwUldkME5YWnU5MkwyUm5MaGxHWmwxR2F6RkdadVVHYmkxV2F1OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/q5aMNGZchcP92L00_G13E1zk-dpb2EP4TZj560h2oBEN0A4rNMM88cG-zF6eD2j6hClHyrMxro-8" group-title="MIXED03",Tastemade
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/q5aMNGZchcP92L00_G13E1zk-dpb2EP4TZj560h2oBEN0A4rNMM88cG-zF6eD2j6hClHyrMxro-8" group-title="MIXED03",Tastemade
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDlTWmtGV2JsUjNjaFJYTGxSV1l0VkdkekZHZGZGR2RoUjJYenhHYWZsMlpoMVdZdlFYWnU1Q1pscFhhaDFXWXJGbUxwRjJjelZHWmgxV1owTlhZMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tct.tv/static/img/logo.png" group-title="MIXED03",TCT Network
+#EXTINF:-1 tvg-logo="http://www.tct.tv/static/img/logo.png" group-title="MIXED03",TCT Network
 PWdUZHowbUx5a1RNZlZtZHB4MFhUeEVTVU5FVnZNRlRJUjFRVTlTTXdBak0xUWpOM2t6TjVrVE12SXpNMllETXk4U1oybEdidk1IYm85Q2RsNW1Ma2hXYWgxV1lyRm1McDF5Y3ZsV1oybEdibFozYmpKMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Vtele.svg/800px-Vtele.svg.png" group-title="MIXED03",Tele-V
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Vtele.svg/800px-Vtele.svg.png" group-title="MIXED03",Tele-V
 PT1BTzFOVGJ1SVhaME5YWXQ5U013QVROMWdqTjJVRE94WXpMeFlETXhVVE52VW1kcHgyTHp4R2F2UVhadTVDWm9sV1l0RjJhaDVTYXRNSGJvVm1kcHhXWnlWM1lsTjNZaTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png" group-title="MIXED03",The Miracle Channel
+#EXTINF:-1 tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png" group-title="MIXED03",The Miracle Channel
 NFUzTXQ1Q2R6bEdiNUZHYnc5U1oybEdidlVtZHB4MkwwVm1idVFuYnZKblprVjNic05tTHlVVFkxb0dhdVp6ZDFKWE9rOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",TLC
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",TLC
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFZc1IzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wmfd.com/images/logo.png" group-title="MIXED03",WMFD
+#EXTINF:-1 tvg-logo="https://wmfd.com/images/logo.png" group-title="MIXED03",WMFD
 PT1BTzFOVGJ1VW1kcHgyTHdBRE4yWUROejh5YzA1V1oyVjJMeEVUTzBrVE14OHljMDVXZHZOMlloOVNidk5tTHRGV1p5UjNjbFpYYXM1eWRsNW1McEJYWXRJWFo1Rkdidzl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="MIXED03",WHDH-TV
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="MIXED03",WHDH-TV
 NFUzTXQ1aWNsUjNjaDEyTHRGV1p5UjNjbFpYYXM5U01mRkRNd2NETTRrVE80UUROM1F6TDJRRE00a1ROdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1ZtZHB4V1p5VjNZbE4zWWk5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="MIXED03",WSVI-TV (Virgin Islands)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="MIXED03",WSVI-TV (Virgin Islands)
 PT1BTzFOVGJ1SVhaME5YWXQ5U00xSUROelVEUXg4VloybEdialIyTHA5Q2RsNW1Ma2hXYWgxV1lyRm1Mb3hXTHdNVFoybEdicDVXZGpSMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="MIXED03",Youtoo America
+#EXTINF:-1 tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="MIXED03",Youtoo America
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TVhadTlHVmxWM1F2ODJiVVYzYlo5Q2N3Rm1MNUYyZGxSWFluVkdhMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="MIXED03",Z Living
+#EXTINF:-1 tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="MIXED03",Z Living
 PUFDTzFOVGJ1OG1idjEyTGs5bWN3OWxjZkYyYzFkbWJwWlhhc3AzTDBWbWJ1NEdaamRIYXV3MmN6NVNPaFJqYTRjWE41OXlMNk1IYzBSSGE=
 
 #exo europ
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="MIXED03",NWS:ABC News
+#EXTINF:-1 tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="MIXED03",NWS:ABC News
 NFUzTXQ1U1ppWmpZM2dUT2tOV05qTkdNaU5qWTVJek0wRUROamRqTjBJalowSXpNejhDYmw1bWJoaDJZdjAyYmo1eWF1bEhid1ZuTDA1V1owNTJiajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="MIXED03",NWS:Africa News
+#EXTINF:-1 tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="MIXED03",NWS:Africa News
 NFUzTXQ1eWMzVm1UaE5XYXlaV1F2NFdacjlHVnZnVFZ6MDBMeVZHZHpGV2J2WUZWUWwwTHlWbWRwUjJiNFYyTHQ5Mll1UW5ibFJuYnZObWNsTlhkaVZIYTBsMlp1Y1hZeTl5TDZNSGMwUkhh
 
-#EXTINF:-1 logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="MIXED03",NWS:Arirang
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="MIXED03",NWS:Arirang
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdWcyWXg4MVp1Rm1jcEpYWTZ3V2F0TjNMb05XTWZkbWJoSlhheUYyTDBWbWJ1VUdkcFYzY2xkR1psNVNidk5tTGs1R2RqNVNNd2cyWXRVbWRweEdadEYyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="MIXED03",NWS:Al Jazeera English
+#EXTINF:-1 tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="MIXED03",NWS:Al Jazeera English
 PT1BTzFOVGJ1RURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="MIXED03",NWS:BBC News
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="MIXED03",NWS:BBC News
 PWdUZHowbUwwTlhhc2xYWXNCM0x0RldaeVIzY3VnMlpwaG1MM0l6TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="MIXED03",NWS:BBC News
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="MIXED03",NWS:BBC News
 PWdUZHowbUwxSURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="MIXED03",NWS:BBC World News
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="MIXED03",NWS:BBC World News
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzSjNiMzkxWWlKMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="MIXED03",NWS:CBS News
+#EXTINF:-1 tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="MIXED03",NWS:CBS News
 PWdUZHowbUx5VkdkekZXYnZFMllsVkdaeVlUTmtORE9tQnpOMEVtTTRVR056RWpaNFVHTzBZRE9oVlROdkVqZHZRWGR2OVNidk5tTHpkWFp1Tm5ZajVTYmhWbWMwTm5iekoyWXVNWGE0VkdabE5XTHpWWEx1Tm5Zajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="MIXED03",NWS:Cheddar Big News
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="MIXED03",NWS:Cheddar Big News
 NFUzTXQ1Q2VsUm1icDlpYmlOMkx0OTJZdU1XYTBGR2R6Skhab05tTGxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="MIXED03",NWS:CGTN
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="MIXED03",NWS:CGTN
 NFUzTXQ1Q2VsUm1icDkxWnZKSGN2QURNd0V6THQ5Mll1NEdkbk5tTGxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="MIXED03",NWS:CNN International
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="MIXED03",NWS:CNN International
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWJ1TjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="MIXED03",NWS:CNBC World
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="MIXED03",NWS:CNBC World
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNUNNekVETnZVbWRweDJMdDkyWXU0MmJ0eFdhbTVpZG4xQ2FqMWlNNUVUTXRVMlprVjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="MIXED03",NWS:Deutsche Welle (English)
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="MIXED03",NWS:Deutsche Welle (English)
 NFUzTXQ1Q2N0WVhZZlJ6WDRWR1p1bDJMNUl6TXhNVE1BVm1kcHgyWDAwV1lsSkhkemRIWnZrMkwwVm1idVFHYXBGV2JodFdZdWdHYnRRVGJoVm1jME4zZGs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="MIXED03",NWS:FOX News
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="MIXED03",NWS:FOX News
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2NrTm5MelVXTW1WV04yTXpOM0VEWmtKV016WUdONGdUTm1Wek40TVdNakZXTTJrekxUZFZST2gxVEc5U2J2Tm1MdVIyWXpSbmJsTldOdVVtZHB4V0x6eEdhdE1UTjR4bWIwY25Nc2R6YWk5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="MIXED03",NWS:FOX Business
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="MIXED03",NWS:FOX Business
 PT1BTzFOVGJ1VW5id05YWnZ3V2FoMVdadUlXWXNKbUx5RVdibjl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="MIXED03",NWS:France 24
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="MIXED03",NWS:France 24
 NFUzTXQ1Q013QWpNZkpYWjBOWFl0OXlVTWgwWEpoMFhPVjBYMElqUnZjRE54RWpNeThTWjJsR2J2TUhibzlDZGw1bUxraFdhaDFXWXJGbUxwMXljc2hHTnlZMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="MIXED03",NWS:India Today
+#EXTINF:-1 tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="MIXED03",NWS:India Today
 PWdUZHowbUwwTlhhc3RtYjFoMll2VXpYNUZHWnZSWFlwUm1icDlTWjJsR2I1RkdadlJYWXBSbWJwOVNlaFIyYjBGV2FrNVdhdkFqTXpRVE13SXpMbFpYYXM5eWNzaDJMMFZtYnVRV1o2bFdZdEYyYWg1U1oybEdiNUZHWnZSWFlwUm1icDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="MIXED03",NWS:India Today
+#EXTINF:-1 tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="MIXED03",NWS:India Today
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdUlETzBNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="MIXED03",NWS:Mirror Now
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="MIXED03",NWS:Mirror Now
 PWdUZHowbUx5VkdkekZXYnZVRE4xWUROekFVTWY1a1VOOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMWlZbGQzZHY1bVl0OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="MIXED03",NWS:Times Now
+#EXTINF:-1 tvg-logo="http://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="MIXED03",NWS:Times Now
 PT1BTzFOVGJ1QVhMMkYyWHdJek5maFhaazVXYXZnRE95a2pNeEFVTWZSRVNPUjFMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMMzltYnpWV2JwUjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="MIXED03",NWS:NDTV 24X7
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="MIXED03",NWS:NDTV 24X7
 NFUzTXQ1aWNsUjNjaDEyTjRSak0yUkhadTl5TjRSak0yUkhadTlDTzNZek13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxoNVdZb05tY2gxV1pzVjJONFJqTTJSSFp1OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="MIXED03",NWS:Newsmax
+#EXTINF:-1 tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="MIXED03",NWS:Newsmax
 PWdUZHowbUx3Z0RNeDhGZWxSbWJwOVNNZlZtZHB4MEwxWVRPNUlUTnZVbWRweDJMenhHYXZRWFp1NUNabHBYYWgxV1lyRm1MbFpYYXNoWGJ1OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="MIXED03",NWS:NHK World
+#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="MIXED03",NWS:NHK World
 PT1BTzFOVGJ1VW1kcHgyTDRVRE56QURNeThDYmhKMmJzZDJMMlJYTGt4bWN2ZDNhbzUyTHhFemQzZDNMd3BtTGw1bUx0RldaeVIzY3U0R1pqSldaMzVDWnNKM2IzdEdhdTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="MIXED03",NWS:RT
+#EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="MIXED03",NWS:RT
 PT1BTzFOVGJ1STJTd0FUTnk4MU13RVRNdkFETzZRWFp1NUNkdWxtY3dSM2J2Wm1MbEpYZGpWMmN1TTNkbDVXTDBKM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="MIXED03",NWS:Sky News
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="MIXED03",NWS:Sky News
 NFUzTXQ1Q2R6VkdkaHgyTHpFRE14OHljaE5XYXlWV2JoTjNkbDVXZXJOM2NzaEdaajlDZGw1bUxrVm1lcEZXYmh0V1l1OG1kdFVtZHB4MmIwVkhidzFpTXpkWFp1bDNhejl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="MIXED03",NWS:Telesur English
+#EXTINF:-1 tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="MIXED03",NWS:Telesur English
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2UUdhdk1qZGxaWGFzSldidlFYWnU1Q2R1OW1jbVJXZHZ4Mll1SVRPMUlEZG1KV1p4YzJOazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="MIXED03",NWS:Weather Channel
+#EXTINF:-1 tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="MIXED03",NWS:Weather Channel
 PT1nYnYxVFp6Rm1ZbEpuSndFVFBrTjNQNFUzTXQ1aVl0WVhZZkJETTBJelg0VkdadWwyTDJBRE15a0RReDgxWTNSM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x5VkdhMEZXWjM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="MIXED03",NWS:WeatherNation TV
+#EXTINF:-1 tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="MIXED03",NWS:WeatherNation TV
 NFUzTXQ1U00xY0RPeVFET3k4Q1pKWm1idk5VYTE5Q2MwUkhhdncyYmo5R2R2SkhjdkFIZDBoV1pzQkhjaDlDZGgxbWN2WjJMeVUyWmpobmN2OTJYeDhDWkpsbmMwNVdadlEzY2xaV2F1RldUNUZHYnc5Q013SURNM0V6TTU4Q2N6OWlNd2NUTXprekx3OVNidk5tTGhKWGQweFdZcjVTYXdGbWJrTjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",FNWS:Bloomberg Asia
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",FNWS:Bloomberg Asia
 PWdUZHowbUxsWlhhczlWTXRBRE13RVRMelpYY1dSRlVCMVNaakpYZHZOMUx4MHliNXQyYjAxeVVYRlVMelpYY1dSRlVCMUNibDVtYmhoMlF2RURjaDlDZGw1bUw1eEdkekZtWnV3MmN6NUNiaEoyYnNkbUwwTlhZbGhHZHk5bWJ3RkdadkpIY2xaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",FNWS:Bloomberg US
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",FNWS:Bloomberg US
 PWdUZHowbUxsWlhhczlWTXRBRE13RVRMV1IxVVYxU1pqSlhkdk4xTHgwU1lwNVdhbkpYYTIxeVVYRlVMV1IxVVYxQ2JsNW1iaGgyUXZNWGR2UVhadTVTZXNSM2NoWm1Mc04zY3V3V1lpOUdibjVDZHpGV1p6VkhadkpIY2xaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.bloomberght.com/images/logo.png" group-title="MIXED03",FNWS:Bloomberg HT
+#EXTINF:-1 tvg-logo="http://www.bloomberght.com/images/logo.png" group-title="MIXED03",FNWS:Bloomberg HT
 NFUzTXQ1Q2N3SXpOZlJIYW5KWFppMTJidnhtWXZRSGFuSlhaaTEyYnZ4bVl2UVhadTVpYmtObWJ2bFdZazVpY2w1V2FqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="MIXED03",FNWS:Cheddar
+#EXTINF:-1 tvg-logo="http://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="MIXED03",FNWS:Cheddar
 PT1BTzFOVGJ1a25jaDFXYXlCM0x1SjJZdjBXWWxKSGRUUldadWQzVHlGR1prVkdhRDlDTXlZak0wMGljaFJHWmxoMll2MDJiajV5WXBSWFkwTm5ja2gyWXVVbWRweFdadDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="MIXED03",FNWS:CNBC 18
+#EXTINF:-1 tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="MIXED03",FNWS:CNBC 18
 PT1BTzFOVGJ1QVhMMkYyWDE4RmVsUm1icDlDTzJnRE4zRURReDhGT3hZSGRqSm1iajlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFDT3hZSGRqSm1iajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="MIXED03",FNWS:CNBC Indonesia
+#EXTINF:-1 tvg-logo="http://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="MIXED03",FNWS:CNBC Indonesia
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTDJSM1lpNTJZNndXYXROM0xqSm1ialZtZHB4Mkx0OTJZdUVXYXpWbWJ2Um1icE5tWXVObUxsWlhhczl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="MIXED03",FNWS:CNBC आवाज़
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="MIXED03",FNWS:CNBC आवाज़
 NFUzTXQ1Q2N0WVhZZlZ6WDRWR1p1bDJMeWNETzBjVE1BRnpYNkZXWTNGMllpNTJZdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didG9YWWhkWFlqSm1iajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/ETNOW.in.png" group-title="MIXED03",FNWS:ET Now
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/ETNOW.in.png" group-title="MIXED03",FNWS:ET Now
 PT1BTzFOVGJ1SVdMMkYyWDJjVE5maFhaazVXYXZBek53Z0ROekFVTWY1RVZGOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMVNaMmxHYmlWMmQzOW1iMFYyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="MIXED03",FNWS:NDTV Profit
+#EXTINF:-1 tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="MIXED03",FNWS:NDTV Profit
 NFUzTXQ1aU1BQkhNNFF6WGlKWFowTlhZdDlDZHBaMmJ5Qm5kMFJtYnZJV0x3Z2pOekFETXk4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdUVtYmhoMll5RldibHhXWjBsbVp2SkhjMlJIWnU5eUw2TUhjMFJIYQ==
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="MIXED03",NWS:Al Araby 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="MIXED03",NWS:Al Araby 1
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdTBXWWxKSGR6NVNlaUZtY2h4V1k2d1dhdE4zTDVKV1l5RkdiaDlTYnZObUxrbG1kcFIzWXY1aWJrTm1MNUpXWXlGR2JoOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="MIXED03",NWS:Al Arabiya
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="MIXED03",NWS:Al Arabiya
 PWdUZHowbUx3QkRPd0V6WDBOWGFzbFhZc0IzTHNsV2J6NVNZNWxtWWhKWFlzRjJMb05YYXNKV2R3RldhaUZtY2h4V1l2UVhadTVTWTVsbVloSlhZc0ZtTGxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="MIXED03",NWS:Al Hadath
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="MIXED03",NWS:Al Hadath
 PWdUZHowbUx3QkRPd0V6WDBOWGFzbFhZc0IzTHNsV2J6NUNhMEZHWmhoR2JoOUNhemxHYmlWSGNobG1ZaEpYWXNGMkwwVm1idUVXZXBKV1l5RkdiaDVpZGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="MIXED03",NWS:Al Jazeera
+#EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="MIXED03",NWS:Al Jazeera
 PT1BTzFOVGJ1RURNdkVrU0I5Q2RsNW1McUZHZGxkbUxocFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="MIXED03",NWS:Al Hurra
+#EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="MIXED03",NWS:Al Hurra
 PT1BTzFOVGJ1WVRPMUl6WHlWR2R6RldidlVtWmhOSFpzSjNiMzlpTXlFak40VXpMbFpYYXM5eWNzaDJMMFZtYnVRR2FwRldiaHRXWXVrV0xreG1jdmRIZHpWMlp1bG1iaTEyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="MIXED03",NWS:Al Hiwar
+#EXTINF:-1 tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="MIXED03",NWS:Al Hiwar
 PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpY2hkWGFveFdZNndXYXROM0xsWlhhczlsY2hkWGFveFdZdjAyYmo1aWJrTm1idDVDYnUxaWJ0OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="MIXED03",NWS:Al Sharqiya News
+#EXTINF:-1 tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="MIXED03",NWS:Al Sharqiya News
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdUVETTBOWFowcERicDEyY3ZVbWRweFdZNWxXY3lGR2F6eFdZdlV6TTVFak80TVRNdWNUTnVnek14NENPNEV6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" group-title="MIXED03",NWS:ANN
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" group-title="MIXED03",NWS:ANN
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NG1iaDlpYnVGMkwxTVRPeG9UYnZObUxsTm1jdlpHZWxSbWJwNUNPejUyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="MIXED03",NWS:BBC عربى
+#EXTINF:-1 tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="MIXED03",NWS:BBC عربى
 NFUzTXQ1aU16QUROd1lUTWtOVEp2VkdacFpYTHdBRE0ya0RaelV5TWhCWEwyUjNYamxtWWhKWFlmTm1ZaTlDYnROWGF1WUhkZk5XYWlGbWNoOTFZaUoyTDJSM1hqbG1ZaEpYWWZObVlpOXlhMTUyYnU5U1oybEdidklETTU4RmJ2OUdjdnNXZHU4Mll1azJZaUptTGsxbUxtTm1MbFpYYXM1eWQzMXljc2hXTHpaM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="MIXED03",NWS:عربية CNBC
+#EXTINF:-1 tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="MIXED03",NWS:عربية CNBC
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SW5ZaFZtZHB4MkxqSm1iajlDZGw1bUx1UjJZa2xtY2lsR2F1UTJiMjl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="MIXED03",NWS:CGTN عربى
+#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="MIXED03",NWS:CGTN عربى
 NFUzTXQ1U1l0NEdkbk4yTGpsbVloSlhZdlVtZHB4MkxsTm1jMTkyY2xKM0x0OTJZdTRHZG5ObUx6ZFhadTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="MIXED03",NWS:DW عربى
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="MIXED03",NWS:DW عربى
 PWdUZHowbUx5VkdkekZXYnZBRE0wUWpNeEFVWjJsR2JmSlRiaFZtYzBOM2RrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMWlNdEZXWnlSM2MzUjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/en/corporate/channels/alhadath/main/0/imageBinary/ab183bf5467dc16c6e230e38b9d1f9f5029b4a90/alhadath.png" group-title="MIXED03",NWS:Libya Al Hadath
+#EXTINF:-1 tvg-logo="https://www.mbc.net/en/corporate/channels/alhadath/main/0/imageBinary/ab183bf5467dc16c6e230e38b9d1f9f5029b4a90/alhadath.png" group-title="MIXED03",NWS:Libya Al Hadath
 NFUzTXQ1Q2EwRkdaaGhHYmgxU1k1SldhczlDYTBGR1poaEdiaDFTWTVKV2FzOUNkbDVtTHVSMll5Vm1MaDVXWnRKWFkwTjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="MIXED03",NWS:RT عربى
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="MIXED03",NWS:RT عربى
 PT1BTzFOVGJ1STJTd0FUTnk4Rk53RVRNdkFETzZRWFp1NUNkdWxtY3dSM2J2Wm1MbEpYZGpWMmN1SVdZeUZXTDBKM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/SNA.png" group-title="MIXED03",NWS:Sky News عربى
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/SNA.png" group-title="MIXED03",NWS:Sky News عربى
 PT1BTzFOVGJ1QWpNMzhWWXVOM0x6eEdhdjAyYmo1U1lwSldZeUYyYzNWbWI1dDJjdTBXWWxKSGR6OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="MIXED03",SPRT:beIN Xtra
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="MIXED03",SPRT:beIN Xtra
 NFUzTXQ1Q2N3Z0RNeFEzY3B4V2VoeEdjdlEzY2xkbWJwOWlkMDVTYW5GV2JoNVNkcjltY3RFbWMwaFhMdWxXWmk5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="MIXED03",SPRT:Eurosport 1
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="MIXED03",SPRT:Eurosport 1
 NFUzTXQ1U01mbERNMThTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png" group-title="MIXED03",SPRT:Eurosport 2
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png" group-title="MIXED03",SPRT:Eurosport 2
 NFUzTXQ1Q2VsUm1icDlDTTRRelh5UW5jdkIzY3ZKWGRsMXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" group-title="MIXED03",SPRT:Edge Sports
+#EXTINF:-1 tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" group-title="MIXED03",SPRT:Edge Sports
 PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdk1IZHk5R2N6VjJaa1ZXTEJGa01CRlVRbjFXYWZGR2RoUjJYenhHYWZsMlpoMVdZdlFYWnU1Q1pscFhhaDFXWXJGbUxsZEdabGRXYnA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="MIXED03",SPRT:Olympic Channel
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="MIXED03",SPRT:Olympic Channel
 PT1BTzFOVGJ1RXpYeE0wVHZVM0wwVjNidjAyYmo1Q2JsNW1iaGgyWWpsR2N0bEhidjVTWjJsR2J0UUhkdjl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="MIXED03",SPRT:Olympic Channel 2
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="MIXED03",SPRT:Olympic Channel 2
 PWdUZHowbUx3QURNMFlETTM4Rk1mOVVSRWxrVmZKWFlsNVdhTU4zWXBCWGI1eDJUamxHZHpWV2J2UjBMMkV6TXhJak01SWpOd0lYWWw1V2FzbEhidjlTTnpFRE54VXpMbFpYYXM5eWNzaDJMMFZtYnVRR2FwRldiaHRXWXVrV0xzVm1idUZHYWpOMmJwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsNews.uk.png" group-title="MIXED03",SPRT:Sky Sports News
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsNews.uk.png" group-title="MIXED03",SPRT:Sky Sports News
 PT1BTzFOVGJ1Z1haazVXYXZBRE8wODFjM1ZtYnRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsAction.uk.png" group-title="MIXED03",SPRT:Sky Sports Action
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsAction.uk.png" group-title="MIXED03",SPRT:Sky Sports Action
 NFUzTXQ1Q2VsUm1icDlDTXljelh1OVdhME5XWXRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsArena.uk.png" group-title="MIXED03",SPRT:Sky Sports Arena
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsArena.uk.png" group-title="MIXED03",SPRT:Sky Sports Arena
 PWdUZHowbUw0VkdadWwyTHdJek5mRm1ibEpYWXRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsMix.uk.png" group-title="MIXED03",SPRT:Sky Sports Mix
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsMix.uk.png" group-title="MIXED03",SPRT:Sky Sports Mix
 NFUzTXQ1Q2VsUm1icDlDTTRRelg0bFdidE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="MIXED03",SPRT:Sky Sports F1
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="MIXED03",SPRT:Sky Sports F1
 PWdUZHowbUw0VkdadWwyTHdJek5mRmpadE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="MIXED03",SPRT:DD Sports
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="MIXED03",SPRT:DD Sports
 NFUzTXQ1Q2VsUm1icDlTS3lBREt0RldaeVIzVXZreVVVSjFUUU5GUkVoQ2JsNW1iaGgyUXZVbWRweDBMelJuY3ZCM2NrUjJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="MIXED03",SPRT:Discovery Sports
+#EXTINF:-1 tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="MIXED03",SPRT:Discovery Sports
 PWdUZHowbUx3QURPZlJFU2ZOSGR5OUdjelIwTEVoMFh6Um5jdkIzY0U5U2J2Tm1Mc2xtY3U4V2FxNWlZMWhXWm5OMmJwcDJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="MIXED03",SPRT:Ads cricket
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="MIXED03",SPRT:Ads cricket
 NFUzTXQ1U2JoVm1jME4zTHp4R2F2UVROdUlUTnk0eU4wNGlNeEl6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="MIXED03",SPRT:Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="MIXED03",SPRT:Sky Sports Cricket
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOEZkbHQyWXBKM1l0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football
 PWdUZHowbUw0VkdadWwyTHdJek5mRkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 2
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 2
 PWdUZHowbUw0VkdadWwyTHdJek5mSkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 3
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 3
 PWdUZHowbUw0VkdadWwyTHdJek5mTkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 4
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 4
 PWdUZHowbUw0VkdadWwyTHdJek5mUkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 5
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="MIXED03",SPRT:Premier Football 5
 PWdUZHowbUw0VkdadWwyTHdJek5mVkRldHdHY2w5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="MIXED03",SPRT:Sky Sports EPL
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="MIXED03",SPRT:Sky Sports EPL
 NFUzTXQ1Q2VsUm1icDlDTXljelhzQlhadE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="MIXED03",SPRT:Sky Sports Football
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="MIXED03",SPRT:Sky Sports Football
 PWdUZHowbUw0VkdadWwyTHdJek5meEdiaEpHZHY5bVp0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="MIXED03",SPRT:Sky Sports Main Event
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="MIXED03",SPRT:Sky Sports Main Event
 NFUzTXQ1Q2VsUm1icDlDTXljelgwNVdaMlZtYnBGV2J0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="MIXED03",SPRT:True Sport 2
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="MIXED03",SPRT:True Sport 2
 NFUzTXQ1Q2VsUm1icDlDTXljelh5UW5jdkIzYzAxQ1pvOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="MIXED03",SPRT:Матч!
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="MIXED03",SPRT:Матч!
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RXpNbUpXTmxaek5rTkdOemNqWXlRVE80WXpOM1l6WW1SbVpoWkRaaFJ6TXZBRE0ySVRNeFVqTjFFekx6OEZOMEVETnhZRE5zSXpYMElETXpVVE14d1NNZlJETzFNRE80SXpMVHhFU3ZrVE14SVRNejhTWjJsR2J2VTNjdW9IZTY1Q2JpOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="MIXED03",SPRT:Real Madrid TV
+#EXTINF:-1 tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="MIXED03",SPRT:Real Madrid TV
 PT1BTzFOVGJ1SVdMMkYyWHo4RmVsUm1icDlpTTJZRE13TURReDhsYmxKV1ozaEdOeVlIZHRKM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xsWlhhc0pXWjNoR055WUhkdEozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="MIXED03",SPRT:Real Madrid TV Español
+#EXTINF:-1 tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="MIXED03",SPRT:Real Madrid TV Español
 PT1BTzFOVGJ1SVdMMkYyWHo4RmVsUm1icDlTTTJZRE13TURReDgxY2xKV1ozaEdOeVlIZHRKM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xsWlhhc0pXWjNoR055WUhkdEozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="MIXED03",SPRT:Golf Channel
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="MIXED03",SPRT:Golf Channel
 d0VETXZBSGQwaDJMNGdETzRvRE94SWpMNUFUTXVJak14NENNNUV6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="MIXED03",SPRT:One Golf
+#EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="MIXED03",SPRT:One Golf
 NFUzTXQ1Q2VsUm1icDlpUk05MFJGNTBUdnNHY3ZFVE15WWpPNFVqTHhBak11QVROeTRpTTJFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="MIXED03",SPRT:ゴルフネットワーク
+#EXTINF:-1 tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="MIXED03",SPRT:ゴルフネットワーク
 MElUTzJFak94UWpMMU1qTXVJak54NHlNd0l6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsGolf.uk.png" group-title="MIXED03",SPRT:Sky Sports Golf
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsGolf.uk.png" group-title="MIXED03",SPRT:Sky Sports Golf
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOGxaczkyWnRNSGR5OUdjemwzYXoxeWExOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="MIXED03",SPRT:ATG
+#EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="MIXED03",SPRT:ATG
 PT1BTzFOVGJ1TXpYbFZtY205Vk1mbEdaejkxWjBGMkwxOUNkMTkyTHdVMlprVldaMmxHYmxoMlloTldMNGdqTndBekx0OTJZdXMyWXBKbll4NVNZdVJtTHdVMlprVldaMmxHYmxoMlloTldMNGdqTndBVEx3VUdhakYyWXdSSGRvOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="MIXED03",SPRT:Dubai Racing
+#EXTINF:-1 tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="MIXED03",SPRT:Dubai Racing
 PWdUZHowbUx3QURNd0FqTnhJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHpSbmJsWlhaNndXYXROM0x6Um5ibFpYWnYwMmJqNXliczlXYnZkbWJoMW1MdVIyWXV3R2IyaEdkMk5YYXRSMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="MIXED03",SPRT:Dubai Racing 2
+#EXTINF:-1 tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="MIXED03",SPRT:Dubai Racing 2
 PWdUZHowbUx3QURNd0FqTnhJMlgwTlhhc3RtYjFoMll2d1dhdE5uTG41V2FqRm1jcEZtWTFSbU9zbFdiejl5WnVsMlloSlhhaEpXZGs5U2J2Tm1MdngyYnQ5Mlp1RldidTRHWmo1Q2JzWm5jb1JYYXRSMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="MIXED03",SPRT:Dubai Racing 3
+#EXTINF:-1 tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="MIXED03",SPRT:Dubai Racing 3
 PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpY2xoMmNoSldkdGxXWWlWSFo2d1dhdE4zTHlWR2F6Rm1ZMTFXYWhKV2RrOVNidk5tTHZ4MmJ0OTJadUZXYnU0R1pqNUNic1puY29SWGF0UjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="MIXED03",SPRT:Racing.com
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="MIXED03",SPRT:Racing.com
 NFUzTXQ1Q013VVRNdk1XYTJkbWJwTldZeTlTTjVZRE81VXpMbFpYYXM5eWNzaDJMMFZtYnVRV1o2bFdZdEYyYWg1U2F0TVdhMmRtYnBOV1l5OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="MIXED03",SPRT:Sky 1 Racing
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="MIXED03",SPRT:Sky 1 Racing
 PT1BTzFOVGJ1QURPM2tqTjFBVVp0Vm1jMGhYWmZGVGVyTjNMbFpYYXNsM2F6OUNNNGNUTzJVekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTDV0MmNsWlhhc2wzYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="MIXED03",SPRT:Sky 2 Racing
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="MIXED03",SPRT:Sky 2 Racing
 PT1BTzFOVGJ1QURPM2tqTjFBVVp0Vm1jMGhYWmZKVGVyTjNMbFpYYXNsM2F6OUNNNGNUTzJVekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTDV0MmNsWlhhc2wzYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYTbredCent.au.png" group-title="MIXED03",SPRT:Throughbred Central
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/SKYTbredCent.au.png" group-title="MIXED03",SPRT:Throughbred Central
 PWdUZHowbUx3Z3pONVlUTkFWV2JsSkhkNFYyWGtOM1kwTjNMbFpYYXNsM2F6OUNNNGNUTzJVekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTDV0MmNsWlhhc2wzYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="MIXED03",SPRT:Now Sports Prime
+#EXTINF:-1 tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="MIXED03",SPRT:Now Sports Prime
 NFUzTXQ1Q016WXpYc1ZtYnVGR2FqOVNaMmxHYnYwMmJqNVNiaEozWmh4MmNsUjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="MIXED03",SPRT:Hipódromo de las Américas
+#EXTINF:-1 tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="MIXED03",SPRT:Hipódromo de las Américas
 PWdUZHowbUwwTlhhc3RtYjFoMll2Z1ROeGd6TDRVVE00OFNOemtUTTYwMmJqNVNZcGgzYnVOV1owNXljdGQzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="MIXED03",SPRT:Horse & Country TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="MIXED03",SPRT:Horse & Country TV
 PT1BTzFOVGJ1VW1kcHgyWHdCRE93RXpMQmxFVEJKRlZUVlZRZk5rVEk5aWNoVm1icHgyWWhoMkx6VWpOMFVET3ZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdE1XWW9OSGJvOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Monterrico_TV_HD_%28Logo%29.jpg/revision/latest/scale-to-width-down/340?cb=20180406154420" group-title="MIXED03",SPRT:Monterrico TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Monterrico_TV_HD_%28Logo%29.jpg/revision/latest/scale-to-width-down/340?cb=20180406154420" group-title="MIXED03",SPRT:Monterrico TV
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5IY2pwMkwxY2pNeVVUTXdBVE13SXpMdDkyWXVJWFowTlhZajVXWnc5bUxsWlhhczVDT3paM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="MIXED03",SPRT:Fight Sports
+#EXTINF:-1 tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="MIXED03",SPRT:Fight Sports
 PWdUZHowbUx4QXpMMUFEYXZnMkwyWWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="MIXED03",SPRT:Fight Time
+#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="MIXED03",SPRT:Fight Time
 PT1BTzFOVGJ1QURNd1FqTjJJMlh4QXpOMVFETjBnVE8zOUZkemxHYnI1V2RvTjJMc2xXYno1U00yY0RPeUV6TGxkR1pGSjNiMEZtY2xCM1R1bDJacEozYldOMUx6Vm1MczltWTBWblp1VkdjdjVTTXdVR1p2NTJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mytvtogo.net/wp-content/uploads/2019/10/Network_FightPlusTV_1280x720-520x293.jpg" group-title="MIXED03",SPRT:Fight Plus
+#EXTINF:-1 tvg-logo="http://mytvtogo.net/wp-content/uploads/2019/10/Network_FightPlusTV_1280x720-520x293.jpg" group-title="MIXED03",SPRT:Fight Plus
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwTlhkc0JIZG9kV2FtOXlicFJXZDBOWFp1OTJMMFZtYnVNWGJoVm1jME5IYXpGR1p1VUdiaTFXYXU5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="MIXED03",SPRT:Hard Knock Fighting
+#EXTINF:-1 tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="MIXED03",SPRT:Hard Knock Fighting
 NFUzTXQ1eU0xQXpObVJHTjRZbU1pUldMbFJHWmgxU09qZEROdFVqTjBFV0xoWlRZd1ltWndFMkwza3pNNWtETXlJekwwNVdZcEpYWTI5U093RXpMeVZHZHpGV1RseFdka1ZHYWpOM0x5VkdiMVJXWm9OMmN2UVhadTVDWmxwWGFoMVdZckZtTHlBRE0wRjJZeVZtWm1sbWJ6OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1112616272741621760/Od1saD2b_400x400.png" group-title="MIXED03",SPRT:CombatGo
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1112616272741621760/Od1saD2b_400x400.png" group-title="MIXED03",SPRT:CombatGo
 PWdUZHowbUx5VkdkekZXYnZFa1FQSkRacHhHYjFRRVJUOW1VM1lUT2xwR1JoZDJMMDVXWjJWMkx6eEdhdklYWWw1V2FzOVNidk5tTGx4Mlp2OTJadWtXWWs5eUw2TUhjMFJIYQ==
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tennistv.com/images/og-image.png" group-title="MIXED03",SPRT:ATP Tennis
+#EXTINF:-1 tvg-logo="https://www.tennistv.com/images/og-image.png" group-title="MIXED03",SPRT:ATP Tennis
 NU16TnhFak81Z2pMelFqTXVRVE54NHlNd0l6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="MIXED03",SPRT:Tennis Channel
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="MIXED03",SPRT:Tennis Channel
 PWdUZHowbUxuOWlaeU1UTTJFak0wWVROMVFXTGpKRE9pMUNObVpHTnRVR01oVlRMakpqTTFjRE9tbHpMMFYzYjVGR2J3OVNidk5tTGw1V2FzbG5jdlIzY3lsV1lzTm1icE5uTGw1V2FuNVdaMFYzYjVGR2J3OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="MIXED03",SPRT:Tennis Channel+
+#EXTINF:-1 tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="MIXED03",SPRT:Tennis Channel+
 PWdUZHowbUxuOUNNMlEyWTVFMlkwWVRZeklXTHpRR1ppMUNOelFETnRVRE9rUldMNVlqTWloalp5WTJMMFYzYjVGR2J3OVNidk5tTGw1V2FzbG5jdlIzY3lsV1lzTm1icE5uTGw1V2FuNVdaMFYzYjVGR2J3OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="MIXED03",SPRT:Tennis Channel+ 2
+#EXTINF:-1 tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="MIXED03",SPRT:Tennis Channel+ 2
 NFUzTXQ1aVp6RVROM1lHT3dZRE93VVdMeUVUTzQwaVk0TUdOdE1UTzJNVEwyVUdPalIyTTJRMkwwVjNiNUZHYnc5U2J2Tm1MbDVXYXNsbmN2UjNjeWxXWXNObWJwTm5MbDVXYW41V1owVjNiNUZHYnc5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="MIXED03",SPRT:True Tennis
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="MIXED03",SPRT:True Tennis
 PWdUZHowbUw0VkdadWwyTHdJek5mTlhhdTVXWjAxQ1pvOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="MIXED03",SPRT:Sky Sports F1
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="MIXED03",SPRT:Sky Sports F1
 PWdUZHowbUw0VkdadWwyTHdJek5mRmpadE1IZHk5R2N6bDNhejF5YTE5eWMzVm1idVFuYnA5R2NySjNiMzV5Y3ZGR2J0NEdaajl5TDZNSGMwUkhh
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="MIXED03",ENT:BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="MIXED03",ENT:BBC Lifestyle
 PWdUZHowbUx6dG1iMWgyWXZVR2I1UjNjbFpXYXM5MVlpSjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="MIXED03",ENT:Blue Ant Entertainment
@@ -4240,106 +4225,103 @@ NFUzTXQ1Q013QURNd1VqTWk5RmR6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlgwNVdaMDVXWWxWSGJpOVNZ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="MIXED03",ENT:Blue Ant Extreme
 NFUzTXQ1Q013QURNd1VqTWk5RmR6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlgwaFhaMDVXWWxWSGJpOVNZa2gyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="MIXED03",ENT:ET Live
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="MIXED03",ENT:ET Live
 PXdXWWo5R2J6SjJZdkEzYjB0MmNsUjJMdUYyWXRjWFkyOUNOMklET3YwVGRwOURPMU5UYnVRM2NsWldhdUZXYnZJbmRrOVNidk5tTHZWR1pwWlhZaE5uWWo1U2VzUjNjaFpXTGxkV1lyTldZd0ZXYWtWV2J0VW1kcHhHZGw5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="MIXED03",ENT:Food Network
+#EXTINF:-1 tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="MIXED03",ENT:Food Network
 NFUzTXQ1U01mSkRNMThTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22728/monarch/logo_20191212_203358.png" group-title="MIXED03",ENT:Monarch TV
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22728/monarch/logo_20191212_203358.png" group-title="MIXED03",ENT:Monarch TV
 PWdUZHowbUxqOUNNd0FETXI4eVkwa3pZNUFUWTVNR012UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="MIXED03",ENT:People TV
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="MIXED03",ENT:People TV
 PT1BTzFOVGJ1QUhNeWNEZHpsR2I1RkdidzlDZXdzbU1rVmpZdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="MIXED03",ENT:Red Bull TV
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="MIXED03",ENT:Red Bull TV
 NFUzTXQ1Q00yTXpNZkpYWjBOWFl0OUNWQjFpUVM5bVF2UWpONUFUTzE4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0x1MW1ZeTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",ENT:TLC
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",ENT:TLC
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFZc1IzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",ENT:TLC
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="MIXED03",ENT:TLC
 PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOTFadWxtZHB4R2JsWlhZeVIzTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wzBD6fy.png" group-title="MIXED03",ENT:TMZ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wzBD6fy.png" group-title="MIXED03",ENT:TMZ
 PT1BTzFOVGJ1Z1haazVXYXZBRE13QURNd1V6WHdJek40QkRPeUV6TE9SMFF2b1hiMDFTUTBNak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMMXQyYnkxRGN2NEdaajlXYjFoM0x0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV International
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV International
 NFUzTXQ1U1BCaFVUMEVFVk5Sak4wOUZNd0FETXdjRE5pOUZkemxHYnI1V2RvTjJMc2xXYno1eWNzaDJYMmtUTWZOVE1uQjNYMlJuWmZWak53Y2pNZmx6ZDY5MU14Y0djZlpIZG05bGQwWjJMZlIzY3VsbVpsUjJYdlVtZHB4MmN2TVhaamxtZHlWMmN1NEdaamxIWjE5R2JqNXlNMEFUTW9OWFltOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV Paris
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV Paris
 PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejV5Y3NoMlg0Z1RNZmhUTW5CM1h6bG1jaEIzWDNJRE0zSXpYblJHTmZkR2NmTlhheUZHY2ZaSGRtOWxkMFoyTGZSM2N1bG1abFIyWHZVbWRweDJjdk1YWmpsbWR5VjJjdTRHWmpsSFoxOUdiajV5TTBBVE1vTlhZbTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV L'Original
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV L'Original
 PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejV5Y3NoMlgwa1RNZlpUTW5CM1gyUm5aZkpETndjak1mbFhPazlsTnhjR2NmWkhkbTlsZDBaMkxmUjNjdWxtWmxSMlh2VW1kcHgyY3ZNWFpqbG1keVYyY3U0R1pqbEhaMTlHYmo1eU0wQVRNb05YWW05eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV Midnight Secert
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="MIXED03",FSN:Fashion TV Midnight Secert
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdVVtZHBSSGNoUldZZk5IZGxKM1lsTjNYbFJYYXVSV2F0OWxkMFoyTGZSM2N1bG1abFIyWHZVbWRweDJjdk1YWmpsbWR5VjJjdTRHWmpsSFoxOUdiajV5TTBBVE1vTlhZbTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="MIXED03",FSN:World Fashion TV
+#EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="MIXED03",FSN:World Fashion TV
 PWdUZHowbUw0VkdadWwyTHhFbU0yMXljck5XWXlSM0wwNVdhaloyZHY0R1pqOUNNNG9UZHk1aWQwMXljMTUyYmk1eVltZDNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://a3bikini.com/wp-content/uploads/2018/02/a3_Bikini-1.png" group-title="MIXED03",FSN:A3 Bikini Network
+#EXTINF:-1 tvg-logo="http://a3bikini.com/wp-content/uploads/2018/02/a3_Bikini-1.png" group-title="MIXED03",FSN:A3 Bikini Network
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2F1bDJhcEoyTWg5eWF5OTJkMFZtYnA1V2FybG1ZdjBXWWxKSGR6OVNidk5tTGhsR1psMTJjdlZHYmxSbkxySjNiM1JYWnVsbWJwdFdhaTUyWTI5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="MIXED03",FSN:Jasmin TV
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="MIXED03",FSN:Jasmin TV
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTHNWbWJ1RkdhajVXYXROWFlxNUNabzlTWjJsR2J2VXpNNUVqT3lFVE11SWpOeDRTTTM0U093RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.lethalproducts.com/wp-content/uploads/2016/03/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="MIXED03",DOC:Hunt Channel
+#EXTINF:-1 tvg-logo="http://www.lethalproducts.com/wp-content/uploads/2016/03/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="MIXED03",DOC:Hunt Channel
 NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZFVEw0WURPMlVUTE1SVlF0TUZUdmNtY3Y1eU4zNEdaajV5WXpKbkwwa0RPMmtqTXhFVE14OHlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="MIXED03",DOC:Outside TV
+#EXTINF:-1 tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="MIXED03",DOC:Outside TV
 PWdUZHowbUxqOUNTelJqTlVkMk12UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="MIXED03",DOC:Sportskool
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="MIXED03",DOC:Sportskool
 NFUzTXQ1eVl2QURNd0F6S3ZjVE8ySWpNdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="MIXED03",DOC:World of Free Sports
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="MIXED03",DOC:World of Free Sports
 NFUzTXQ1eVl2QURNd0F6S3ZNak0zSWpNdlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="MIXED03",DOC:Xcorps
+#EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="MIXED03",DOC:Xcorps
 PWdUZHowbUx3QmpNMzhGZHpsR2JuVjJjdk1IY3k5Mlk0OXljd0ozYmpoM0x0RldaeVIzY3YwMmJqNVNZcFJXWnROM2JseFdaMDV5Y3dKM2JqaG5ialozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MIXED03",MOVIE:&Flix
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MIXED03",MOVIE:&Flix
 NFUzTXQ1Q2VsUm1icDlTTWhGamR0TTNhakZtYzA5Q1pvaFhhc1pHWnVGMkwwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hONTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MIXED03",MOVIE:&Prive
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MIXED03",MOVIE:&Prive
 PWdUZHowbUx6dG1iMWgyWXZnak10VW1kcEpIY2s1V1l2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="MIXED03",MOVIE:Bollywood TV
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="MIXED03",MOVIE:Bollywood TV
 PT1BTzFOVGJ1TTJMb2RXYW85Q013QURNcjhTTjBJV05rOUNkekYyWWtGMmJ5SjJMdDkyWXU0R1p5Tm5hdUUyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="MIXED03",MOVIE:Docurama
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="MIXED03",MOVIE:Docurama
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FET3lVRE5mQkRPd0VEZXdJVE94OGlURU4wTEJGV2JoSlhkajlHWnRFRU56SVRNdjFXZDQ5VlkwRkdaZk5IYm85VmFuRldiaDlTYTFOM2N1OTJZdlFYWnU1Q1ozNUdiczV5YjI1U2JubEdabDVXYWo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="MIXED03",MOVIE:Flim Detective
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="MIXED03",MOVIE:Flim Detective
 PWdUZHowbUx3SXpONEJET3lFelhrWkdlbFJtYnA5Q2RsNW1Ma1ZtZXBGV2JodFdZdThtYzBOWGFrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nLimNFX.png" group-title="MIXED03",MOVIE:Filmrise Classics
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nLimNFX.png" group-title="MIXED03",MOVIE:Filmrise Classics
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FETXdBVE5mQmpNM2dITTRJVE12NEVSRDlpZDBOV2F6TlhZc05XWnpsbWN0eFdhbTFTUXlFak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMdDkyWXU4V2IxaG5MeWtXWWs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BDtkjpS.png" group-title="MIXED03",MOVIE:Filmrise Crime
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BDtkjpS.png" group-title="MIXED03",MOVIE:Filmrise Crime
 PT1BTzFOVGJ1Z1haazVXYXZBRE13QURNd1V6WHlNRE40QkROMjhpVEVOMExsMVdheU5XWnpsbWN0eFdhbTFTUXlFak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMMXQyYnkxRGN2NEdaajlXYjFoM0x0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ypQRBrH.png" group-title="MIXED03",MOVIE:Filmrise Family
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ypQRBrH.png" group-title="MIXED03",MOVIE:Filmrise Family
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNd0FETXdBVE5mQmpNM2dITTRJVE12NEVSRDlTZXNsV2JoWldaemxtY3R4V2FtMVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cQZdGc0.png" group-title="MIXED03",MOVIE:Filmrise Movies
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQZdGc0.png" group-title="MIXED03",MOVIE:Filmrise Movies
 PWdUZHowbUwwTlhhc3RtYjFoMll2QURNd0FETXdVelh3SXpONEJET3lFekxPUjBRdk1YWnBaM2J0VldaeVpXWnpsbWN0eFdhbTFTUXlFak14OFdiMWgzWGhSWFlrOTFjc2gyWHBkV1l0RjJMMXQyYnkxRGN2NEdaajlXYjFoM0x0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="MIXED03",MOVIE:FX Asia
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="MIXED03",MOVIE:FX Asia
 PT1BTzFOVGJ1Z1haazVXYXZBRE8wODFadVZHZW0xQ1pvOXljM1ZtYnVRbmJwOUdjckozYjM1eWN2RkdidDRHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MIXED03",MOVIE:Fox Movies
+#EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MIXED03",MOVIE:Fox Movies
 NFUzTXQ1Q2VsUm1icDlDTXljelh0VlhhdFZtY3doM2JtMUNabzl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MIXED03",MOVIE:Fox Action Movies
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MIXED03",MOVIE:Fox Action Movies
 NFUzTXQ1aWJ2bEdkakZHZXZaMlhhcDFMdTlXYTBOV1k0OW1aZnBsV3ZBRE93Z2pPeVFqTDBVVE11QVROeTRDTndFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MIXED03",MOVIE:Fox Movies
+#EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MIXED03",MOVIE:Fox Movies
 PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhelZXYTI5V2I0OW1adlVtZHB4R2V2WjJMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="MIXED03",MOVIE:Fox Family Movies
@@ -4348,121 +4330,121 @@ PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmTlhacFozYnRsSGJwMVdZ
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="MIXED03",MOVIE:Fox
 PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhNDltWnZVbWRweEdldloyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="MIXED03",MOVIE:Flim Hub
+#EXTINF:-1 tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="MIXED03",MOVIE:Flim Hub
 NFUzTXQ1Q2R6bEdiNUZHYnc5aVRFTjBMaVZIYXR4V2FtaDNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="MIXED03",MOVIE:Gravitas Movies
+#EXTINF:-1 tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="MIXED03",MOVIE:Gravitas Movies
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDl5Y2hSWGEyRm1jbmgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="MIXED03",MOVIE:Hi-Yah!
+#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="MIXED03",MOVIE:Hi-Yah!
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDlTWTUxU2FvaDNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="MIXED03",MOVIE:iFILM English
+#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="MIXED03",MOVIE:iFILM English
 PT1BTzFOVGJ1QURNd1lUT3dFallmUjNjcHgyYXVWSGFqOUNicDEyY3U0V1p0eFdhbWxtT3NsV2J6OVNic2xtWnA5U2J2Tm1MdVIyWXUxbUxzNVdMdTEyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="MIXED03",MOVIE:Maverick Movies
+#EXTINF:-1 tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="MIXED03",MOVIE:Maverick Movies
 PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdk1YWnBaM2J0dDJZcEpYWjJGV2J0ZzNiaVJXWnkxU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/MGM.us.png" group-title="MIXED03",MOVIE:MGM Scifi
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/MGM.us.png" group-title="MIXED03",MOVIE:MGM Scifi
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TTNheTkyZGxoR2R0VTNhdkozTDJSbkxwZFdZdEZtTHpWWEwxdDJieTF5Y3JKM2IzVkdhMDEyWnQ5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="MIXED03",MOVIE:Movies Now
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="MIXED03",MOVIE:Movies Now
 PT1BSTRVM010NWljbFIzY2gxMkxzeFdkdzlsVE45U1oybEdidllIZHV3V1owSlhhaDV5ZHY1MmNsMVdhMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MIXED03",MOVIE:Movies Kingdom
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MIXED03",MOVIE:Movies Kingdom
 PWdUZHowbUxqOUNNd0FETXI4U00wRTJNNUFETmlsVFp2UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="MIXED03",MOVIE:MNX Movies
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="MIXED03",MOVIE:MNX Movies
 PT1BTzFOVGJ1SVhaME5YWXQ5Q2JzVkhjZmhsVE45U1oybEdidllIZHV3V1owSlhhaDV5ZHY1MmNsMVdhMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="MIXED03",MOVIE:Mylife4U
+#EXTINF:-1 tvg-logo="http://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="MIXED03",MOVIE:Mylife4U
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2VUhOZlZtWnB4Mlg1MTJMdmxHWjFSM2NsNTJidllIZHVFV2FrVldib05YWWs1U01sZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="MIXED03",MOVIE:Romedy Now
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="MIXED03",MOVIE:Romedy Now
 NFUzTXQ1aWNsUjNjaDEyTHN4V2R3OWxUUzlTWjJsR2J2WUhkdXdXWjBKWGFoNXlkdjUyY2wxV2EwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="MIXED03",MOVIE:Screamfest
+#EXTINF:-1 tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="MIXED03",MOVIE:Screamfest
 PWdUZHowbUx3QmpNMzhGZHpsR2JuVjJjdlEzY2xaV2JoVm1jak4zTHo5V2FrVkhkenRtY2gxMmJseDJMdEZXWnlSM2N2MDJiajVTWXBSV1p0TjNibHhXWjA1eWN2bEdaMVIzY3JKWFl0OVdaczUyWTI5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="MIXED03",MOVIE:Spydar TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="MIXED03",MOVIE:Spydar TV
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SVhZa2xIY3o5eWJwUldkME5YWnU5MkwyUm5MaGxHWmwxR2F6RkdadVVHYmkxV2F1OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MIXED03",MOVIE:Warner TV
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MIXED03",MOVIE:Warner TV
 NFUzTXQ1eVp1bFdldUZXYWtGbWJoVkhhZnBsV3ZjbWJwbG5iaGxHWmg1V1kxaDJYYXAxTHZBRE93Z2pPeVFqTDBVVE11QVROeTRDTndFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MIXED03",MOVIE:Paramount Movies
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MIXED03",MOVIE:Paramount Movies
 OTRHYmhCbko5VW1jMVIzWWxSWGFvTm1jaFpTWjFKSGQ5TUhaQlZHWnBObGNsWm5jbE5uSmlWMmQ5VVdiaDVFY3dGbUo5SVhadVJuY2hCRlpsSldibFpTUGtsa2NsTlhkbUVtY2xCM1Q5d1daazlXVGxOV2EyVkdabUFUUFU1RVJsTldhMlZHWm1Vek41a2pMemNUTDk0MmJNVjJZcFpYWmtaQ093TXpOdUFETjlRWFlNVjJZcFpYWmtaU1BrbDBadWwyY3BSbmNsWkhaaFppWTBRR01obGpOMGt6TjRFV0x4VWpaaTFpTXhjRE50SURNeFlUTGtKbU5sVmpZa1pXUGtsMmNtRW1jbEIzVDlVMmFoMVVaamxtZGxSbUppVjJkOVVHYzVSVlpqbG1kbFJtSmlkVE9tRlRZalp6TWhoVE9sTlRObU56WTJZVE5qTlRaNFlETmhSV01qQlRaelV6WW1kVFk1MENOdWNqTHkwamJ2bDJjeVZtVndCWFltRXpOdWdqTnpNakx3NHlNMjBqYnZsMmN5Vm1WbE5XYTJWR1ptUTJOaE5UT2hkVFoxWWpZejB5TmpSV1l0SW1Nd1FUTDVrVE4zMENad0lUTjJJek1tMURaSlYyWXBaWFprWlNaenhXWW0xVFowRm1icDFtY2xSM1A0VTNNdDVpY2xSM2NoMTJMNFFqTnpZRE16OHlNeElUTm1OVFptWm1Od1FUTTJRVFkzVVdZakJqWWpWekxzVm1idUZHYWo5eWNzaDJMb05HZHBSM2N2WUhkdThHZDF4R2N1TW5jbFIzYzF4Mll1SVhab05HZHBSM2N0VTJZcFpuY2xOM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="MIXED03",MUSIC:Afrobeats 24/7
+#EXTINF:-1 tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="MIXED03",MUSIC:Afrobeats 24/7
 NFUzTXQ1Q2VsUm1icDl5YzBGV1ppOW1jbUYyTDJSbkxseG1ZaE5XWnUwV1lsSkhkejl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://commodusprod.hooq.tv/cdnimagesprod/assets/feed/7657074b8f5b.png" group-title="MIXED03",MUSIC:Baeble TV
+#EXTINF:-1 tvg-logo="http://commodusprod.hooq.tv/cdnimagesprod/assets/feed/7657074b8f5b.png" group-title="MIXED03",MUSIC:Baeble TV
 eDBEYms5RE8xTlRidXNXYXpWWFRDOWlhcmwyYXhNR2R6Y0dPeGREY3RWMkx6OVNidk5tTDQ5bVl3OW1jazVDYms5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" group-title="MIXED03",MUSIC:Baraza Classic
+#EXTINF:-1 tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" group-title="MIXED03",MUSIC:Baraza Classic
 NFUzTXQ1Q2R6bEdiNUZHYnc5eVlwTjNjaHgyUWhwWFl5Rm1Rdk1XYXpOWFlzTlVZNkZtY2hKMEx6UURONmdtZHY1eWN0RldaeVIzY3U4MllsOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="MIXED03",MUSIC:California Music Channel
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="MIXED03",MUSIC:California Music Channel
 NFUzTXQ1Q2R6bEdicjVXZG9OMkxXUlZMRDEwUXZFelhsWlhhczlTYnZOMlh0RldaeVIzY3NGR2RwWjNYMlIzWXROMkwwVm1idTRHWmpCWFl1SlhaMDVXYXVNM2JwNWlkME5XYmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="MIXED03",MUSIC:Classic Arts Showcase
+#EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="MIXED03",MUSIC:Classic Arts Showcase
 PWdUZHowbUxyQkRNd016WHlWR2R6Rldidk1YWWo5U1oybEdidlFYWnU1U2VzUjNjaFptTHNOM2N1d1dZaTlHYm41eWMwSlhZamwyY3pGR2JqOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg" group-title="MIXED03",MUSIC:Ditty TV
+#EXTINF:-1 tvg-logo="http://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg" group-title="MIXED03",MUSIC:Ditty TV
 PWdUZHowbUx5VkdkekZXYnZZVE40VXpOM0FVTWZSM2NsUjNMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMNEJUWnZKbmVoOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22782/latido-music/logo_20191212_200115.png" group-title="MIXED03",MUSIC:Latido Music
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22782/latido-music/logo_20191212_200115.png" group-title="MIXED03",MUSIC:Latido Music
 PT1BTzFOVGJ1TTJMd3dtTXpZa1p6aHpadlEzY2hOR1poOW1jaTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="MIXED03",MUSIC:Kool London Radio
+#EXTINF:-1 tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="MIXED03",MUSIC:Kool London Radio
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2dzJidnQyTHM5MmJyOVNOemtUTTYwMmJqNWlZbjFXWWxKSGR6NUNNeGMzTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="MIXED03",MUSIC:Music4U
+#EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="MIXED03",MUSIC:Music4U
 PU1UTXlFak81Z2pMelFqTXVRVE54NHlNd0l6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteFooterTransparent.png" group-title="MIXED03",MUSIC:Radio U TV
+#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteFooterTransparent.png" group-title="MIXED03",MUSIC:Radio U TV
 PT1BTzFOVGJ1Z1haazVXYXZFVFl4WVhMenQyWWhKSGR2RVRMd1FqTXpRVExNUlZRdE1GVHYwMmJqNVNkdmxHWmhKbkxsWlhhczVHWmo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="MIXED03",MUSIC:Sunburn TV
+#EXTINF:-1 tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="MIXED03",MUSIC:Sunburn TV
 NFUzTXQ1Q2N3SXpOZlIzY3B4MlpsTjNMdUpYZGk1V2R6OWlkME5IWnYwV1lsSkhkejlTYnZObUxobEdabDEyY3ZWR2JsUm5MMlIzY2s1MlkyOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="MIXED03",MUSIC:V2BEAT TV
+#EXTINF:-1 tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="MIXED03",MUSIC:V2BEAT TV
 NFUzTXQ1Q2R6bEdiNUZHYnc5U1oybEdidVFYWWxKbU0yNVNNd1UyY3hVR1p1SW5ZaDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/NRJ_Hits_2017.svg.png/revision/latest?cb=20190621214935" group-title="MIXED03",MUSIC:NRJ Hits
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/NRJ_Hits_2017.svg.png/revision/latest?cb=20190621214935" group-title="MIXED03",MUSIC:NRJ Hits
 PT1BTzFOVGJ1SXpOd0V6TTBFallmaGpOMVFqTTBFek0xYzNYME5YYXN0bWIxaDJZdndHYmg5bFZVTkhkcGhrU1M1a093SjNadTlDYzE5bWNuNTJMMFZtYnVzMll2eFdiaFZtYzBObkxsWnpZNFFHTW1sVE13VW1ZMTh5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.babyfirsttv.com/wp-content/uploads/2019/10/babyfirst_logo_2019_300px-e1570008215346.png" group-title="MIXED03",KIDS:BabyFirst
+#EXTINF:-1 tvg-logo="https://www.babyfirsttv.com/wp-content/uploads/2019/10/babyfirst_logo_2019_300px-e1570008215346.png" group-title="MIXED03",KIDS:BabyFirst
 PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZkekpYYW1sblloSjJMbFpYYXNSWFp1RjNMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="MIXED03",KIDS:Boomerang
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="MIXED03",KIDS:Boomerang
 PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOTFadUZtY2wxMmJ2SjJMbFpYYXNSWFp1RjNMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="MIXED03",KIDS:Battery Pop
+#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="MIXED03",KIDS:Battery Pop
 NFUzTXQ1Q2R6bEdiNUZHYnc5aVRFTjBMdzlHYzVKWFowUlhZaWgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="MIXED03",KIDS:Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="MIXED03",KIDS:Cartoon Network
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkxySjNiM1JYWnU5bGJ2OUdkeUYyWXZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/DaVinciLearning.hu.png" group-title="MIXED03",KIDS:Da Vinci Learning
+#EXTINF:-1 tvg-logo="https://static.epg.best/hu/DaVinciLearning.hu.png" group-title="MIXED03",KIDS:Da Vinci Learning
 PT1BTzFOVGJ1QURNd0FETTFJallmUjNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZab2wyWXVsbWRoUjJMa3htY3ZkM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="MIXED03",KIDS:Locomotion
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="MIXED03",KIDS:Locomotion
 PWdUZHowbUx0RldaeVIzY3ZnMllmOTJZdngyTHZaWGEyNVdadjAyYmo1aWQwNTJicFIzYnQ5Mll2eDJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="MIXED03",KIDS:Kabillion
+#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="MIXED03",KIDS:Kabillion
 PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdjQyYnB4R2JwSldZcmgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="MIXED03",KIDS:Nick Jr
+#EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="MIXED03",KIDS:Nick Jr
 PWdUZHowbUx6dG1iMWgyWXZJbmFmdDJZcDUyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/PBSKids.us.png" group-title="MIXED03",KIDS:PBS Kids
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/PBSKids.us.png" group-title="MIXED03",KIDS:PBS Kids
 U1pGUi9nVGR6MG1MME5YYXNsWFlzQjNMd2tqTTRrak14MENOeGtETXdJak8wTkhidEYyTHdRVE1meEdjdjAyYmo1aWNsUjNjdmhXYmhWbWMwTm5MeTB5Y3paV0x5OHlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="MIXED03",KIDS:TCT Kids
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="MIXED03",KIDS:TCT Kids
 NFUzTXQ1Q013SVRNZlZtZHB4MFhUeEVTNXhXYXRGbVJ2TUZUSWxIYnAxV1lHOVNNd0FqTTFRak4za3pONWtUTXZJek0yWURNeThTWjJsR2J2TUhibzlDZGw1bUxraFdhaDFXWXJGbUxwMXljdmxXWjJsR2JsWjNiakoyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/1920px-Tvokids-logo.svg.png" group-title="MIXED03",KIDS:tvo KIDS
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/1920px-Tvokids-logo.svg.png" group-title="MIXED03",KIDS:tvo KIDS
 PWdUZHowbUx5VkdkekZXYnZNSFpwdDJiMlIzTHhBRE15QWpOMFl6TTFFekwzQWpOeklqTnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdE1IYm9WbWRweFdaeVYzWWxOM1lpOXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="MIXED03",DOC:Animal Planet
@@ -4474,152 +4456,152 @@ PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhbUozYnZSR2QxOTJM
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="MIXED03",DOC:Discovery Asia
 PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmRldhekZXZXlWbWR2TjJjcFIyTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="MIXED03",DOC:Discovery History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="MIXED03",DOC:Discovery History
 ME5YWjAxamJsdDJiMDlETzFOVGJ1OFdaa2xtZHZrbmN2UjNjcGgwWDVKWFoyOTJZemxHUnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="MIXED03",DOC:History
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="MIXED03",DOC:History
 PWdUZHowbUx6dG1iMWgyWXZRR2FmWkhkZmxuY3ZSM2NwaDJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="MIXED03",DOC:National Geographic
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="MIXED03",DOC:National Geographic
 PWdUZHowbUx6dG1iMWgyWXY0V2FmOVdabjlGZGg1MkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="MIXED03",DOC:National Geographic
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="MIXED03",DOC:National Geographic
 PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhdlYyWjBGbWJ2VW1kcHhHZXZaMkwwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="MIXED03",DOC:National Geographic People
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="MIXED03",DOC:National Geographic People
 NFUzTXQ1eWNyNVdkb04yTGx4R2N2VkdjZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="MIXED03",DOC:National Geographic Wild
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="MIXED03",DOC:National Geographic Wild
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzbDJkZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="MIXED03",UK:Australia Channel
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="MIXED03",UK:Australia Channel
 PWdUZHowbUx3SXpONEJET3lFamNsUjNjaDEyTHpkWFp1MUNibDVtYmhoMlkwTlhkaDlTT3ljak13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxsWlhhczFDYmw1bWJoaDJZME5YZGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="MIXED03",UK:ABC
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="MIXED03",UK:ABC
 PT1BTzFOVGJ1RUROeUFUTTBJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="MIXED03",UK:ABC Comedy
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="MIXED03",UK:ABC Comedy
 PWdUZHowbUx5TW1ZaDVpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="MIXED03",UK:ABC ME
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="MIXED03",UK:ABC ME
 PT1BTzFOVGJ1UWpNeUFUTXlJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="MIXED03",UK:ABC News 24
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="MIXED03",UK:ABC News 24
 PWdUZHowbUw0VkdadWwyTGlSellpTnpOa2xUT3pVVFk1a0RNaFZHTTRRRE1qVldOeVFtTmpOV01sWnpMeFkzTDBWM2J2UVhadTVDWmxwWGFoMVdZckZtTHkweWN0RldaeVIzY2xkV1lyTldZd0ZXYWtWV2J0Y1hacFpYYXRNbVloOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="MIXED03",UK:ABC Kids
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="MIXED03",UK:ABC Kids
 PT1BTzFOVGJ1SWpNeUFUTXlJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/Channel9.au.png" group-title="MIXED03",UK:Channel 9(Aus VPN)
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Channel9.au.png" group-title="MIXED03",UK:Channel 9(Aus VPN)
 NU1qTXVjRE55NGlNMjRpTTEwamN2WlVMa1ZHWnlGMmR5OW1SdGdGZjRVM010NWljbFIzY2gxMkxrbDNjdGtEYWo5aVl0RVRONWdETTM4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0wzOW1iNTh5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/9Gem.au.png" group-title="MIXED03",UK:9 Gem(Aus VPN)
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Gem.au.png" group-title="MIXED03",UK:9 Gem(Aus VPN)
 PT1RT3pJakwzUWpNdUlqTnVJVE45STNiRzFDWmxSbWNoZG5jdlpVTFl4SE8xTlRidUlYWjBOWFl0OUNaNU5YTHRWMlp2QURPNVFETTM4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0wzOW1iNTh5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/9Go.au.png" group-title="MIXED03",UK:9 Go!(Aus VPN)
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Go.au.png" group-title="MIXED03",UK:9 Go!(Aus VPN)
 NU1qTXVjRE55NGlNMjRpTTEwamN2WlVMa1ZHWnlGMmR5OW1SdGdGZjRVM010NWljbFIzY2gxMkxrbDNjdDgyWnZnek01Z0RNMzhTWjJsR2J2TUhibzlDZGw1bUxrVm1lcEZXYmh0V1l1VW1kcHhXTDM5bWI1OHlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/9Life.au.png" group-title="MIXED03",UK:9 Life(Aus VPN)
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Life.au.png" group-title="MIXED03",UK:9 Life(Aus VPN)
 PWt6TXk0eU4wSWpMeVlqTHlVVFB5OW1SdFFXWmtKWFkzSjNiRzFDVzhoVGR6MG1MeVZHZHpGV2J2UVdlejFTWm1sR2J2VURONWdETTM4U1oybEdidk1IYm85Q2RsNW1Ma1ZtZXBGV2JodFdZdVVtZHB4V0wzOW1iNTh5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-ID="AUB.AU" tvg-logo="https://www.ausbiz.com.au/assets/logo.png" group-title="MIXED03",UK:ausbiz TV
+#EXTINF:-1 tvg-logo="https://www.ausbiz.com.au/assets/logo.png" group-title="MIXED03",UK:ausbiz TV
 PT1BTzFOVGJ1Z1haazVXYXZRWGR3UlhkdjF5WXB4bVkxQjNMMFZtYnVRbmJ2Sm5aa1YzYnNObUwzUkhaM2dHYjVnRGExRlhPazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="MIXED03",UK:Fox Sports News
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="MIXED03",UK:Fox Sports News
 NFUzTXQ1Q015Y0Rld2dqTXhJWFowTlhZdDlDZHk5R2N6MUNibDVtYmhoMlkwTlhkaDlpTnpjak13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxsWlhhczFDYmw1bWJoaDJZME5YZGg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png" group-title="MIXED03",UK:Fox Sports 506
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png" group-title="MIXED03",UK:Fox Sports 506
 dkFET3dnak95a2pMeVlqTDRVakwxUXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/TVSN.nz.png" group-title="MIXED03",UK:TVSN
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/TVSN.nz.png" group-title="MIXED03",UK:TVSN
 PT1BTzFOVGJ1QVROMzhsZXU5bGJ6Wkhkdm9uYmY1MmMyUjNMM01ET3hZak12VW1kcHgyTHp4R2F2UVhadTVDWm9sV1l0RjJhaDVTYXQ0MmMyUjNMdm9EYzBSSGE=
 
-#EXTINF:-1 ch-id="KOR.NZ" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_Freeview_Website-02.png" group-title="MIXED03",UK:Kordia TV
+#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_Freeview_Website-02.png" group-title="MIXED03",UK:Kordia TV
 PT1BTzFOVGJ1TVhaamxtZHlWMlUwNVdaMDUyYkQ5U2R2UVhkdjlpZXU1Q2RsNW1MaGxHWnk5MmF1Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="MIXED03",UK:Fiji TV
+#EXTINF:-1 tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="MIXED03",UK:Fiji TV
 NFUzTXQ1U1oybEdidjBXWWxKSGR6WkhkcHBXYW05eWMwNVdaMlYyTDVZek0wRVRONUV6THpSbmIxOTJZakYyTHQ5Mll1MFdZbEpIZHpWbWRweG1MM1ZtYnVrR2NoOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",UK:Bloomberg Australia
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",UK:Bloomberg Australia
 PWdUZHowbUxsWlhhczlWTXRBRE13RVRMelpYY1dSbFdQMVNaakpYZHZOMUx4MHliNXQyYjAxeVVYRlVMelpYY1dSbFdQMUNibDVtYmhoMlF2RWpldjlDZGw1bUw1eEdkekZtWnV3MmN6NUNiaEoyYnNkbUwwTlhZbGhHZHk5bWJ3RkdadkpIY2xaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="MIXED03",UK:C31
+#EXTINF:-1 tvg-logo="http://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="MIXED03",UK:C31
 PWdUZHowbUx5VkdkekZXYnZBak15a3pNM0FVTWZWbWRweDJZazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczF5TjBVbWRweFdhdVYzWWs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ourguide.com.au/images/station_images/44.png" group-title="MIXED03",UK:C44
+#EXTINF:-1 tvg-logo="http://www.ourguide.com.au/images/station_images/44.png" group-title="MIXED03",UK:C44
 PT1BTzFOVGJ1SVhaME5YWXQ5eU4yRXpOeEFUTUFGelh0OW1hNkJ6YjJ0MmQzUWpla0oyTHA5Q2RsNW1Ma2hXYWgxV1lyRm1Mb3hXTHJkM04wb0haaTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png" group-title="MIXED03",UK:澳大利亚天和电视
+#EXTINF:-1 tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png" group-title="MIXED03",UK:澳大利亚天和电视
 PWdUZHowbUx5QURNd1lGVnZJRE93Z2pPMUZtTHQ5Mll1NEdaalpIZHk1eWQzZDNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="MIXED03",UK:Firstlight
+#EXTINF:-1 tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="MIXED03",UK:Firstlight
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTDBoMlpweEdkekpYYW05Q2RvZFdhc1IzY3lsbVp2WUhkdWdYYXNWSGR1QVhiMEpYTXdrbWIxOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.openshop.com.au/resources/images/pc/common/f_logo.png" group-title="MIXED03",UK:Open Shop
+#EXTINF:-1 tvg-logo="https://www.openshop.com.au/resources/images/pc/common/f_logo.png" group-title="MIXED03",UK:Open Shop
 PT1BTzFOVGJ1RXpYbFpYYXMxaWJ6RjJMMUZtTHQ5Mll1QTNib05uYmxCM2J1VW1kcHhXWXBSV1p0OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="MIXED03",UK:Maori TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="MIXED03",UK:Maori TV
 NFUzTXQ1Q2N3Z0RNeFFXWVFsMlh5VkdkekZXYnZFelh4QURNM1lUTXprRE4wRWpOeDhpTXhZRE15Y3pMbFpYYXM5eWNzaDJMdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1ZtZHB4V1p5VjNZbE4zWWk5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/ParliamentTV.nz.png" group-title="MIXED03",UK:NZ Parliament TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/ParliamentTV.nz.png" group-title="MIXED03",UK:NZ Parliament TV
 PWdUZHowbUx2bEdaMUZXWnpWM2JvOWxkMEIzTDE5Q2QxOTJMNjVtTDBWbWJ1RVdha0ozYnI1eVp1bFdiaFZtYzBOM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="MIXED03",UK:Snowy Mountains TV
+#EXTINF:-1 tvg-logo="http://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="MIXED03",UK:Snowy Mountains TV
 PT1nYnYxVFp6Rm1ZbEpuSjIwRFp6OURPMU5UYnVBWEwyRjJYd1VUTWZoWFprNVdhdmtqTXlVek0xQVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMUNNelVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 1
+#EXTINF:-1 tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 1
 PT1BTzFOVGJ1SVhaME5YWXQ5U01oSkhkNFZXTDFGMmMzVm1iNXQyY3ZrRE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 2
+#EXTINF:-1 tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 2
 PT1BTzFOVGJ1SVhaME5YWXQ5aU1oSkhkNFZXTDFGMmMzVm1iNXQyY3ZBVE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 3
+#EXTINF:-1 tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="MIXED03",UK:Sky News Extra 3
 PT1BTzFOVGJ1SVhaME5YWXQ5eU1oSkhkNFZXTDFGMmMzVm1iNXQyY3ZFVE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="MIXED03",UK:Te Reo
+#EXTINF:-1 tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="MIXED03",UK:Te Reo
 NFUzTXQ1Q2N3Z0RNeFFXWVFsMlh5VkdkekZXYnZJelh4QURNM1lUTXprRE4wRWpOeDh5TXhZRE15Y3pMbFpYYXM5eWNzaDJMdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1ZtZHB4V1p5VjNZbE4zWWk5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="MIXED03",UK:Wairarapa TV
+#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="MIXED03",UK:Wairarapa TV
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2ZzJacGgwWGs1V1lpUldZdkpuUXZvbmJ1ODJZdVlIZGhCWFl5Rm1jcEYyZHUwV1lsSkhkejl5TDZNSGMwUkhh
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="MIXED03",UK:BBC 1
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="MIXED03",UK:BBC 1
 PWdUZHowbUwzQURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="MIXED03",UK:BBC 1 Northern Ireland
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="MIXED03",UK:BBC 1 Northern Ireland
 PWdUZHowbUx3RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="MIXED03",UK:BBC One Scotland
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="MIXED03",UK:BBC One Scotland
 PWdUZHowbUx5RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="MIXED03",UK:BBC One Scotland
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="MIXED03",UK:BBC One Scotland
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVlqTnhNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="MIXED03",UK:BBC 2
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="MIXED03",UK:BBC 2
 PWdUZHowbUwwRURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/bbc%202%20wales.png" group-title="MIXED03",UK:BBC 2 Wales
+#EXTINF:-1 tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/bbc%202%20wales.png" group-title="MIXED03",UK:BBC 2 Wales
 PWdUZHowbUwyRURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/947597829559799815/3EqyVekp_400x400.jpg" group-title="MIXED03",UK:BBC 2 Northern Ireland
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947597829559799815/3EqyVekp_400x400.jpg" group-title="MIXED03",UK:BBC 2 Northern Ireland
 PWdUZHowbUwzRURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc2_scotland.jpg" group-title="MIXED03",UK:BBC 2 Scotland
+#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc2_scotland.jpg" group-title="MIXED03",UK:BBC 2 Scotland
 PWdUZHowbUw0RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="MIXED03",UK:BBC 4
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="MIXED03",UK:BBC 4
 PWdUZHowbUw1RURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="MIXED03",UK:BBC Alba
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="MIXED03",UK:BBC Alba
 PWdUZHowbUw0SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="MIXED03",UK:S4C
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="MIXED03",UK:S4C
 PWdUZHowbUw1SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="MIXED03",UK:CBeebies
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="MIXED03",UK:CBeebies
 PWdUZHowbUwwSURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="MIXED03",UK:CBBC
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="MIXED03",UK:CBBC
 PWdUZHowbUx4SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="MIXED03",UK:BBC Earth
@@ -4628,119 +4610,119 @@ NFUzTXQ1Q013QURNd1VqTWk5RmR6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlhvUm5jaFYyWWlKMkxsWlhh
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="MIXED03",UK:BBC Lifestyle
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOVNiaFZtYzBObkx3QURNeThWWnNsSGR6Vm1acHgyWWlKMkxsWlhhc1JYWnVGM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="MIXED03",UK:4 Music
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="MIXED03",UK:4 Music
 dk1XYXpWWGIwOHlja0YyYnNCWGR2MDJiajVTWmpGR2N6OVdldUV6Y2tObUxpeFdadDRXYW5sbWN2MWlkMGgzYmk5eUw2QUhkMGhXUHdWbkx2bDNQNFUzTXQ1Q2N2UjNhelZHWnRNV2F6VlhiMHdTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="MIXED03",UK:ITV
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="MIXED03",UK:ITV
 NFUzTXQ1Q013Z1RNdWxXWU45bGNsUjNjaDEyTHl3VVFVSjFUUUZqVlVsMExsWlhhc1pIZHA5aU4wWWpNd2N6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNNc0ZHZHk5R2MwSjNid04zTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="MIXED03",UK:ITV 2
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="MIXED03",UK:ITV 2
 PVEzY2xSWFB1VjJhdlIzUDRVM010NUNlbFJtYnA5aU0yUlhhdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MIXED03",UK:Channel 4
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MIXED03",UK:Channel 4
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0xFaDBYMDhGYmw1bWJoaDJRdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MIXED03",UK:Channel 5
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MIXED03",UK:Channel 5
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkwxOEZibDVtYmhoMlF2Z0RPNklqTng0eU11SXpNeDRDTzNFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MIXED03",UK:Film 4
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MIXED03",UK:Film 4
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0wwOFZic2xtUnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/5Star.uk.png" group-title="MIXED03",UK:5 Star
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Star.uk.png" group-title="MIXED03",UK:5 Star
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkx5RkdkejlWTnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",UK:Bloomberg UK
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="MIXED03",UK:Bloomberg UK
 NFUzTXQ1U1oybEdiZkZUTHdBRE14MHljMkZuVlVWVlJ0VTJZeVYzYlQ5U010UW1iaHhXWnlsV0xUZFZRdE1uZHhaRlZWVlVMc1ZtYnVGR2FEOVNNMVYyTDBWbWJ1UVdaNmxXWXRGMmFoNUNkelYyZDFWR1p2SkhjbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="MIXED03",UK:British Muslim TV
+#EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="MIXED03",UK:British Muslim TV
 PWdUZHowbUw0VkdadWwyTHhNSGJvOWlkMDlWYnB4MmMxMTJYb05YYTBsbWNpOXlhemxHWnRGbWN2VW1kcHgyTDBWbWJ1UVdaNmxXWXRGMmFoNUNkekYyWWxKMmJzZFdMenhHYXRRV2JoNUdaajl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="MIXED03",UK:Box Hits
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="MIXED03",UK:Box Hits
 PT13THpSWGFvaDNiaTl5Y2tGMmJzQlhkdjAyYmo1U1pqRkdjejlXZXVFemNrTm1MaXhXWnQ0V2FubG1jdjFpZDBoM2JpOXlMaE5USndSSGRvMURjMTV5YjU5RE8xTlRidUEzYjB0MmNsUldMelJYYW9oM2JpeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BoxUpfront.uk.png" group-title="MIXED03",UK:Box Upfront
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxUpfront.uk.png" group-title="MIXED03",UK:Box Upfront
 PT13TDA1MmJ5WkdjMWgzYmk5eWNrRjJic0JYZHYwMmJqNVNaakZHY3o5V2V1RXpja05tTGl4V1p0NFdhbmxtY3YxaWQwaDNiaTl5TGhOVEp3UkhkbzFEYzE1eWI1OURPMU5UYnVBM2IwdDJjbFJXTDA1MmJ5WkdjMWgzYml4U013TVhkc0JIZXZKMkxsWlhhc1JIZWw5U2J6TjJMdDkyWXVVMlloQjNjdmxuTHRSbkxsMVNiek4yTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/CreateCraft.uk.png" group-title="MIXED03",UK:Create & Craft
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CreateCraft.uk.png" group-title="MIXED03",UK:Create & Craft
 PT1BTzFOVGJ1VW1kcHgyTHJWSGRtRm1jajlTYnZObUx1UjJZdEZXWnlSM2NseEdjdGwyY3VzV2QwWldZeU5XTGxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="MIXED03",UK:Forces TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="MIXED03",UK:Forces TV
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVlET3pNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="MIXED03",UK:Gold
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="MIXED03",UK:Gold
 PVEzY2xSWFB1VjJhdlIzUDRVM010NUNlbFJtYnA5Q1pzOTJSdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="MIXED03",UK:Box Hits
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="MIXED03",UK:Box Hits
 PT13THpSWGFvaDNiaTl5Y2tGMmJzQlhkdjAyYmo1U1pqRkdjejlXZXVFemNrTm1MaXhXWnQ0V2FubG1jdjFpZDBoM2JpOXlMaE5USndSSGRvMURjMTV5YjU5RE8xTlRidUEzYjB0MmNsUldMelJYYW9oM2JpeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="MIXED03",UK:CBeebies
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="MIXED03",UK:CBeebies
 PWdUZHowbUx6SURPdlVXYWlKMmJ5MVNidlJtYmhKM0xsbG1ZaTltY3QwMmJrNVdZeTlTWjJsR2J2QURPNklXZHNObUwyUkhjcFZHZGhaWGF5Qm5MeFlIZHdsMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="MIXED03",UK:CBS Reality
+#EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="MIXED03",UK:CBS Reality
 NEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MIXED03",UK:Channel 4
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MIXED03",UK:Channel 4
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0xFaDBYMDhGYmw1bWJoaDJRdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MIXED03",UK:Film 4
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MIXED03",UK:Film 4
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MdlZHWnBaM0wwOFZic2xtUnZnRE82SWpOeDR5TXVJek14NENPM0V6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MIXED03",UK:Channel 5 UK
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MIXED03",UK:Channel 5 UK
 PT1BZHpWR2Q5NFdacjlHZC9nVGR6MG1MNFZHWnVsMkwxOEZibDVtYmhoMlF2Z0RPNklqTng0eU11SXpNeDRDTzNFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="MIXED03",UK:Forces TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="MIXED03",UK:Forces TV
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVlET3pNekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="MIXED03",UK:Gold
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="MIXED03",UK:Gold
 PVEzY2xSWFB1VjJhdlIzUDRVM010NUNlbFJtYnA5Q1pzOTJSdmdETzZJak54NHlNdUl6TXg0Q08zRXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/IdealWorld.uk.png" group-title="MIXED03",UK:Ideal World
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/IdealWorld.uk.png" group-title="MIXED03",UK:Ideal World
 PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMejhDWnNKM2IzeFdZbFJXYXYwMmJqNWlia05XYmhWbWMwTlhac0JYYnBObkxrTlhhdFVtZHB4Mkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/QVC.uk.png" group-title="MIXED03",UK:QVC
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/QVC.uk.png" group-title="MIXED03",UK:QVC
 PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMejhDYnROWGF1RVRaMEZtYzBsbVl2NFdZbHgyWWY1V2FoMTJYclYzWTJGM0xsWlhhczlDZGw1bUwwNTJieVpHWjE5R2JqNVNiaE5YWTVVWE1xSm1ZNFJYTWs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MIXED03",UK:Kiss
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MIXED03",UK:Kiss
 PTh5Y3psMmF2TUhaaDlHYndWM0x0OTJZdVUyWWhCM2N2bG5MeE1IWmo1aVlzVldMdWwyWnBKM2J0WUhkNDltWXY4U1l6VUNjMFJIYTlBWGR1OFdlL2dUZHowbUx3QlhZdWxXTHpOWGFyeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="MIXED03",UK:Kerrang
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="MIXED03",UK:Kerrang
 PTh5WnVGbWN5VjJhdk1IWmg5R2J3VjNMdDkyWXVVMlloQjNjdmxuTHhNSFpqNWlZc1ZXTHVsMlpwSjNidFlIZDQ5bVl2OGlPd1JIZG8xRGMxNXliNTlETzFOVGJ1QTNiMHQyY2xSV0xuNVdZeUpYWnJ4U013TVhkc0JIZXZKMkxsWlhhc1JIZWw5U2J6TjJMdDkyWXVVMlloQjNjdmxuTHRSbkxsMVNiek4yTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="MIXED03",UK:Magic
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="MIXED03",UK:Magic
 PT13TGpsMlpoMTJMelJXWXZ4R2MxOVNidk5tTGxOV1l3TjNiNTVTTXpSMll1SUdibDFpYnBkV2F5OVdMMlJIZXZKMkx2b0RjMFJIYTlBWGR1OFdlL2dUZHowbUx3OUdkck5YWmsxeVlwZFdZdHhTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MIXED03",UK:Kiss
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MIXED03",UK:Kiss
 PTh5Y3psMmF2TUhaaDlHYndWM0x0OTJZdVUyWWhCM2N2bG5MeE1IWmo1aVlzVldMdWwyWnBKM2J0WUhkNDltWXY4U1l6VUNjMFJIYTlBWGR1OFdlL2dUZHowbUx3QlhZdWxXTHpOWGFyeFNNd01YZHNCSGV2SjJMbFpYYXNSSGVsOVNiek4yTHQ5Mll1VTJZaEIzY3Zsbkx0Um5MbDFTYnpOMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="MIXED03",UK:Kerrang!
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="MIXED03",UK:Kerrang!
 PTh5WnVGbWN5VjJhdk1IWmg5R2J3VjNMdDkyWXVVMlloQjNjdmxuTHhNSFpqNWlZc1ZXTHVsMlpwSjNidFlIZDQ5bVl2OGlPd1JIZG8xRGMxNXliNTlETzFOVGJ1QTNiMHQyY2xSV0xuNVdZeUpYWnJ4U013TVhkc0JIZXZKMkxsWlhhc1JIZWw5U2J6TjJMdDkyWXVVMlloQjNjdmxuTHRSbkxsMVNiek4yTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="MAG.UK" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="MIXED03",UK:Magic
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="MIXED03",UK:Magic
 PT13TGpsMlpoMTJMelJXWXZ4R2MxOVNidk5tTGxOV1l3TjNiNTVTTXpSMll1SUdibDFpYnBkV2F5OVdMMlJIZXZKMkx2b0RjMFJIYTlBWGR1OFdlL2dUZHowbUx3OUdkck5YWmsxeVlwZFdZdHhTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="MIXED03",UK:POP Max
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="MIXED03",UK:POP Max
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNWlOeE16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="MIXED03",UK:Pop UK
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="MIXED03",UK:Pop UK
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNUNNeU16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="MIXED03",UK:Tiny Pop
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="MIXED03",UK:Tiny Pop
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNUNPeE16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="MIXED03",UK:Pop MAX
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="MIXED03",UK:Pop MAX
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTG9kV2FvNWlOeE16TGxaWGFzOVNidk5tTHU5V2JzbG1adVkzWnRnMll0SVRPeEVUTGxkR1psOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="MIXED03",UK:RT UK
+#EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="MIXED03",UK:RT UK
 PWdUZHowbUxpdEVNd1VqTWZaRE14RXpMd2dqTzBWbWJ1UW5icEpIYzA5MmJtNVNaeVYzWWxObkxyVlhMMEozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="MIXED03",UK:Really
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="MIXED03",UK:Really
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdWdUTzNJekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MIXED03",UK:Sony Movies Action
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MIXED03",UK:Sony Movies Action
 NUFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="MIXED03",UK:The Box
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="MIXED03",UK:The Box
 dmczYmlWR2EwOXlja0YyYnNCWGR2MDJiajVTWmpGR2N6OVdldUV6Y2tObUxpeFdadDRXYW5sbWN2MWlkMGgzYmk5eUw2QUhkMGhXUHdWbkx2bDNQNFUzTXQ1Q2N2UjNhelZHWnRnM2JpVkdhMHhTTXdNWGRzQkhldkoyTGxaWGFzUkhlbDlTYnpOMkx0OTJZdVUyWWhCM2N2bG5MdFJuTGwxU2J6TjJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="MIXED03",UK:Venus TV
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="MIXED03",UK:Venus TV
 PWdUZHowbUx0RldaeVIzYzUxMkx6eEdhdkFET3dnak8yVWpMd2tqTDNjakwxUXpMdm9EYzBSSGE=
