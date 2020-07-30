@@ -3,7 +3,7 @@
 
 |   Name         | Playlist
 |  :-----------: | :-------
-|   exo00        | `https://raw.githubusercontent.com/devsground/IPTV/master/2020/exo/exo_all.m3u`
+|   exo all       | `https://raw.githubusercontent.com/devsground/IPTV/master/2020/exo/exo_all.m3u`
 |   alternate    | `https://bit.ly/exoall00`
 
 
@@ -12,6 +12,7 @@
 |   exo01        | `https://pastebin.com/raw/VKVYwA19`    |
 |   exo02        | `https://pastebin.com/raw/vsHdbBCa`    |
 |   exo03        | `https://pastebin.com/raw/JVw49ger`    |
+|   exo04        | `https://pastebin.com/raw/M8D6K61C`    |
 
 
 ## Supported applications:
