@@ -1,7 +1,6 @@
 #EXTM3U
 
 #SOURCEITbd04
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="BDIX01",CORONA LIVE [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
 
