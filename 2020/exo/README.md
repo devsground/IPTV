@@ -1,10 +1,10 @@
 ## Playlists category: global
 
 
-|   Name         | Playlist
-|  :-----------: | :-------
+|   Name          | Playlist
+|  :-----------:  | :-------
 |   exo all       | `https://raw.githubusercontent.com/devsground/IPTV/master/2020/exo/exo_all.m3u`
-|   alternate    | `https://bit.ly/exoall00`
+|   alternate     | `https://bit.ly/exoall00`
 
 
 |   Name         | Playlist                               | Short
@@ -20,7 +20,7 @@
 Choose any of the IPTV player
 https://play.google.com/store/apps/dev?id=7053436804067704459
 
-or Search IPTV Lite - HD IPTV Player on playstore
+or Search IPTV Lite - HD IPTV Player on playstore to play
 
 ## Notice
 If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)
