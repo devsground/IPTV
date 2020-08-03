@@ -18,12 +18,27 @@ Over 7500+ international channels are available now.
 
 ## Combined
 These are the combined playlist of several countries for this IPTV app.
+Copy and Add to play...
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/livetvhd.m3u`  (WORLDWIDE)
 
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/grouped_by_country_and_content.m3u` (grouped by country and content)
+
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/grouped_by_country.m3u` (grouped by country)
+
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/grouped_by_content.m3u` (grouped by content)
+
 - `https://raw.githubusercontent.com/devsground/IPTV/master/all/international.m3u` (International)
+
+- `https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u` (bdix list)
+
+
+## Playlist list collections:
+| Type                  | Visit below link
+| :-------------------: | :------------------
+| Country List          | `https://github.com/devsground/IPTV/tree/master/country`
+| Type List             | `https://github.com/devsground/IPTV/tree/master/category`
+| BDIX List             | `https://github.com/devsground/IPTV/tree/master/2020/may/bd`
+| Global V1             | `https://github.com/devsground/IPTV/tree/master/2020/exo`
 
 ## Supported applications:
 Choose any of the IPTV player
