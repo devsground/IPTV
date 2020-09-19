@@ -1,181 +1,327 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideturkey.xml.gz"
-#EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-logo="none" group-title="News",A Haber
-PWdUZHowbUx0UkdheVZtWWhoV1l2QVhibFJYTDZaM2F5UjNMMFZtYnU0R1pqSlhadTBXTDZaM2F5UjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="none" group-title="Sport",A Spor
-PT1BTzFOVGJ1MEdab0ozYndOWFl2QVhibFJYTDZaM2F5UjNMMFZtYnU0R1pqSlhadTBXTDZaM2F5UjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="Sport",A Spor
-PT1BTzFOVGJ1WUhkelZIZTF4bVovZ1RkejBtTHRSR2F5OUdjekYyTHcxV1owMWllMnRtYzA5Q2RsNW1MdVIyWXlWbUx0MWllMnRtYzA5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="None",Akilli TV
-PWdUZHowbUwwTlhhc3RtYjFoMll2UVhadTVpY2xSV2EyOW1jdzFXWWxKSGR6NWlia05tTHp4R2EyUlhhc3hXYXJGMkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qoKSv6M.jpg" group-title="None",Aksu TV
-PWdUZHowbUx3QURNd1VUTmk5RmR6bEdicjVXZG9OMkxzbFdiejVpZDBWM2NyRm1Pc2xXYno5aWQwVjNjckYyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="None",Amozhgary TV (Kurdistan)
-PWdUZHowbUwyUlZaMmxHVDVKWFluaG1ldjFXUXZRbmJsWlhabFpYYXM5eVgwTm5icFpXWms5MUx5ZDJhd1ZtZHB4MkxsWlhhczF5Y3NoMkx0OTJZdU1uY2xabmNsTkhlNTUyYnVVV2RzSm1MMmtXYm5aMmQzVTJMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="ATV TR" tvg-name="ATV TR" tvg-logo="http://turkey.mom-rsf.org/typo3temp/_processed_/6/3/csm_239-101_import_eef1b9d1cc.png" group-title="None",ATV
-PWdUZHowbUx0UkdhMlJYWXZBWGJsUlhMNlozYXlSM0wwVm1idTRHWmpKWFp1MFdMNlozYXlSM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",Ben TV
-PWdUZHowbUx4NFdaaXhXWXVGMmF2VW1kcHgyTDBWbWJ1NEdaalZtWTFObUx1Vm1Zc0ZtYmh0Mkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="Beyaz TV HD TR" tvg-name="Beyaz TV HD TR" tvg-logo="https://i.imgur.com/eTJIlt9.jpg" group-title="None",Beyaz TV
-PWdUZHowbUwwTlhhc2xYWXNCM0w2RldlbEoyTHJKWGQwOWllaDVpZDBWbWRweG1MeU1YYmhWbWMwTjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Beyaz TV HD TR" tvg-name="Beyaz TV HD TR" tvg-logo="https://i.imgur.com/eTJIlt9.jpg" group-title="None",Beyaz TV
-NFUzTXQ1eWNyNVdkb04yTDZGV2VsSjJMckpYZDA5aWVoNWlkMFZtZHB4bUx6MVdZbEpIZHo5eUw2TUhjMFJIYQ==
+#EXTM3U
+#19112020
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt1-logo.png" group-title="None",BRT 1 (Kıbrıs)
 NFUzTXQ1Q2R6bEdiNUZHYnc5U00wSm5ZdlVtZHB4MkwxTVRPeG9EZGw1bUxyUm5jaTV5Y3RkM0x2b0RjMFJIYQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",BRT 2
 NFUzTXQ1aWJobG1jaDFVZDBGbWNDOWlNMEpuWXZVbWRweDJMMU1UT3hvRGRsNW1MclJuY2k1eWN0ZDNMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039476.png" group-title="None",BRT 2 (Turkish)
 NFUzTXQ1Q2R6bEdiNUZHYnc5aU0wSm5ZdlVtZHB4MkwxTVRPeG9EZGw1bUxyUm5jaTV5Y3RkM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cantv.tv/wp-content/uploads/2019/04/cropped-can_tv_web_site_logo_00-300x141.png" group-title="None",Can TV
-NFUzTXQ1aWQwOWliaE5XYXM1V1lqOUNNd0F6TjYwMmJqNUNkekYyWWtGMmJ5Sm1iaE4yTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="Cartoon Network TR" tvg-name="Cartoon Network TR" tvg-logo="https://i.imgur.com/7R5GZ6x.jpg" group-title="None",Cartoon Network Turkiye
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NDJidlJuY2hOMkxySlhkMDlpZWg1aWQwVm1kcHhtTHlNWGJoVm1jME4zTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="Cartoon Network TR" tvg-name="Cartoon Network TR" tvg-logo="https://i.imgur.com/7R5GZ6x.jpg" group-title="None",Cartoon Network Turkiye
-PWdUZHowbUx6dG1iMWgyWXY0MmJ2Um5jaE4yTHJKWGQwOWllaDVpZDBWbWRweG1MejFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="None",Cay TV
-NFUzTXQ1aVZVbFZRRDlTTTA1V1lpOWlkMGxYWWo5U056a1RNNjAyYmo1U2JwTlhhc2xtWXRsMmNyRkdkdUlUYmhWbWMwTjNMdm9EYzBSSGE=
+
+
 #EXTINF:-1 tvg-id="CNN TURK TR" tvg-name="CNN TURK TR" tvg-logo="https://i.imgur.com/iarVuFy.png" group-title="News",CNN Türk
 PWdUZHowbUw0VkdadWwyWG45bWN3OUNNd0FUTXZzbWMxUjNYdTUyWXZVa1ZKeDBYVHhFU3ZJelV2WUhkdVFYWnU1V1luOUdadUVUT3dnRE55SWpNeEl6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="CNN TURK TR" tvg-name="CNN TURK TR" tvg-logo="https://i.imgur.com/iarVuFy.png" group-title="News",CNN Türk
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q013QVRNZlJ6WHJOV1l5UjNMdzUyYXlWSGR1NTJZdlVrVkp4MFhUeEVTdkl6VXZZSGR1UVhadTVXWW45R1p1RVRNeGtETXhRak15SVRNeTh5TDZNSGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yhzxKnt.png" group-title="None",CRI Turk Belgesel
-NFUzTXQ1Q053QVRNM2dETXlFemRmUjNjcHgyYXVWSGFqOUNibE5YWm54V1ppOUNibE5YWm54V1ppOVNOemtUTTZJSGR1UVhadTVTWWg1U2F5TjJMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="None",Dersim62 TV
-NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwSmpOdGwyY3lWR1p2WUhkeVlUYnBObmNsUjJMMU1UT3hvVGJ2Tm1MaGxHWmwxV2RySlhZdVVtZHB4Mkx2b0RjMFJIYQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/saOK04m.jpg" group-title="None",Disney Channel Turkiye
 PT1BTzFOVGJ1TTNhdVZIYWo5U2VsNTJjcFIyTHJKWGQwOWllaDVpZDBWbWRweG1MejFXWWxKSGR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MwuqE6S.jpg" group-title="None",DMAX
-PT1BTzFOVGJ1SVhkMHgyY2ZCRE13Z2pNeklqWWZSM2NweDJhdVZIYWo5Q2JwMTJjdWdYWXRSMkx0OTJZdTRHWmpSWFpyTjJieTVpTWpKbVp4bG1kcTl5TDZNSGMwUkhh
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",DMAX
 NFUzTXQ1aWMxUkhiejlGTXdBak41UWpZZlIzY3B4MmF1VkhhajlDYnAxMmN1Z1hZdFIyTHQ5Mll1NEdaalJYWnJOMmJ5NWlNakptWnhsbWRxOXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="none" group-title="None",Dream TV
-cFJVTVFwV2J5OFNlczVDZHBKMkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://s.dreamtv.com.tr/assets/dist/images/dream-tv-logo.png" group-title="None",Dream TV
-NFUzTXQ1Q2VsUm1icDlpZDAxV1lsSkhadlVrVkp4MFhUeEVTdkl6VXZZSGR1UVhadTVXWW45R1p1VW1kcHgyTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://iptv.live/images/logo/channel/smalls/def6e6a0f57052cc936abe5f49207b85.png" group-title="None",Dream TV
-PWdUZHowbUw0VkdadWwyWG45bWN3OUNNd0FUTXZZSGR0RldaeVIyTEZaVlNNOTFVTWgwTHlNMUwyUm5MMFZtYnVGMlp2Um1MbFpYYXM5eUw2TUhjMFJIYQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="None",EuroStar
 PWdUZHowbUwwTlhhc3RtYjFoMll2QUhNMk16WHRGV1p5UjNjdUlYWTBOM2J5VlhadjAyYmo1aWJrTkdkbHQyWXZKbkx6WlROcXgyYXloM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HdXaTr8.png" group-title="None",Ezidxan TV
-NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZRRVN2QURPd0V6TFdSbFRCaEZSSnBWUnZZVE91a3pOeDRTTzM0eU54SXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="None",FOX
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo5RmV2WjJMckpYZDA5aWVoNWlkMFZtZHB4bUx5TVhiaFZtYzBOM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="None",FOX
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTGtobWQwaDNibTlDWm9aSGQ0OW1adlFYWnU1Q1pscFhhaDFXWXJGbUxoUlhaaTFpZDBWSGJpOXlMNk1IYzBSSGE=
+
 #EXTINF:-1 tvg-id="HABERTURK TR" tvg-name="HABERTURK TR" tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/7678c74d-3003-415c-8a90-d50bf31531b6_haberturk-turk-hd.jpg" group-title="News",Habertürk TV
 PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMd0FETXg4eWF5VkhkeVZtWWhoMkxGWlZTTTkxVU1oMEx4TTFMMlJuTDBWbWJ1RjJadlJtTDNVMlprVkdidk4zTHZvRGMwUkhh
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",Istanbul Metropolitan Municipality
 NFUzTXQ1Q2R6bEdiNUZHYnc5aU1zVm5ZdUZHZHpsMkx3UjJMMU1UT3hvamQwNWlZbGRIZHpsbUxocDNkdmQzTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx2Cyq0.png" group-title="None",Istanbul Metropolitan Municipality
-PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVDZHpsR2I1RkdidzlpTXNWbll1RkdkemwyTHdSMkwxTVRPeG9qZDA1aVlsZEhkemxtTGhwM2R2ZDNMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uHAGsRk.png" group-title="None",Kanal 3
 NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidU1EYmg1V1lMOVNNMDVXWWk5eU1zRm1iaHQyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",Kanal 7
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdVFHYTN3V1l1RjJhdlFHYTN3V1l1RjJhdlFYWnU1Q1pscFhhaDFXWXJGbUxoUlhaaTFpZDBWSGJpOXlMNk1IYzBSSGE=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",Kanal D
 PWdUZHowbUw0VkdadWwyWG45bWN3OUNNd0FUTXZRR2JoNVdZcjlTUldsRVRmTkZUSTlTTVQ5aWQwNUNkbDVtYmhkMmJrNVNPd0VUT3hJak13RVRONEV6THZvRGMwUkhh
+
 #EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/379.png" group-title="None",Kanal D
 L2dUZHowbUwwTlhhc2xYWXNCM0x3SXpNZkZ6WHJOV1l5UjNMdzVHWnNGbWJodDJMRlpWU005MVVNaDBMeU0xTDJSbkwwVm1idUYyWnZSbUx6VVRNMVlqTTFFVE40RXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="None",Kanal D
-PWdUZHowbUw0VkdadWwyTGt4V1l1RjJhdlVrVkp4MFhUeEVTdkl6VXZZRE55NFNPdWd6TXg0Q080RXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="None",Kanal D
-PWdUZHowbUw0VkdadWwyWG45bWN3OUNNd0FUTXZRR2JoNVdZcjlTUldsRVRmTkZUSTlpTVQ5U093RWpMNUFUTXVRak15NGlNeEl6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="None",Kanal D
-PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMd0FUTnZRR2JoNVdZcjlTUldsRVRmTkZUSTlpTVQ5U093RWpMNUFUTXVRak15NGlNeEl6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="None",Kanal D
-PT1BTzFOVGJ1Z1haazVXYXZRR2JoNVdZcjlTUldsRVRmTkZUSTlpTVQ5aWQwNUNkbDVtYmhkMmJrNXlObGRHWmx4MmJ6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UbVZFtm.png" group-title="None",Kanal Urfa
-NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidVFUTzJVRE15SUROd0V6ZGZSM2NweDJhdVZIYWo5U00wNVdZaTlTWW1KWGRzRm1iaHQyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D8uqiZD.jpg" group-title="None",Kon TV
 PT1BTzFOVGJ1UUROMVlET3pZRE95YzNYME5YYXN0bWIxaDJZdllIZHU5MmF2VW1kcHgyTDBWbWJ1czJZdnhXYmhWbWMwTm5MNGNqTmlSek1rUlRZaU5XTzE4eUw2TUhjMFJIYQ==
+
 #EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Music",Kral Pop
 PWdUZHowbUwwTlhhc3RtYjFoMll2QWpNMzhGY3ZCSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx3UkRPMVZuYWhCekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-logo="none" group-title="Music",Kral Pop
-PWdUZHowbUwwTlhhc3RtYjFoMll2QWpNMzhGY3ZCSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx4bFRNa04zWnhKMkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Music",Kral POP Akustik
-PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTDJSM2FwUjNjMXRXWXR3V1kwbG1hcFJHYmhKM2F2MDJiajVpYmtOR2RsdDJZdkpuTHBKWGN6TlRkdFIyTHZvRGMwUkhh
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-jTr_QYPH05c/V7HPOLRjYrI/AAAAAAAAQO8/XrTNox9lXU0aUJMy6srE3z3ewAYZjnQwgCLcB/s1600/kralpopkonser.jpg" group-title="Music",Kral Pop Konser
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VZSGR5VjJjdTkyYXc5R2N0d1dZMGxtYXBSR2JoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx3UkRPMVZuYWhCekx2b0RjMFJIYQ==
+
 #EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="None",Kral TV
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNeWN6WDJSSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx3UkRPMVZuYWhCekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="None",Kral TV
-PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNeWN6WDJSSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx0Wnpaa1ZEWnAxMkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://muzrad.com/wp-content/uploads/2015/11/muzrad_kral-world-radio-8-ilde-yayinda.jpg" group-title="None",Kral World
-NFUzTXQ1Q2R6bEdicjVXZG9OMkx3SXpOZlpIZGt4bWN2ZEhiaEozYXYwMmJqNWlia05HZGx0Mll2Sm5MaGRITXZCWGIwTjNMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LcUYuJ5.png" group-title="Music",Med Muzîk
 PWdUZHowbUx6Qm5ZdE5UTHQxMkx6VW1kcHgyTHhBak11VURNeTRDTjM0eU56RXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Minika GO TR" tvg-name="Minika GO TR" tvg-logo="http://i.minika.com.tr/go/site/v1/i/goLogo.png" group-title="None",Minika Go
-NFUzTXQ1Q2R6bEdiNUZHYnc5eWJuOVZZcmxtYnAxMkxySlhkMDlpZWg1aWQwVm1kcHhtTHlNWGJoVm1jME4zTHZvRGMwUkhh
+
 #EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-logo="none" group-title="News",NTV
 PWdUZHowbUwwTlhhc3RtYjFoMll2QUhNMk16WHRGV1p5UjNjdVFHYTJSbmJ2MDJiajVpYmtOR2RsdDJZdkpuTG1WbWI1QUhOMDUyTHZvRGMwUkhh
+
 #EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="News",NTV
 NFUzTXQ1Q2R6bEdicjVXZG9OMkx3QmpNMzhWYmhWbWMwTm5Ma2htZDA1Mkx0OTJZdTRHWmpSWFpyTjJieTVpWmw1V093UkRkdTl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-id="NTV Spor TR" tvg-name="NTV Spor TR" tvg-logo="https://i.imgur.com/hzrFNZQ.png" group-title="Sport",NTV Spor
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2STNid05uZDA1Mkx6eEdhdkVET3hnak8yQVRNdU16TXk0U053RWpMMlF6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",ON4 TV
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q051OTJMbFpYYXM5U056a1RNNjAyYmo1U2J2bEhaaEpIZGw1bUx1bFdlaGwzTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IwX5kbS.jpg" group-title="None",Royal TV
-PWdUZHowbUw0VkdadWwyTDJSSGJobDNieTlTZWh4R2N2RURPNUlqT29ObUxsMVdhMFZXYnBKSGN1SVRaakpYZHZOM0x2b0RjMFJIYQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="None",Rudaw
 PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVTWjJsR2IzRkdaMUozTGxaWGFzZFhZa1ZuY3ZRWFp1NWlia04yY3JKM2IzUlhhdU1uZHo5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="none" group-title="None",Semerkand TV
-PT1BTzFOVGJ1SVhZejVXWXo5eU1rNVdZckpYWnRWMmN2VTJaa1ZXWjJsR2JrNVdZckpYWnRWMmN2UVhadTVTWnNCWGF5UlhZcFJXWnQ1aVlzZEdadUYyYXlWV2JsTjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="none" group-title="None",Semerkand TV
-PWdUZHowbUx1RldheUZXVDFSWFl5SjBMeFFtYmh0bWNsMVdaejlTWm5SV1psWlhhc1JtYmh0bWNsMVdaejlTTnprVE02UVhadTVTWnNCWGF5UlhZcFJXWnQ1aVlzZEdadUYyYXlWV2JsTjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="none" group-title="None",Semerkand TV
-NFUzTXQ1aWNsUjNjaDEyTHhRbWJodG1jbDFXWno5U1puUldabFpYYXNSbWJodG1jbDFXWno5U056a1RNNlFYWnU1U1pzQlhheVJYWXBSV1p0NWlZc2RHWnVGMmF5VldibE4zTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="none" group-title="None",Semerkand TV
-PWdUZHowbUwwTlhhc2xYWXNCM0x4UW1iaHRtY2wxV1p6OVNablJXWmxaWGFzUm1iaHRtY2wxV1p6OVNOemtUTTZRWFp1NVNac0JYYXlSWFlwUldadDVpWXNkR1p1RjJheVZXYmxOM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="none" group-title="None",Semerkand TV
-PWdUZHowbUxwTlhhc1ZHWnZsSFpoSjNMeFFtYmh0bWNsMVdaejlTWm5SV1psWlhhc1JtYmh0bWNsMVdaejlTTnprVE02UVhadTVTWnNCWGF5UlhZcFJXWnQ1aVlzZEdadUYyYXlWV2JsTjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",Seven
-NFUzTXQ1Q2R6bEdiNUZHYnc5aU10RldaeVIzVTUxMkxsWlhhczlTTnprVE02UURPdVVUTXg0eU53RWpMM2t6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="None",Show
-NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwZDNib04zTHJKWGQwOWllaDVpZDBWbWRweG1MeU1YYmhWbWMwTjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bHC7NT0.png" group-title="None",Speda
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q1pvRkdabEIzY3ZVbWRweDJMMU1UT3hvVFoybEdidXNXWmtGbWNsUm5MaFJXWndOM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GAmKpO6.png" group-title="Sport",Sports TV
-NFUzTXQ1aWMxUkhiejlGTXdBak41VVRNaTlGZHpsR2JyNVdkb04yTHNsV2J6NWlkME5IZHk5R2N6OWlkME5IZHk5R2N6OVNaMmxHYmZaSGQxeG1ZdjAyYmo1aWJrTm1idDVDYnUxaWJ0OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://i.imgur.com/2jKvBsQ.jpg" group-title="None",Star TV
-PWdUZHowbUwwTlhhc3RtYjFoMll2QUhNeWN6WHRGV1p5UjNjdVFHYTJSbmNoUjNjdjAyYmo1aWJrTkdkbHQyWXZKbkwxaEhPa2wyWmp4Mkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://i.imgur.com/2jKvBsQ.jpg" group-title="None",Star TV
-PT1BTzFOVGJ1SVhkMHgyY2ZCRE13Z2pNMklqWWZSM2NweDJhdVZIYWo5Q2JwMTJjdVFHYTJSbmNoUjNjdlFHYTJSbmNoUjNjdlFYWnU1Q1pscFhhaDFXWXJGbUxoUlhaaTFpZDBWSGJpOXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://i.imgur.com/2jKvBsQ.jpg" group-title="None",Star TV
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjZkpYWTBOM0xySlhkMDlpZWg1aWQwVm1kcHhtTHoxV1lsSkhkejl5TDZNSGMwUkhh
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",TBMM TV
 PWdUZHowbUx5VkdkekZXYnZNRE0xY2pNeEFVTWZaRlZUbEVURFZVVHZrMkx3Z2pPMFZtYnVRR2FwRldiaHRXWXVnR2J0WUhkcHhtYmhOMmNweDJZbDEyTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="None",Teve 2
-PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMd0FETXg4aU0yUjNMRlpWU005MVVNaDBMeE0xTDJSbkwwVm1idUYyWnZSbUwzVTJaa1ZHYnZOM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/458666982905098240/Ef3T7N7P.png" group-title="None",TGRT Belgesel
-PWdUZHowbUwwTlhhc2xYWXNCM0x3TVRMbFpYYXNwRGR6eFdiaDlDYmxOWFpueFdaaTlGZHlkR2R2VXpNNUVqT3Q5Mll1Y21icFIyYmo1V1p0RldaeVIzY3VFamJrTjJMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438125096_tgrtbelgesel.png" group-title="None",TGRT Belgesel
 NFUzTXQ1Q2R6bEdiNUZHYnc5eU0wSjNaMDlDYmxOWFpueFdaaTlGZHlkR2R2VXpNNUVqT3Q5Mll1Y21icFIyYmo1V1p0RldaeVIzY3VFamJrTjJMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599705_tgrthaber.png" group-title="News",TGRT Haber
 NFUzTXQ1Q2R6bEdiNUZHYnc5eU0wSjNaMDlpY2xKV1lvOUZkeWRHZHZVek01RWpPdDkyWXVjbWJwUjJiajVXWnRGV1p5UjNjdUVqYmtOMkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IFE6LHH.jpg" group-title="None",tivi TÜRK
-NFUzTXQ1eWF5VkhkcFpYYTA5U1oybEdidlVHWnVzbWMxUlhhMmxHZHUwV1lsSkhkejl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437751075_tjk.png" group-title="Sport",TJK TV
-NFUzTXQ1aWQwdG1hMDlDZGw1bUx1UjJZeVZtTDJSM2FxUjNMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="None",TLC
 PWdUZHowbUx5Vkhkc04zWHdBRE00SXpNeUkyWDBOWGFzdG1iMWgyWXZ3V2F0Tm5MMlIzWXNSM0x0OTJZdTRHWmpSWFpyTjJieTV5WnFoM1pobFRZdzl5TDZNSGMwUkhh
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="News",TRT Arabi
 PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVpY2xSM2NoMTJMMVFUT3hnVE1BRnpYQk5FVUJKVlFVSkZWdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didFlIZHB4bWJoTkdkeVIzTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="Kids",TRT Cocuk
-PWdUZHowbUx5VkdkekZXYnZRRE40RURPeEFVTWZ0VVZEOTBRVUpGVnZrMkwwVm1idVFHYXBGV2JodFdZdWdHYnRZSGRweG1iaE5HZHlSM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="TRT Diyanet TR" tvg-name="TRT Diyanet TR" tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/logo.png" group-title="None",TRT Diyanet
-PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOVNNSUZVZGtkMGQzOENkbE4zY2g5Q2RsNW1MdVIyWWo5bWJ1UTJjMTFDYzJOMmJ1OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="News",TRT Haber
-PT1BTzFOVGJ1SVhaME5YWXQ5aU0wa1RNNEVEUXg4RlJJSlZSQ0ZFU1VKRlZ2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0WUhkcHhtYmhOR2R5UjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",TRT Kurdi
-PT1BTzFOVGJ1SVhaME5YWXQ5Q04wa1RNNEVEUXg4bE5VSkZWdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didFlIZHB4bWJoTkdkeVIzTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="Music",TRT Muzik
-PWdUZHowbUx5VkdkekZXYnZVRE40RURPeEFVTWZ0VVNhVlZUVUpGVnZrMkwwVm1idVFHYXBGV2JodFdZdWdHYnRZSGRweG1iaE5HZHlSM0x2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="TRT Spor TR" tvg-name="TRT Spor TR" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="Sport",TRT Spor
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTGtobWN2QjNjMEpIZHZRR2F5OUdjelJuYzA5U1oybEdiZlpIZDF4bVl2MDJiajVpYmtObWJ0NUNidTFpYnQ5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://webtvonlive.com/wp-content/uploads/tv4-webtvonlive-com.jpg" group-title="None",TV 4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIWlV8B.png" group-title="TURKEY",Africa Natural TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5U00wNVdZaTlpZDB4V1l5VkhkaDUyTDFNVE94b1Ridk5tTHlSSGR6RjJZa0YyYnlKMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8A1HOMZ.png" group-title="TURKEY",Afyon Turk TV
+PWdUZHowbUwwTlhhc2xYWXNCM0wyUjNheVZIZHU5V2VtRjJMMlIzYXlWSGR1OVdlbUYyTDBWbWJ1czJZdnhXYmhWbWMwTm5MMk1XTzFNRE0wZ0RaMVVtWTE4eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/obCp0aK.png" group-title="TURKEY",Ahi TV Kirsehir
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkcGhXWXZZSGRweG1iaE4yTDFNVE94b1Ridk5tTDJSWGFzNVdZajV5TXVsV2VobDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci7EGAc.png" group-title="TURKEY",Akit TV
+PWdUZHowbUwyUkhkcHRXWXZZSGQwbDJhaDlDZGw1bUx1UjJZeVZtTGxaWGFzMWlkMFJYYXJGMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jj3E9mj.png" group-title="TURKEY",Alanya TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTDJSWFk1NVdZc0ZtT3NsV2J6OWlkMEZXZXVGR2JoOVNOemtUTTYwMmJqNVNicE5YYXNsbVl0bDJjckZHZHVJVGJoVm1jME4zTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nnsnayw.png" group-title="TURKEY",Altaş TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RURkdUZtWXZZSGR6Rkdkc0YyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aspCtNq.png" group-title="TURKEY",Bereket Hayvancilik (Opt-2)
+PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTDJRR04wY0ROaFJtWWxGVFkxOEZkekYyWWtGMmJ5SjJMbFpYYXNaV1lzVkhielptY2xwSGR0OUNkbDVtTGx4R2NwSkhkaGxHWmwxbUxsWlhhc1pXWXNWSGJ6Wm1jbHBIZHQ5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qti5aea.png" group-title="TURKEY",Beşiktaş Web TV
+PWdUZHowbUx6RkdkcmwyY2xKMkx6RkdkcmwyY2xKMkx2bG1MemxHYzI1U013TTNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TvlvWxy.png" group-title="TURKEY",Bloomberg HT (New!)
+NFUzTXQ1Q2N3SXpOZlJIYW5KWFppMTJidnhtWXZRSGFuSlhaaTEyYnZ4bVl2UVhadTVpYmtObWJ2bFdZazVpY2w1V2FqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6DUajb.png" group-title="TURKEY",Bursa TV
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkaE5uYzFKMkwyUlhZekpYZGk5aWMwNVNidk5tTHVsV2VobG5MeDRXYTM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tf2F7T.png" group-title="TURKEY",CAN TV
+NFUzTXQ1aWQwOWliaE5XYXM1V1lqOUNNd0F6TjYwMmJqNUNkekYyWWtGMmJ5Sm1iaE4yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8yDnCj.png" group-title="TURKEY",Cay TV
+NFUzTXQ1aVZVbFZRRDlTTTA1V1lpOWlkMGxYWWo5U056a1RNNjAyYmo1U2JwTlhhc2xtWXRsMmNyRkdkdUlUYmhWbWMwTjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VA9xKv1.png" group-title="TURKEY",Cine5 TV
+NFUzTXQ1eUwxVW1icE4yTDFVbWJwTjJMeVJuTHQ5Mll1NFdhNUZXZXVFamJwZDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DzktS7P.png" group-title="TURKEY",CNN Turk (Opt-1)
+NFUzTXQ1Q2VsUm1icDkxWnZKSGN2QURNd0V6THJKWGQwOWxidU4yTEZaVlNNOTFVTWgwTHhNMUx5Um5MdDkyWXVRR2RsNW1MaGxHWmwxMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzktS7P.png" group-title="TURKEY",CNN Turk (Opt-3)
+NFUzTXQ1Q2VsUm1icDkxWnZKSGN2QURNd0V6THJKWGQwOWxidU4yTEZaVlNNOTFVTWgwTHlNMUwyUm5MMFZtYnVGMlp2Um1MM1UyWmtWR2J2TjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzktS7P.png" group-title="TURKEY",CNN Turk (Opt-5)
+PWdUZHowbUw0VkdadWwyWG45bWN3OUNNd0FUTXZzbWMxUjNYdTUyWXZVa1ZKeDBYVHhFU3ZFelV2RVRPdUFET3VRak15NGlNeEl6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHD72XE.png" group-title="TURKEY",CRI Türk (CN)
+NFUzTXQ1Q053QVRNM2dETXlFemRmUjNjcHgyYXVWSGFqOUNibE5YWm54V1ppOUNibE5YWm54V1ppOVNOemtUTTZJSGR1UVhadTVTWWg1U2F5TjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mow4jBE.png" group-title="TURKEY",Demiroren News Agency
+NFUzTXQ1Q2VsUm1icDlTTWhoR1p2VWtWSngwWFR4RVN2RXpVdklIZHUwMmJqNUNaMFZtYnVVbWRweDJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVmYgd5.png" group-title="TURKEY",DMAX
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VnWFl0UjJMdDkyWXU0R1pqUlhack4yYnk1aU1qSm1aeGxtZHE5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyubJha.png" group-title="TURKEY",Doğuş TV
+NFUzTXQ1aWQwTlhkbjlHWnZZSGR6VjNadlIyTHZsbUx6bEdjMjVTTXdNM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LSNob3z.png" group-title="TURKEY",Dream TV
+PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMd0FETXg4aWQwMVdZbEpIWnZVa1ZKeDBYVHhFU3ZFelV2SUhkdTAyYmo1Q1owVm1idVVtZHB4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JERDDAt.png" group-title="TURKEY",Dreamturk TV
+PWdUZHowbUw0VkdadWwyWG45bWN3OUNNd0FUTXZZSGRySlhkMDFXWWxKSFp2VWtWSngwWFR4RVN2RXpVdklIZHUwMmJqNUNaMFZtYnVVbWRweDJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqYHk4d.png" group-title="TURKEY",DRT Denizli TV
+NFUzTXQ1aVZVUmxVRTlDYnAxMmN1UW5ja3BEYnAxMmN2UW5jazlTTnprVE02MDJiajVTYnBOWGFzbG1ZdGwyY3JGR2R1SVRiaFZtYzBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOd3INg.png" group-title="TURKEY",ETV Manisa
+NFUzTXQ1U081RXpONVFUTzBFemRmUjNjcHgyYXVWSGFqOVNNMDVXWWk5aWQwVldZemxtYmgxMkwyUURONjAyYmo1aWMwUjNjaE5HWmg5bWNpOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQtJ7h6.png" group-title="TURKEY",Eurostar
+PT1BTzFOVGJ1WUhkelZIZTF4bVovZ1RkejBtTDBOWGFzdG1iMWgyWXZBSE0yTXpYdEZXWnlSM2N1SVhZME4zYnlWWFp2MDJiajVpYmtOR2RsdDJZdkpuTHpaVE5xeDJheWgzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iY0osc7.png" group-title="TURKEY",Finans Turk TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkckpYZDBObmJoNVdhbTlpZDB0bWMxUjNjdUZtYnBaMkwxTVRPeG9UYnZObUxobEdabDFXZHJKWFl1VW1kcHgyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dk4Wp6I.png" group-title="TURKEY",Fortuna TV
+PWdUZHowbUwwTlhhc2xYWXNCM0x0RldaeVIzY3U0V2E1RldldmNUTXhZSGR2Y21jdjVDY3RSbmN1RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFtdhHU.png" group-title="TURKEY",FRT TV Fethiye
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdVlIZDBKblo2d1dhdE4zTDJSSGR5WjJMMU1UT3hvVGJ2Tm1MeVJIZHpGMllrRjJieUoyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzX2cW3.png" group-title="TURKEY",Guneydoğu TV
+PWdUZHowbUwwTlhhc3RtYjFoMll2RURkdUZtWXZZSGRuOVNOemtUTTYwMmJqNVNicE5YYXNsbVl0bDJjckZHZHVJVGJoVm1jME4zTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQd16bO.png" group-title="TURKEY",Haber 61 Trabzon
+NFUzTXQ1eUxzbFdiejVpZDBGak55Vm1ZaGhtT3NsV2J6OWlkMEZqTnlWbVloaDJMeVJuTHQ5Mll1NFdhNUZXZXVnamJwZDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx2Cyq0.png" group-title="TURKEY",Istanbul Metropolitan Municipality
+PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVDZHpsR2I1RkdidzlpTXNWbll1RkdkemwyTHdSMkwxTVRPeG9qZDA1aVlsZEhkemxtTGhwM2R2ZDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHAGsRk.png" group-title="TURKEY",Kanal 3 (Opt-1)
+NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidU1EYmg1V1lMOVNNMDVXWWk5eU1zRm1iaHQyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHAGsRk.png" group-title="TURKEY",Kanal 3 (Opt-2)
+PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejV5TXNGbWJodG1Pc2xXYno5eU1zRm1iaHQyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNyleGN.png" group-title="TURKEY",Kanal 5
+NFUzTXQ1Q2R6bEdicjVXZG9OMkwxd1dZdUYyYXZZSGRweG1iaE4yTDBWbWJ1czJZdnhXYmhWbWMwTm5MNGNqTmlSek1rUlRZaU5XTzE4eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrdDzlm.png" group-title="TURKEY",Kanal 15 Burdur
+NFUzTXQ1Q2R6bEdiNUZHYnc5U00wNVdZaTlTTnh3V1l1RjJhdlV6TTVFak8wVm1idUVXZWtWV2JzVm1jbGxYYTBKWFl1RXpkaGQzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjjhADq.png" group-title="TURKEY",Kanal 19
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkNUVEYmg1V1lyOWlkMGxUTXNGbWJodDJMMU1UT3hvVGJ2Tm1MaGxHWmwxV2RySlhZdVVtZHB4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqWv8lk.png" group-title="TURKEY",Kanal 33
+PWdUZHowbUx2d1dhdE5uTHpNRGJoNVdZcnBEYnAxMmN2TXpNc0ZtYmh0MkwxTVRPeG9UYnZObUx0bDJjcHhXYWkxV2F6dFdZMDVTYmhWbWMwTjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7h9Zq3.png" group-title="TURKEY",Kanal 34
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkME1EYmg1V1lyOWlkMFJ6TXNGbWJodDJMMU1UT3hvVGJ2Tm1MaGxHWmwxV2RySlhZdVVtZHB4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HGSNWCU.png" group-title="TURKEY",Kanal 101
+PWdUZHowbUx4QVRNc0ZtYmh0Mkx4QVRNc0ZtYmh0Mkx2bG1MemxHYzI1U013TTNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-2)
+PWdUZHowbUw0VkdadWwyTGt4V1l1RjJhdlVrVkp4MFhUeEVTdkV6VXZJSGR1MDJiajVDWjBWbWJ1VW1kcHgyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-3)
+PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMd0FETXg4Q1pzRm1iaHQyTEZaVlNNOTFVTWgwTHlNMUwyUm5MMFZtYnVGMlp2Um1MM1UyWmtWR2J2TjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbVZFtm.png" group-title="TURKEY",Kanal Urfa (Opt-1)
+NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidVFUTzJVRE15SUROd0V6ZGZSM2NweDJhdVZIYWo5U00wNVdZaTlTWW1KWGRzRm1iaHQyTDFNVE94b1Ridk5tTHRsMmNweFdhaTFXYXp0V1kwNVNiaFZtYzBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbVZFtm.png" group-title="TURKEY",Kanal Urfa (Opt-3)
+NFUzTXQ1eUxzbFdiejVTWW1KWGRzRm1iaHRtT3NsV2J6OVNZbUpYZHNGbWJodDJMMU1UT3hvVGJ2Tm1MdGwyY3B4V2FpMVdhenRXWTA1U2JoVm1jME4zTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvGTjko.png" group-title="TURKEY",Kay TV Kayseri
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkNUYyYXZZSGRweG1iaE4yTDFNVE94b1Ridk5tTDJSWGFzNVdZajV5TXVsV2VobDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buqoPKw.png" group-title="TURKEY",Kon TV Konya
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkdTkyYXZVbWRweDJMMU1UT3hvVGJ2Tm1MMlJYYXM1V1lqNXlNdWxXZWhsM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Performans
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VZSGR5VjJjdTkyYXR3V1kwbG1hcFJHYmhKM2F2MDJiajVpYmtOR2RsdDJZdkpuTDVObk5vcG5Nb3QyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Pop
+PWdUZHowbUwwTlhhc3RtYjFoMll2QWpNMzhGY3ZCSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx4bFRNa04zWnhKMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Pop Akustik
+PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTDJSM2FwUjNjMXRXWXR3V1kwbG1hcFJHYmhKM2F2MDJiajVpYmtOR2RsdDJZdkpuTHBKWGN6TlRkdFIyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Pop Konser
+PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTDJSbmNsTm5idnRHY3ZCWExzRkdkcHBXYWt4V1l5dDJMdDkyWXU0R1pqUlhack4yYnk1Q2MwZ1RkMXBXWXc4eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL TV
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNeWN6WDJSSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkx0Wnpaa1ZEWnAxMkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL World TV
+NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidVEzY3B4MmF1VkhhajlDYnAxMmN1WUhka3htY3ZkSGJoSjNhdjAyYmo1aWJrTkdkbHQyWXZKbkxoZEhNdkJYYjBOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNXNJXD.png" group-title="TURKEY",Kudüs TV
+NFUzTXQ1Q00yUVRNM0lET3dBVE0zOUZkemxHYnI1V2RvTjJMMlIzYzFSV2RyOUNNd1FETTRZVE00a0RVdmNtY3Y1aWJwbFhZNWxHYnVGMll1QVRNdWxXZWhsM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkJ9Y1z.png" group-title="TURKEY",Line TV
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOVNNMDVXWWk5aWQwVm1icHgyTDJRRE42MDJiajVpYzBSM2NoTkdaaDltY2k5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ypvbJua.png" group-title="TURKEY",Meclis TV
+PWdUZHowbUx5VkdkekZXYnZNRE0xY2pNeEFVTWZaRlZUbEVURFZVVHZrMkx3Z2pPMFZtYnVRR2FwRldiaHRXWXVnR2J0WUhkcHhtYmhOMmNweDJZbDEyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8LhW9K.png" group-title="TURKEY",Medya Haber
+PWdUZHowbUx6Qm5ZdE5UTG8xMkx4VW1kcHgyTHhBak11VURNeTRDTjM0eU56RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJbuFyH.png" group-title="TURKEY",Merkez TV Bolu
+PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VZSGQ2VjJheVZXYjZ3V2F0TjNMMlJuZWx0bWNsMTJMMU1UT3hvVGJ2Tm1MeVJIZHpGMllrRjJieUoyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWLEejW.png" group-title="TURKEY",NTV
+NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidWdYWms1V2F2QUhNeWN6WHRGV1p5UjNjdVFHYTJSbmJ2MDJiajVpYmtOR2RsdDJZdkpuTG1WbWI1QUhOMDUyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClXOYNb.png" group-title="TURKEY",ON4 TV (Opt-1)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q051OTJMbFpYYXM5U056a1RNNjAyYmo1U2J2bEhaaEpIZGw1bUx1bFdlaGwzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3nv2RT.png" group-title="TURKEY",Power TV
+NFUzTXQ1aWMxUkhiejVDZHpsR2JyNVdkb04yTHNsV2J6NUNab0pYWjM5R2N2WUhkeVYyZHZCM0x5Um5MdDkyWXVBSGNoSlhaMzlHY3VZSGRsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QgXqVta.png" group-title="TURKEY",Powerturk TV
+PWdUZHowbUx5Vkhkc05uTDBOWGFzdG1iMWgyWXZ3V2F0Tm5Ma2gyYXlWSGR5VjJkdkIzTDJSM2F5VkhkeVYyZHZCM0x5Um5MdDkyWXVBSGNoSlhaMzlHY3VZSGRsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohlrcl8.png" group-title="TURKEY",Rehber TV
+PWdUZHowbUx4RXpONGNUTzBjVE14YzNYME5YYXN0bWIxaDJZdllIZHlWbVlvVm1jdlFETzRBRE13RXpONEExTG5KM2J1NFdhNUZXZXB4bWJoTm1MMlJuY2xKR2FsSjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hxzWhz.png" group-title="TURKEY",Royal TV
+PWdUZHowbUw0VkdadWwyTDJSSGJobDNieTlTZWh4R2N2RURPNUlqT29ObUxsMVdhMFZXYnBKSGN1SVRaakpYZHZOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkrnaqR.png" group-title="TURKEY",Siteler TV
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkeVZHYmxSWGF6OWlkMEpYWnNWR2RwTjNMMU1UT3hvVGJ2Tm1MaGxHWmwxV2RySlhZdVVtZHB4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",Star TV (Opt-1)
+PWdUZHowbUwwTlhhc3RtYjFoMll2QUhNMk16WHRGV1p5UjNjdVFHYTJSbmNoUjNjdjAyYmo1aWJrTkdkbHQyWXZKbkwxaEhPa2wyWmp4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",Star TV (Opt-2)
+PWdUZHowbUwwTlhhc3RtYjFoMll2QUhNeWN6WHRGV1p5UjNjdVFHYTJSbmNoUjNjdjAyYmo1aWJrTkdkbHQyWXZKbkwxaEhPa2wyWmp4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/De80iGn.png" group-title="TURKEY",TD1
+PWdUZHowbUx5VldlaHhHY3VVR2JwSjJidE5XWjU5U1oybEdidlVHYnBKMmJ0TldaNTlDYmw1bWJoaDJZdlFuYmxSbmJ2TjJMMlJuTDBsMmF0RldaeVIzY3VrWFlzQjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2byqxkD.png" group-title="TURKEY",Teve2 (Opt-1)
+NFUzTXQ1Q2R6bEdiNUZHYnc5aU0yUjNMRlpWU005MVVNaDBMeU0xTHlSbkx0OTJZdVFHZGw1bUxobEdabDEyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2byqxkD.png" group-title="TURKEY",Teve2 (Opt-2)
+PT1BTzFOVGJ1Z1haazVXYWZkMmJ5QjNMd0FETXg4aU0yUjNMRlpWU005MVVNaDBMeE0xTDJSbkwwVm1idUYyWnZSbUwzVTJaa1ZHYnZOM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4a8See.png" group-title="TURKEY",TGRT Belgesel TV
+PWdUZHowbUwwTlhhc2xYWXNCM0x3TVRMbFpYYXNwRGR6eFdiaDlDYmxOWFpueFdaaTlGZHlkR2R2VXpNNUVqT3Q5Mll1Y21icFIyYmo1V1p0RldaeVIzY3VFamJrTjJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="TURKEY",TLC (Opt-1)
+PT1BTzFOVGJ1SVhkMHgyY2ZCRE13Z2pNeklqWWZSM2NweDJhdVZIYWo5Q2JwMTJjdVlIZGp4R2R2MDJiajVpYmtOR2RsdDJZdkpuTG5wR2VuRldPaEIzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="TURKEY",TLC (Opt-2)
+PWdUZHowbUx5Vkhkc05uTDBOWGFzdG1iMWgyWXZ3V2F0Tm5MMlIzWXNSM0x0OTJZdTRHWmpSWFpyTjJieTV5WnFoM1pobFRZdzl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jf1IZv5.png" group-title="TURKEY",Trakya Turk TV
+PWdUZHowbUx2WUhkckpYZDBGV2VyRm1jMDlpZDB0bWMxUlhZNXRXWXlSM0wxTVRPeG9UYnZObUxobEdabDFXZHJKWFl1VW1kcHgyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9Ea6217.png" group-title="TURKEY",TRT Belgesel
+PWdUZHowbUx5VkdkekZXYnZVRE54SURPeEFVTWZ4VVJUVjBSTVZrUVVKRlZ2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0WUhkcHhtYmhOR2R5UjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RC22CHJ.png" group-title="TURKEY",Tuzla Web TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2NrTm5MbFpYYXM5aWQwSldaM0ZHYjZWSGR2VXpNNUVqT25KM2J1RVdla1ZXYjBWbWJ1WUhkaVYyZGh4bWUxUjNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J2yZsEW.png" group-title="TURKEY",TV4
 NFUzTXQ1Q2R6bEdicjVXZG9OMkxzVldiaEpYWXI5Q2JsMVdZeUYyYXYwMmJqNWlia05tYnQ1Q2J1MWlidDl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kO0yeE.jpg" group-title="None",Türkiyem
-PWdUZHowbUwzVWpNM0lETzBFVE0zOUZkemxHYnI1V2RvTjJMeFFuYmhKMkwyUlhibGxYYXJKWGQwOUNkbDVtTGhsSFpsMUdibEpYWjVsR2R5Rm1MeWNYWTM5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="None",UçanKuş TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gmt8C3J.png" group-title="TURKEY",TV 41
+PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTHhRamQwcERicDEyY3ZFRE4yUjNMMU1UT3hvVGJ2Tm1MdGwyY3B4V2FpMVdhenRXWTA1U2JoVm1jME4zTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhoxIPl.png" group-title="TURKEY",UçanKuş TV
 PT1BTzFOVGJ1TVhkcjVXWWpWM0x6VjNhdUYyWTE5U2J2Tm1MM1ZtYnVSMll1VW1kcHhXTHpWM2F1RjJZMTl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="Kids",Zarok TV
-PT1BTzFOVGJ1Z1haazVXYXZJbU13RTJMNUZHYnc5Q013QURPNmtqTHlBak11SWpOeDR5TXhJekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6Spy5VG.png" group-title="TURKEY",Vuslat TV (Opt-1)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkMEZHYnpWbmR2VW1kcHgyTDFNVE94b1Ridk5tTDJSWGFzNVdZajV5TXVsV2VobDNMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Spy5VG.png" group-title="TURKEY",Vuslat TV (Opt-2)
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkMEZHYnpWbmR2VW1kcHgyTDBWbWJ1czJZdnhXYmhWbWMwTm5MNGNqTmlSek1rUlRZaU5XTzE4eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9k33o3k.png" group-title="TURKEY",Woman TV
+PT1BTzFOVGJ1WUhkdGQzTDJSWGIzOXlicDV5Y3BCbmR1RURNejl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEKxk0v.png" group-title="TURKEY",Yaban TV
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkdUZtWWhsM0x4VW1kcHgyTDBWbWJ1czJZdnhXYmhWbWMwTm5MNGNqTmlSek1rUlRZaU5XTzE4eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yegcMCd.png" group-title="TURKEY",Yildiz TV
+PWdUZHowbUw2bEdac2xXZXc5bWJwTjNMNmxHWnNsV2V3OW1icE4zTHZsbUx6bEdjMjVTTXdNM0x2b0RjMFJIYQ==
+
