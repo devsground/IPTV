@@ -1,0 +1,169 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Test",Test DASH
+https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Test",Test HLS
+https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Test",Test MP4
+https://html5demos.com/assets/dizzy.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Test",Test Widevine DASH cenc
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Test",Test Widevine DASH cbc1
+https://storage.googleapis.com/wvmedia/cbc1/h264/tears/tears_aes_cbc1.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Test",Test Widevine DASH cbcs
+https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Clear DASH",HD (MP4, H264)
+https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Clear DASH",UHD (MP4, H264)
+https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_uhd.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Clear DASH",HD (MP4, H265)
+https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Clear DASH",UHD (MP4, H265)
+https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears_uhd.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Clear DASH",HD (WebM, VP9)
+https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Clear DASH",UHD (WebM, VP9)
+https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H264)",HD (cenc)
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H264)",UHD (cenc)
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_uhd.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H264)",HD (cbcs)
+https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H264)",UHD (cbcs)
+https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs_uhd.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H264)",Secure -> Clear -> Secure (cenc)
+https://storage.googleapis.com/exoplayer-test-media-1/widevine/tears_enc_clear_enc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (WebM, VP9)",HD (cenc, full-sample)
+https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (WebM, VP9)",UHD (cenc, full-sample)
+https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_uhd.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (WebM, VP9)",HD (cenc, sub-sample)
+https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (WebM, VP9)",UHD (cenc, sub-sample)
+https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears_uhd.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H265)",HD (cenc)
+https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (MP4, H265)",UHD (cenc)
+https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears_uhd.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",SW secure crypto (L3)
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",SW secure decode
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HW secure crypto
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HW secure decode
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HW secure all (L1)
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",30s license (fails at ~30s)
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HDCP not required
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HDCP 1.0 required
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HDCP 2.0 required
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HDCP 2.1 required
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HDCP 2.2 required
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Widevine DASH (policy tests)",HDCP no digital output
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="60fps DASH",HD (MP4, H264, Clear)
+https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-clear-1080/manifest.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="60fps DASH",4K (MP4, H264, Clear)
+https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-clear-2160/manifest.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="60fps DASH",HD (MP4, H264, Widevine cenc)
+https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-wv-1080/manifest.mpd
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="60fps DASH",4K (MP4, H264, Widevine cenc)
+https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-wv-2160/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="HLS",Apple 4x3 basic stream (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="HLS",Apple 16x9 basic stream (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="HLS",Apple master playlist advanced (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="HLS",Apple master playlist advanced (FMP4)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="HLS",Apple media playlist (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="HLS",Apple media playlist (AAC)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="SmoothStreaming",Super speed (MP4, H264, Clear)
+https://playready.directtaps.net/smoothstreaming/SSWSS720H264/SuperSpeedway_720.ism/Manifest
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="SmoothStreaming",Super speed (MP4, H264, PlayReady)
+https://playready.directtaps.net/smoothstreaming/SSWSS720H264PR/SuperSpeedway_720.ism/Manifest
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="IMA sample ad tags",Single inline linear
+https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="IMA sample ad tags",VMAP midroll at 1765 s
+https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="IMA sample ad tags",25s
+https://storage.googleapis.com/exoplayer-test-media-1/mp4/android-screens-25s.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="IMA sample ad tags",10s
+https://storage.googleapis.com/exoplayer-test-media-1/mp4/android-screens-10s.mp4
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="AV1",SD (WebM, Clear)
+https://storage.googleapis.com/wvmedia/2019/clear/av1/24/webm/llama_av1_480p_400.webm
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="AV1",SD (WebM, Widevine cenc, L3)
+https://storage.googleapis.com/wvmedia/2019/cenc/av1/24/webm/llama_av1_480p_400.webm
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="AV1",SD (WebM, Widevine cenc, L1)
+https://storage.googleapis.com/wvmedia/2019/cenc/av1/24/webm/llama_av1_480p_400.webm
+
+
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Dizzy (MP4)
+https://html5demos.com/assets/dizzy.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Apple 10s (AAC)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/fileSequence0.aac
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Apple 10s (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/fileSequence0.ts
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Android screens (MKV)
+https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Screens 360p (WebM, VP9)
+https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-vp9-360.webm
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Screens 480p (FMP4, H264)
+https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Screens 1080p (FMP4, H264)
+https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Screens audio (FMP4)
+https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/audio-141.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Google Play (MP3)
+https://storage.googleapis.com/exoplayer-test-media-0/play.mp3
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Google Play (Ogg, Vorbis)
+https://storage.googleapis.com/exoplayer-test-media-1/ogg/play.ogg
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Google Play (Flac)
+https://storage.googleapis.com/exoplayer-test-media-1/flac/play.flac
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Big Buck Bunny video (FLV)
+https://vod.leasewebcdn.com/bbb.flv?ri=1024&rs=150&start=0
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",Big Buck Bunny 480p (MP4, AV1)
+https://storage.googleapis.com/downloads.webmproject.org/av1/exoplayer/bbb-av1-480p.mp4
+#EXTINF:-1 tvg-logo="https://img.apksum.com/8d/com.appsgallery.lite.iptv/1.3/icon.png" group-title="Misc",One hour frame counter (MP4)
+https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4
+
+
+
+
+
+
+
+
+
